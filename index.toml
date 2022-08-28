@@ -1578,18 +1578,13 @@ hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
 metafile = true
 
 [[files]]
-file = "mods/fastload.pw.toml"
-hash = "7815dd9cf274a1f399ff8827ebce11e6e5bef872e4221410d4c475680bf18284"
-metafile = true
-
-[[files]]
 file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
 hash = "44c2de08592e5c0dad820b217b0fd332db0757a344796f1e01806cfe881206bc"
 metafile = true
 
 [[files]]
 file = "mods/ferritecore.pw.toml"
-hash = "5cc2822b0265c3f8202bf41f814e96fb6ff41c86159322bb05bb13d8babc0234"
+hash = "488fbdc4a13b02c6e797bb03c281870eaf68a45fa587d01c0c33d3f5e706024e"
 metafile = true
 
 [[files]]
@@ -1924,7 +1919,7 @@ metafile = true
 
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
-hash = "e450e4d9c6b32ffa74f7d6869bd166a29e4b6449852a8688573c69d58f9b7446"
+hash = "2949b6aa6a77f5a2ac2d5f7c43edcab14da240a13e29a0d1923b88ae70242bb4"
 metafile = true
 
 [[files]]
