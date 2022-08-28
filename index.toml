@@ -1323,11 +1323,6 @@ hash = "089ff047dee1d43218bd42c2175104186255923d46432674a37fb9d705dacfa7"
 metafile = true
 
 [[files]]
-file = "mods/borderless.pw.toml"
-hash = "b0ee357b8abc7cbad0d793acd0be87d4d34c1a06a3cc6cb5d37719a691aed525"
-metafile = true
-
-[[files]]
 file = "mods/botania.pw.toml"
 hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
 metafile = true
@@ -1533,11 +1528,6 @@ hash = "31fbd4d3ddf9770d8fad73b7b49450a73829c24b2447459e144c038e0a7df11d"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-view.pw.toml"
-hash = "0b395fc14d7d19522be74ea1817af86cf86db00f90722a17555da073c65855cf"
-metafile = true
-
-[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "076fc5c9ce30521075695baaa5ad1692098fed0545411932c5304ce4b6a8e370"
 metafile = true
@@ -1555,16 +1545,6 @@ metafile = true
 [[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "7129dd0baa2447cfc50176833dbbd70cb0b27a9918f7c1e7b68ee22a2fc339be"
-metafile = true
-
-[[files]]
-file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "50055db9965c9f7995eb2cf489bbe085c45801e8fda7a684547dd63788108ce2"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "7becbc1a164ee7edf869baac24f0dd2652cc007bfbe11c61deccf1e931226c8f"
 metafile = true
 
 [[files]]
@@ -1590,11 +1570,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "3226b84f654ab5db4e3b261d511c40719bf23481ddff853bfb6e33af11a5ab51"
-metafile = true
-
-[[files]]
-file = "mods/farsight.pw.toml"
-hash = "b8f1ed5ec382ab2fe868bb07bcef9364f3afaf17cb72afc3051842c96089b76b"
 metafile = true
 
 [[files]]
@@ -1625,11 +1600,6 @@ metafile = true
 [[files]]
 file = "mods/forbidden-arcanus.pw.toml"
 hash = "a1043471f97c43e1f70ba9217208233495924ffc83e2b84652a433c3bae3f854"
-metafile = true
-
-[[files]]
-file = "mods/fps-reducer.pw.toml"
-hash = "f8f12d06f6b8dc0848774bbc9cb1b4b60ddea7d6380e5d8c51af9fcf96a40bff"
 metafile = true
 
 [[files]]
@@ -1823,11 +1793,6 @@ hash = "b6d7f45860db011709514ab1009c8bf7a14756f04515e2786db205e748298402"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "b5385a79aac3ae8bb708f707b66213125bc7569654ef8da9365164f7abbeec6f"
-metafile = true
-
-[[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
 hash = "f57f59a9377907c651b1352578b379a3bf4c76087818ad3a9749052d150a192c"
 metafile = true
@@ -1840,6 +1805,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "46bb8bcb817b0d2db855d7eeefb996a2f22711a2134a9d1e1ebaf2892030310d"
+metafile = true
+
+[[files]]
+file = "mods/optifine.pw.toml"
+hash = "5cf84eb5a718152f0a1fe5c03b42464c273b93aa5894b1b795b74c1e3df99c4a"
 metafile = true
 
 [[files]]
@@ -1888,11 +1858,6 @@ hash = "261ced73a72ed7f5432e4a4dad40c4be9c37728bb53e7edc541746d761f29513"
 metafile = true
 
 [[files]]
-file = "mods/recast.pw.toml"
-hash = "c9f91c283b6619ce7bfb9ced7f2376226c531ff3a74d07efc39f78c246eef9e1"
-metafile = true
-
-[[files]]
 file = "mods/redstone-pen.pw.toml"
 hash = "0e6a0f0e1cbc6691ac8df683314e05a92d811c62b4633b5443908ec01ac81148"
 metafile = true
@@ -1905,16 +1870,6 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures.pw.toml"
 hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
-metafile = true
-
-[[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "c33db3f33e1ec63ede938b59c214f19a335673a93cf92c77c1d495cff64e1690"
-metafile = true
-
-[[files]]
-file = "mods/rubidium.pw.toml"
-hash = "23f8e7273ed94a07a172e3a5f89d3488dd1ca9ee6d04598814054f96b0db6cf0"
 metafile = true
 
 [[files]]
@@ -1970,11 +1925,6 @@ metafile = true
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "e450e4d9c6b32ffa74f7d6869bd166a29e4b6449852a8688573c69d58f9b7446"
-metafile = true
-
-[[files]]
-file = "mods/starlight-forge.pw.toml"
-hash = "a90fd4fc46dd94ba813e501ac2e25e68a28ee4131959f0236f66aa26e6b41f3d"
 metafile = true
 
 [[files]]
