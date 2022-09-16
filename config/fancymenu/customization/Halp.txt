@@ -1,0 +1,178 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  x = 104
+  action = movebutton
+  y = 60
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  x = 104
+  action = movebutton
+  y = 90
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = top-left
+  x = 321
+  action = movebutton
+  y = 270
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = vanilla_button_visibility_requirements
+  vr:showif:singleplayer = true
+  vr:showif:multiplayer = false
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  x = 0
+  action = movebutton
+  y = 60
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 99
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -101
+  action = movebutton
+  y = -40
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 202
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 140
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 13518fa6-c72c-412b-9c35-248842a5924d1661039142263
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = dc00ce49-c008-446e-99f3-4bce84745ef41661039142272
+  y = 267
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 320
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = b8f77afd-76a5-4fa1-a5dd-a42c22b4c7aa1661039142273
+  y = 289
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 377
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 02c27bf5-23f1-4abb-99c7-4beb21d461551661039142273
+  y = 175
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 137
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 27954061-00e8-48ac-984b-974b2d0c899e1661039142273
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = false
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 28d1055d-2347-4adc-ac7c-55a53f08e29f1661039142273
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  label = Multiplayer
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  x = 0
+  width = 202
+  actionid = e7359723-87e0-4aad-9142-426ada11f3e71661545233024
+  action = addbutton
+  y = 30
+  value = net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen
+  height = 20
+}
+

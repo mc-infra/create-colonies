@@ -2,15 +2,511 @@ hash-format = "sha256"
 
 [[files]]
 file = "Makefile"
-hash = "98f5fcd94703ed2181882aeeb32af77877d94a0a38811e6919e7ebb37cda89d8"
+hash = "5183fca6554846d549cd1df9e7d68888cd808d922868deb7729077a8406295f2"
+
+[[files]]
+file = "config/CBMicroblock.cfg"
+hash = "a8b9978b0b57003263de3f4e2abe6dc4b0abb412b9782796281db21670a2f7c7"
+
+[[files]]
+file = "config/ChickenChunks.cfg"
+hash = "56eba4fbecafd76d33e3ef3ec278f0b298df2b1312a61ca70559424b4f3dc552"
+
+[[files]]
+file = "config/Mekanism/additions.toml"
+hash = "6d5273c169f18ea14de6b9f8b2640226ce06b20a17b0acecd92505781a2005b6"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/aiimprovements-common.toml"
+hash = "dc174a3ddfba7dcd0666506656dbfc86af5cd7fbb54cecfa53ab0e12afab1718"
 
 [[files]]
 file = "config/akashictome-common.toml"
 hash = "711b53644097b632037eb8d8de9682b5a440aaa07d9ae7d983cc12597fce0259"
 
 [[files]]
+file = "config/appleskin-client.toml"
+hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
+
+[[files]]
+file = "config/appliedenergistics2-client.toml"
+hash = "8d7e91306e5f4acffc6e5a4fd597b3e0d0acaf8c93641511f80a120d7f0fcf90"
+
+[[files]]
+file = "config/appliedenergistics2-common.toml"
+hash = "4372b4633ca643cb78b430cf32d1c9f3d3efe41e09a1398bdbb4decbc45719e5"
+
+[[files]]
+file = "config/aquaculture-common.toml"
+hash = "f7866fc13a97d0211da41892541f09ec4bbd9a72e7afb3bc9623aee3cef1fcbf"
+
+[[files]]
+file = "config/archers_paradox-client.toml"
+hash = "fb0393bce1d264da925ecc6e9d2e30e7de8c7f7d80b4304d6850128e24655f8a"
+
+[[files]]
+file = "config/backtools.toml"
+hash = "bdb60735e5d1209f800e7fa1ca26488bd8d29277ed44a5c752cb0c84d5f0e735"
+
+[[files]]
+file = "config/betteradvancements-client.toml"
+hash = "9376911f8431f28c6d7cef493ac8466491a79961793096385ad2e88aea4ffdf2"
+
+[[files]]
+file = "config/betterburning-common.toml"
+hash = "a1e5ed2358413eba913387db4a4f714d8e13619ceb9056aa0b4fd058021acb3f"
+
+[[files]]
+file = "config/blockcarpentry-common.toml"
+hash = "703d8517c6aa5f598d4822b48cd0594d7580b6eec14f787fde459f2d88bc48bd"
+
+[[files]]
+file = "config/buddycards-client.toml"
+hash = "3944d5df9a4c2c7cf877ac88ddfb67fe11aadea3939a2eb91b69299f9391a7bb"
+
+[[files]]
+file = "config/bwncr-common.toml"
+hash = "7ee71a1ff11c0c5adfe2040c61d740c749179581f5a2f79043a500572d5109b9"
+
+[[files]]
+file = "config/cavebiomeapi-common.toml"
+hash = "1f1f4c9acc9d357aabc749907284d5aa6f4ca4ff696e795272657338551bb3cc"
+
+[[files]]
+file = "config/cavern-common.toml"
+hash = "0372feb871a6de6a4881dc5fe7208cde5b36f8c446fd68788fe99bc04b7991e2"
+
+[[files]]
+file = "config/ccl.cfg"
+hash = "e775804f263a5ff8622f7d5880f977eeda2b4f7a45c0e73eb061b154d23cc682"
+
+[[files]]
+file = "config/chiselsandbits-client.toml"
+hash = "6ea45dc73e071831108a02feaffd10c43dabda1cdc54682c1b000ad2af694201"
+
+[[files]]
+file = "config/chiselsandbits-common.toml"
+hash = "e2010c8cd87c32b0f97334cbb3f3fcbe1801b10063d2ae72f57b9cc26748efb1"
+
+[[files]]
+file = "config/cobblegenrandomizer-common.toml"
+hash = "18ed7a394ac050ecde9339e3cbedde175b49b7cd3990a94367ace00535fedfe8"
+
+[[files]]
+file = "config/cofh_core-client.toml"
+hash = "e5770761fa49e61b38f5c0fc2e713f97b044a834cb773733239d775748d6756b"
+
+[[files]]
+file = "config/computercraft-client.toml"
+hash = "b68218c31bae20db566d9da8cbc1839a1feec2dfa82cf52fe60d97ca68d04f11"
+
+[[files]]
+file = "config/configured-client.toml"
+hash = "a2af99b080cf9668f4bf7838f7d1769b2cc4bf5e8f21a3144bdffe6841d76a91"
+
+[[files]]
+file = "config/connectivity-common.toml"
+hash = "4f93594b479374a414088d700ee347694f0b8aeeec88019d6093422ee3d3ea34"
+
+[[files]]
+file = "config/constructionwand-client.toml"
+hash = "49dab16d69ef53b3846431d403918762dc0b22a4efba307c80894eeec64a1118"
+
+[[files]]
+file = "config/cookiecore-client.toml"
+hash = "738d457e0aa9f0e5c67248a24f071dc25d7342cf965c47e93f9ca5c430ecce4a"
+
+[[files]]
+file = "config/cosmeticarmorreworked-client.toml"
+hash = "65cb953917745b54e457acd047257ab452a567875e4c8589d2b8705f52c2877a"
+
+[[files]]
+file = "config/cosmeticarmorreworked-common.toml"
+hash = "4856cc7ed5b933aa1f05f84b84451fbc3db06b85d538d18c4db3b3b270721592"
+
+[[files]]
+file = "config/craftingtweaks-client.toml"
+hash = "1b585a9754d011ab9cc49c2b6637ed2be68204cd52886c0050710f6bad3d339b"
+
+[[files]]
+file = "config/craftingtweaks-common.toml"
+hash = "5f162c1b1f3ed2cb35ce5be5ab87d04fa55fef02f8bc7728aabfca675b4c07e6"
+
+[[files]]
+file = "config/create-client copy.toml"
+hash = "b93a4599e90aa93810ca0fff70b17078640cbbec049da8c499ea94d26e1d6fd8"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "780dd9aa89e7682a0adda41b58a6abe1b522dabb75ce6424e4c98a7f3b0d9064"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "de8a81bd705f70b09014566b85a823f96545940bc353b60e8e4d63c99d2e1885"
+
+[[files]]
+file = "config/createaddition-common.toml"
+hash = "99ab247c64b3381f20b5033f54a15a578d01dad544c12c06d2ff3abffb33816c"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "b38ea260cde0a1b5d176abc4c5c7ac0f11ff30c972d0ff9cb66c129c4fed67fd"
+
+[[files]]
+file = "config/custom-micromaterials.cfg"
+hash = "99f966a43332756d55420d4fd7ded3221dd6465aa268b8f5e4c0a643b2995a91"
+
+[[files]]
+file = "config/darkerdepths-common.toml"
+hash = "1c30e39a9f5ae3ad7caa8a708cf28deee914bc0648e841535bdd50b59a1edf66"
+
+[[files]]
+file = "config/decorative_blocks-common.toml"
+hash = "45935895d117bb33a0495c5c2c129a3c8c8d328b3c225fb808ba48a0b57c7108"
+
+[[files]]
+file = "config/defaultoptions-common.toml"
+hash = "02a3e1b7896f271e2d49fa940b7385cece07c8d9f40004272bc2015f892f3027"
+
+[[files]]
+file = "config/dice-common.toml"
+hash = "5902adf05fba1dedd6b56c82731595861237994da81e57ba7a95bfd7946bc917"
+
+[[files]]
+file = "config/dungeon_crawl.toml"
+hash = "26ddc5e2603d31da103b3a836c0fcc144efa97d69177649add1ee4b0bd951809"
+
+[[files]]
+file = "config/endergetic-common.toml"
+hash = "bf0b9695be02081947e0702335844755ee28f8538722d181184e9557c9762b89"
+
+[[files]]
+file = "config/exoticbirds-common.toml"
+hash = "55be3bb7bb91e78d8bb8de80ef2cb1b0ebf405284052721685da5f6677d6ec6a"
+
+[[files]]
+file = "config/extcaves_config.toml"
+hash = "dacd8ab4786f3ed8ace69cd398d3b33a293708c19cc79e81b67260955a2e9f00"
+
+[[files]]
+file = "config/fairylights-client.toml"
+hash = "cad5874b33ea848d77bd11f0a7d78b2d0ecbb05cad6d4451d702cc357c37d33e"
+
+[[files]]
+file = "config/fairylights-common.toml"
+hash = "61078cc778b4049c259a0bc2e1ba809306e39cc90dffd59c6f9855aabacd52e0"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "54f474ca20074ee48438564ea1b321b1bc9d7bb7fc2261b4662c24fcb6d4c050"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "33a7538189b104668ba576efd64da9f2dfba1a8ec5e63c99a95eb2085175633a"
+
+[[files]]
+file = "config/fancymenu/customization/Accesibly.txt"
+hash = "fe6e83aa01b4a1afa139a99edeb652405e03aba7b21d8ef4a97ad9dc155a2309"
+
+[[files]]
+file = "config/fancymenu/customization/Connect.txt"
+hash = "ae504dac9edb6dd43958cb1e60323b5bd9e979d5f0448b6097320d7148517160"
+
+[[files]]
+file = "config/fancymenu/customization/Controls.txt"
+hash = "321f0a66fa7fc833f49557b01aa4e570802cfd7cbe011072bbbb88b0c40425c7"
+
+[[files]]
+file = "config/fancymenu/customization/Generation.txt"
+hash = "17ecfed75374935d87aed2becbb27d681505f258a063984837ec2725e9bb4596"
+
+[[files]]
+file = "config/fancymenu/customization/Halp.txt"
+hash = "ee71b9b2131610f2242d90ea80b1319d52dbac618d91da27a91e6ac3963951a6"
+
+[[files]]
+file = "config/fancymenu/customization/Ingame Menu.txt"
+hash = "2f8eafa1e168f6191728cff301d144538a026cc0077cfecd920200b7d1213387"
+
+[[files]]
+file = "config/fancymenu/customization/Language.txt"
+hash = "31c598c6dd9553dece0bc16203b0d71154bbb270e6936834b9c804be1d744738"
+
+[[files]]
+file = "config/fancymenu/customization/Patreon.txt"
+hash = "5db3c0d355a333d61eac42666fd8b2d5f8c1f1d72d4f03e22136e236c07ae6b4"
+
+[[files]]
+file = "config/fancymenu/customization/ResPack.txt"
+hash = "c468d5316406c6e64f1c6d02d9fe498d0fcdb49addc12a1a68b0814174d9048f"
+
+[[files]]
+file = "config/fancymenu/customization/Server Connections.txt"
+hash = "e3ac1f4476d2bfec3989f3e24451bd5fd82255df4b530bf7fdf0b7c987071bc8"
+
+[[files]]
+file = "config/fancymenu/customization/Settings.txt"
+hash = "cb07cfabe622bb7922a583ca3bb3425056ae418114e61cf73487a72296f47320"
+
+[[files]]
+file = "config/fancymenu/customization/Skin Custom.txt"
+hash = "8a6484f4cbd1708c9ad913429bbe130953ed232eb06fd086f018bef070c6b9a1"
+
+[[files]]
+file = "config/fancymenu/customization/Volumes.txt"
+hash = "e78d6891e72995b907e5b63b3333a9eb3e710f188782978bec4fa4776cfbbea4"
+
+[[files]]
+file = "config/fancymenu/customization/Welp.txt"
+hash = "4350b68916c5db533aabd61bb2525485250b1c619316a19e599b3834637c4f39"
+
+[[files]]
+file = "config/fancymenu/customization/World Generation.txt"
+hash = "069db230df4cf6beabb5377558e5fe7f5895ce50306ab20a71d8774495c01a7c"
+
+[[files]]
+file = "config/fancymenu/customization/World Itsl.txt"
+hash = "99266b166461a1fe5ed666e5683f400fb4ffdd3abd13a787395c09457d6bf22f"
+
+[[files]]
+file = "config/fancymenu/customization/YA.txt"
+hash = "8ede620d908e206699d3dc95114b7d298da2a8cb363f84e0d44b42c2683b79ac"
+
+[[files]]
+file = "config/fancymenu/customization/d.txt"
+hash = "856b9c7be7891c1de90f4cdbff498b096f9c4f2d0611f4a496003137e6c3315e"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "6e22095baeae6bf7a41555cc5d749e74fbd96182d2c8f5976c2c6f351b48b6d5"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+hash = "bc79dd304690f6ddfcf352eff39696ea9b74d3b7a32520ea41734fdf5bd3d7fc"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+hash = "a1c7f520f49203681b0d89db67eb7c568e9ef1caf1d45fb505720e7a1bd5feb0"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_0.png"
+hash = "1bc5a437495ad6c50219664a35e51487f58936f61c7c7d84320c8b359fe394d2"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_1.png"
+hash = "12614ad6bfc0857011706172ac4d979a556b01d603565cb5c5b5cb4af20c58ce"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_2.png"
+hash = "cd27b139d7557d81d52097029ff626e917080a09480340dc205055451bce50de"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_3.png"
+hash = "1d8b833e20afa3ad3e22035ddc7dd9ac1b2e2e9daa896714c202af53e12c71f3"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_4.png"
+hash = "2eaa013f99c4c5f2ffa323cde9119374a84a45143963268c431de25dc6a4c1f1"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_5.png"
+hash = "a630cbb32d4a389630dfa2940b5e68243582b1d23afc8e04cf4df79721496241"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/properties.txt"
+hash = "aa77c970d4ad833cd9802c08f3aa3f5365bd9083fd118c38e7c1998c344c4aa4"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "02dc9ef6a7fae12fe54ccc4eeb6685e7a66e7f0949c9b83c97c11baccde0e0db"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "60bca90897fd2e13a1897ce9ed65274a0547ac110ea9a2450feafcbec46bd86d"
+
+[[files]]
+file = "config/fastbench.cfg"
+hash = "1aacff411e964c8b95791ac3641568159e73697a3e288c7716d5dfecced3f4e8"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "a55f794ef6b37d50af24c7c07afc2565fdef433522614a13c3e6c8c5227b3b5b"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "c552f640891856a9cbaacf326301b274284932d535ac3a8bca76ce8e6959331e"
+
+[[files]]
+file = "config/fml.toml"
+hash = "7b7d580fbddb34b59cfa2b08130e4514d7f84ddf33bd61e03c25299997ab5f4c"
+
+[[files]]
+file = "config/forbidden_arcanus-client.toml"
+hash = "669da474609fdf11dffbb30d0e5702f3e8a8878e04114a5fe9013d30f2a2ee01"
+
+[[files]]
+file = "config/forbidden_arcanus-common.toml"
+hash = "b5b19e9d214312f15ef49d51fc1c04de92f87d167485eb0028581b584f7577ad"
+
+[[files]]
 file = "config/forge-common.toml"
 hash = "288568f9cf2906ca96d5ddfd615151fe9c14296c84de0c8fb46a19cf682b77bd"
+
+[[files]]
+file = "config/ftbbackups-common.toml"
+hash = "cda0b2a546de30ba5c4c3b9c040384728808d2cee4962270a00ec307eb8239d7"
+
+[[files]]
+file = "config/grapplemod.toml"
+hash = "bfcd588ac3e8b9d43d1f57d91b2cb84535f08b5bba780cad3b05f0a0ae857095"
+
+[[files]]
+file = "config/ichunutil.toml"
+hash = "66a5061a60c3f22ae2657163c0b7f380da8ee7e35020545db2af86c7ab7a47ef"
+
+[[files]]
+file = "config/ichunutil/themes/aztec.json"
+hash = "ae26e3cc06ab0777afafa00a62a15b56b71776580c772d36baec57c91cbfffac"
+
+[[files]]
+file = "config/ichunutil/themes/blue&black.json"
+hash = "13e937b3ef6e87e0d550e05322a1e3c5a852ba2bbb0f48f6ef8f43efb2b01626"
+
+[[files]]
+file = "config/ichunutil/themes/blue&orange.json"
+hash = "65d0554b3e760ee5ede915cbd809e8ca945c5572b4cf1edcc826ae265045e1aa"
+
+[[files]]
+file = "config/ichunutil/themes/default.json"
+hash = "cd2f69c46722e3882240dade0afbdf3e0325bfdc3a1a6329c1a25cb9cdee6fdf"
+
+[[files]]
+file = "config/ichunutil/themes/grassgreen.json"
+hash = "8ed32cfc881bc532b79950b089f8d44fec99a7e590a19477aa0379caf4f87724"
+
+[[files]]
+file = "config/ichunutil/themes/green&black.json"
+hash = "29efcbeb05a94b32531f45c8b3575086e2fc1e850a23585e183a07acfce6753c"
+
+[[files]]
+file = "config/ichunutil/themes/lazygray.json"
+hash = "cc20f8cc12e65624a859aa000c3cc02db9a04ad104d99ac098b103be32178c62"
+
+[[files]]
+file = "config/ichunutil/themes/monogeneric.json"
+hash = "1c9418749fb1b6ee96037e3531dc1b3daad889c09d27b3352207560970781f41"
+
+[[files]]
+file = "config/ichunutil/themes/nightblack.json"
+hash = "0525205db2fd868b495bd81b4582ed630485b5b7c5c744a7f71b439311035f7e"
+
+[[files]]
+file = "config/ichunutil/themes/red&black.json"
+hash = "9288fea34624050994b851b618ab4fb8ad483f5a38c62123ebdd632dd6936f99"
+
+[[files]]
+file = "config/ichunutil/themes/skyblue.json"
+hash = "cef4bc0ffa98d3e398dee5dd62fc09833ebaa247998d2122988520944f7c9b1d"
+
+[[files]]
+file = "config/ichunutil/themes/whitelight.json"
+hash = "8a2271c43d2d66ab628d3f6d488e3a9760ca5844c14deedcfc455c2c968f6c5d"
+
+[[files]]
+file = "config/improvedbackpacks-common.toml"
+hash = "7c422bd901841ba89435fc2480fed608673ae1828730c4de491a15aece8ffaff"
+
+[[files]]
+file = "config/infinitylib/config-common.toml"
+hash = "113afa8daac4b701518c590310a810d1888316cd55a7b91e4d8580a33056c74c"
+
+[[files]]
+file = "config/jade-common.toml"
+hash = "618e2ac27e2ffb5543d2985a53bffb2c317429a2220cba8b70cb97c77c7a8a43"
+
+[[files]]
+file = "config/jei-client.toml"
+hash = "956e52a20b3847d36c5d9c70f472d6af39d858e0ce05b8aa7f03dc23ac249aa5"
+
+[[files]]
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/bookmarks.ini"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "8a02baec846097c89832b5976a6eb4254fdd3067ec52017c50322e7a9bf80325"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "f69a986bcb0c8065fc7cb4d7ae26dbf3a16fa49d7d9ca4003e33f4864ca0d798"
+
+[[files]]
+file = "config/libvulpes.toml"
+hash = "c2c2818d9868b377dd507c4498f14166a32a1504a58d4d8fa5888ff6cb3a6f80"
+
+[[files]]
+file = "config/lootr-common.toml"
+hash = "888900b7d5b192448e30b01c4b0df627640a22063f72254ba75e37cd15985b4f"
+
+[[files]]
+file = "config/magicfeather-common.toml"
+hash = "76aa097fe4922dc33bcc5fdf63df8512542014f70b726ad4109a1b421c564027"
+
+[[files]]
+file = "config/mantle-client.toml"
+hash = "4eb31565ff6cb05edf5a4111eef5603f59b9f9a46d3682dd9f537dfe9a53e1cc"
+
+[[files]]
+file = "config/moreminecartsconfig.toml"
+hash = "a39a81a26e907262df8a61bdc710ea3d4be9545ec2cb2d6f85f5def9cc4ba53a"
+
+[[files]]
+file = "config/naturescompass-client.toml"
+hash = "0a6ab48eaea9ca8d3ace6d9724bdae134ba71e310c9cb44b48c5c06de49b9482"
+
+[[files]]
+file = "config/naturescompass-common.toml"
+hash = "5d47dd0a56c005c033f9ccc4318f275ba5c9e89550ae8a69dbc672e11167ef56"
+
+[[files]]
+file = "config/occultism-client.toml"
+hash = "ddeaf320610cef5b40edebfb44f80a806e43e5fe6995686c14a1f2384b40348e"
+
+[[files]]
+file = "config/occultism-common.toml"
+hash = "0a62ebe05450364557585eda3dd64397ce47de1835fe50da13420ebfb86ebafa"
 
 [[files]]
 file = "config/openloader-common.toml"
@@ -269,8 +765,33 @@ file = "config/openloader/data/custom/pack.mcmeta"
 hash = "943c56d551a07951c87c643ff581119e2b728b44beb35990822d711504d6474f"
 
 [[files]]
+file = "config/openloader/data/idas-bop.pw.toml"
+hash = "e6b03065d00b35dcedd127ac590c01ca5da2ca16fc2fb1937387c41fc6ae2e50"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/idas-config.pw.toml"
+hash = "12cc898afa229a7b7ad9cbca0842143b21f39ac05cd6cb0c81dce50881d63865"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-advanced-peripherals-compat.pw.toml"
+hash = "8f693bccea70371254ef5c8152fceb32794fba3f2ccfb1866229022688b387a5"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-better-strongholds-datapack.pw.toml"
+hash = "2ef086ad05b252dba13f27577a7da2b752c4772b07676842df982e9172f73aa6"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-immersive-engineering.pw.toml"
+hash = "326901c31999d0fc161512fe0385a83ee0aed670d1742eea1cae475012245048"
+metafile = true
+
+[[files]]
 file = "config/openloader/resources/better-dogs.pw.toml"
-hash = "940a152d875b2bd27bce8d203a15b5b277091e81feda13a4ed5b8e79ec9108fa"
+hash = "0febf3851c5b6cbe290db65cedb3b7c1788e4e979e7fcc22468b5a929cfc250e"
 metafile = true
 
 [[files]]
@@ -281,6 +802,11 @@ metafile = true
 [[files]]
 file = "config/openloader/resources/computercreate.pw.toml"
 hash = "b32878e3ffc9ecd2c6fc82ca047797ab516f9714442acb9b13622b36496b9d7c"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/create-style-mekanism-pipes.pw.toml"
+hash = "6c7be09c85c8e476c644ad2054b5253aeba36053d8cc8450833adcfd55febcfe"
 metafile = true
 
 [[files]]
@@ -328,6 +854,334 @@ hash = "5efa0795ba4caf73751c2a6e0c7071764e9a6ae36a9b82630330364b53442911"
 [[files]]
 file = "config/openloader/resources/custom/assets/biomesoplenty/textures/block/spanish_moss_plant.png"
 hash = "41920d6fe104a545add0941976aeb850fba7bc8ae6c306b5e192c425bdee0882"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/.DS_Store"
+hash = "5486888497a3a9680c8921bd9cf6673a932c0cd775858da980db448aba11d811"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/models/.DS_Store"
+hash = "12995c7efd22d5b6bca2583b018210c2e5f53917bc3eef71eb8789f3e5cacfdd"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/models/item/gadget_building.json"
+hash = "d33a45ce6763f238dfe78f5b9ab35291e50a4101c4624b8f957ba76ca07cf68f"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/models/item/gadget_copy_paste.json"
+hash = "5e0d2d1b7a7841425c9ea6b57d39138f9b64a64636d2f27fa96d897216ce5802"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/models/item/gadget_destruction.json"
+hash = "5c59ea8c62fa87271a8655bf13fc3f1e85914f94ed89b1e6720f609cc695b447"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/models/item/gadget_exchanging.json"
+hash = "be0032c4464c20958f9ebc191530ce664d42f12e114fb488cd049214d95f2774"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/.DS_Store"
+hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/.DS_Store"
+hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/material_list.png"
+hash = "860cad9066e2bcc3f03ac188bd5b1d0c4453413a4f0a9c201566367587bd7c7f"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/material_list.xcf"
+hash = "f38f6bbec82ffe95beea3e05c6ccc96f70eae1c07b3c11d9542756002b3b0ae0"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/.DS_Store"
+hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/build_to_me.png"
+hash = "224e6b1693e7f35f72eb26eb515c4c8a5494d45fab0fb05bee852bf615c6c735"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/build_to_me.xcf"
+hash = "46a62dfbb69b3118cacd1d7b0b4217e9732e46bce271a3e89878cd4b867e25b2"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/copy.png"
+hash = "436605ff571f6868c4f2586808e4550fc4e542d2ecdee7158386ea6a33d12eb8"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/copy.xcf"
+hash = "0ac88291bd29a52b7fe4285fbaa3d1cb9c33c73f27534c3d4cf3e89abf9f7132"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/grid.png"
+hash = "76ce2427ca5c7a96bcb309b980dcde949b25a8ba7646c490dd61d106fb05b7da"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/grid.xcf"
+hash = "5bd1da70f6b88720bc49fc2a532e9ccd6b98bc6b77f57e0752217946bb2c642c"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/horizontal_column.png"
+hash = "ad51b056ac095240f96d0cd50dcb8cc47db6ffaedfc4d518aa6ab673684d6ef9"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/horizontal_column.xcf"
+hash = "7b12ad3ab7dd628d5804446546cabe53c9010c89e6bae0acc6f4788ffa6eaf4f"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/horizontal_wall.png"
+hash = "fda86396c0872bdb658ea2f2ff29328a3bc4d3d3dd2fce19801eb5f4521b319e"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/horizontal_wall.xcf"
+hash = "aa9c91e9983bd420b0fc80f59f3ad45b4a033c6df0458d966a06b0ebde5483c4"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/paste.png"
+hash = "8764f1fe5c6948b76e5c6ffcc5cb4e60c3775f7cb448ef3f0babf60cf4fef298"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/paste.xcf"
+hash = "7abe62ef0dda14f0befb8d73b1e9033873cf51f8e80d028224ca23c7d067af39"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/stairs.png"
+hash = "57a3082ee5a766af218e6ab2a5ee6bed8a353d838e10547af191a7bc39d848d8"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/stairs.xcf"
+hash = "dd0699cea3be2c6b5234f11cb6ec7d8da12def3dd32c731e4df28577d08f170b"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/surface.png"
+hash = "de2036c891fcf714f0fd6b2aae7d6029cc8c1d9dedc8b6345b0054da082e1cdb"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/surface.xcf"
+hash = "d502e0cbbf12bba902934f20857ff0c5509054164efdd7e49006b8f3419569bf"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/vertical_column.png"
+hash = "2782ebc7125e1c96654f190390c0855790320d0bc20d68492d2ac94bd0f4c7f5"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/vertical_column.xcf"
+hash = "81f380f44c74c82ad73e9d6ec1891367fbe0a280b3a06ddecef23b57ce261912"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/vertical_wall.png"
+hash = "e85debd25e8f1cc64239ead7225380ad96b0ecd0b7fd9b022a202c18f39d0084"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/vertical_wall.xcf"
+hash = "d63c0618b85d57a1a05eff08c4ccf624253677b49f7c00eacec19dc50599cdeb"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/anchor.png"
+hash = "a6945be7ea00016fdd2dadeb3e1455500c4c462a13a24e63dba513a31a0968c4"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/anchor.xcf"
+hash = "97d8e0f953c2d2b2dd376d5217e1029665247b1a69121f54d5db5ffe633e1c90"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/anchor_selected.png"
+hash = "b0515af9c52763a365dc91fab311f1b96b79dd877bee90ab7f6aad75700380db"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/anchor_selected.xcf"
+hash = "14fa6c5b9c7d34027e145013073cb19040143f2cdeaf21d47727fb51ff872af8"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/building_place_atop.png"
+hash = "d8fa5a2279eeb69182cee84a779a48aba6ecddf39824b53447a8f874f104564d"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/building_place_atop.xcf"
+hash = "839683b8e127d4365d3d8addb32bcf50953722c21a54dad9b196bbe24f271b2d"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/building_place_atop_selected.png"
+hash = "2fc351106485d67f2c488ec349bee2723e9334619498c85e9127d21390edb899"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/building_place_atop_selected.xcf"
+hash = "eeaf4ea4460791247e082d09e793691f8f67348b9fa33ac6f80e550559fffb97"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/connected_area.png"
+hash = "49058d42a45e3911b4f8decb95de2fec1f7d3821c11cae01652fd5721d8e8ab5"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/connected_area.xcf"
+hash = "f2b9c053471c599fcac4bc5568e253cee49a3e280b075318d8eafec0c433436a"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/connected_area_selected.png"
+hash = "b637a98df8a5e1cb50ad3f3d0e122f426a3ed654883673b275477370df4dc795"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/connected_area_selected.xcf"
+hash = "a981b8b7d3edcbd903e9b444db2fae00c4daa5c9b94cb1d6c5ec7ee712ba6f2f"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/copypaste_materiallist.png"
+hash = "6baaf3f66042d9f6d4bc081025e3bef57b7831dc12afb08ef924620523897e29"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/copypaste_materiallist.xcf"
+hash = "326b069205f4274286a15d9bc687c8e220af09e78b120d5c569a903beca5bacb"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/copypaste_opengui.png"
+hash = "80fd17a90ea1bbf83497ae103dfad733f4839aa931389ec5f238305c49229ca8"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/copypaste_opengui.xcf"
+hash = "6a81d48edb7631ef9a3284e9d1ca1d35c81ae7790c5c94a3e4df532605644768"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/destroy_overlay.png"
+hash = "c1ce40fe63511b542f58b084da7b0073787c219b5784ddab13314619d78fb702"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/destroy_overlay.xcf"
+hash = "30a70b2b27a8614b6aafa662b90b252157e38bfdd7a75d6152a661621a15fdae"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/destroy_overlay_selected.png"
+hash = "c18ecf21fd758856b0759b680ee2a7506f2891483ce3a5a56a78a85ad34e840b"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/destroy_overlay_selected.xcf"
+hash = "268ddd0ae821de4e943a8a16744c998c7511152d221a4f8ad1f1fc6b19b1ab83"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/fluid_only.png"
+hash = "388b9296ea1cd4cf4a2abbfd97d3986f7b7a319b24b136ecc43fdee2f407743e"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/fluid_only.xcf"
+hash = "c060eeff298579829175ab686e0803811a15d1cf8d91455565bd761e30d88f01"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/fluid_only_selected.png"
+hash = "5687bbdea2f1881937742f7111512d214c5083817e32903086dad55a21f5eef5"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/fluid_only_selected.xcf"
+hash = "78c00818952f9a899a02238e12fb6918a34634bdfe96fa7836c6e3141ccd63ad"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/fuzzy.png"
+hash = "aab6d3ea868910c2bf556ed99afb28781ee866bc6bcd840c1f49fbadcc0e9004"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/fuzzy.xcf"
+hash = "7ab85c4dd0ae88cca85bedc7cae2e03b7954e7bd9143e78e6c1ada422ae0f5a4"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/fuzzy_selected.png"
+hash = "d3a014166edb0ec9804660a19170d5665db160277b0c4ea2ec698019cfdee0a6"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/fuzzy_selected.xcf"
+hash = "27e7c94540b739d849c7ea3c49670ff7c301937290c02d8d9968f0716dde923d"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/mirror.png"
+hash = "0cbc12097c66b02c058fb021c502df6e89dc4d7330d6a1fc4c47ed58a426b086"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/mirror.xcf"
+hash = "518daa3fda40e09fff536539285393788a1ab317585f82684f275b0fd592e3ef"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/raytrace_fluid.png"
+hash = "f510666b5b1168626e71b031b2ab55b703cce070ec36804db229139f2555b6cd"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/raytrace_fluid.xcf"
+hash = "f161f3e58ea1d1fc7bc2d3494e22a920b7e33c74dbf9f8056b8db50e90d5e850"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/raytrace_fluid_selected.png"
+hash = "588df37c611a3425b2a249437b0b897c1e8494ec7e413453868a0c7c53d54a04"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/raytrace_fluid_selected.xcf"
+hash = "9fe5a02c22967efbff53c92be6491feb340395ad12a1ca694f693f83bab79224"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/rotate.png"
+hash = "e152ae28e19d87941f403863a7c01eea2575f1fb73d94b84784887d163db3be3"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/rotate.xcf"
+hash = "85aff16902b38613f166348db47b10e68fd36cf4b101e140ba77646093e7a144"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/undo.png"
+hash = "86f1a34cc699c46b1aad0b9ab6a9d49eb1bdb6f20ad1cc80ec4c1800c7f46fc1"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/undo.xcf"
+hash = "185782abfa35560ecf40fa9067e3987d1e504e8da2cfd5624ec2f2213a41eaf7"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/slot_copy_paste_gadget.png"
+hash = "6cb16263cbf44a7cad7eb65931cb7dbd734c37512dbaec60e85fea17cc4aed69"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/slot_template.png"
+hash = "b091aeeb5f8e006be7a3467032baef76696e68185999e35f7e9ec9566d884a74"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/slot_template.xcf"
+hash = "32f555f41ee04eca2c0566a4e2cfd730462b50c78b884a77ba247c05c66cc7f1"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/template_manager.png"
+hash = "0459c15f01d916fa5a6fb947228819cad3c2a5db2b63bb0de3620feda87614c9"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/items/.DS_Store"
+hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/items/gadget_building.png"
+hash = "da0d30891e1f1a0da7b595dfc26b00060481e068a49d6a2146414f0aaf18d787"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/items/gadget_building_back.png"
+hash = "66bc49c5fa8aa105975f70d5fa9b0e11b950e90b1f5a5742c4f81a81b9b2d2f0"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/items/gadget_copy_paste.png"
+hash = "7ece243be837b2b512ffce184a8c61969d02e2c82d4ac6a5c30fa47cc909c21b"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/items/gadget_copy_paste_back.png"
+hash = "b2cd3a66f22892c187c64ffda43fc4c23064adaf77cccbba18fd07a7878f2e67"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/items/gadget_destruction.png"
+hash = "9ff87d033a01e66ef0dc2096bd79f16b682a35b346e952dd3b35c9ddad9bac2f"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/items/gadget_destruction_back.png"
+hash = "af93d9d010e204f842fa28e123d47ed191f3f0cacb4d71fc9878a52685972563"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/items/gadget_exchanging.png"
+hash = "3f80a1f1c414185f955a374c1f5896e42f96ff6b4b9e07873e2a6a594c16a9ea"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/items/gadget_exchanging_back.png"
+hash = "40f48472119a3c5536731d90b49de123c29a0cc99ff0cb9c31de253b13ac6e81"
 
 [[files]]
 file = "config/openloader/resources/custom/assets/chisel/textures/block/tyrian/plate.png"
@@ -690,6 +1544,14 @@ file = "config/openloader/resources/custom/assets/libvulpes/textures/item/linker
 hash = "6b576a1c9d706691d424b1e6cd3a8e1578e74091a80b5b0168fb1539bd05c65d"
 
 [[files]]
+file = "config/openloader/resources/custom/assets/limitless_rebirth/textures/villager.png"
+hash = "3ad7ade60718251c84ffd244ed91bcb06de11e760aaa8c71597e4ead4b68b59d"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/limitless_rebirth/textures/workbench.png"
+hash = "aa20d47e39206e409bbc78112574839c15f3376a70a0cfe872e149b258f16872"
+
+[[files]]
 file = "config/openloader/resources/custom/assets/metalbarrels/lang/en_us.json"
 hash = "f909891978e744494198e3cfaf2cea0c25237577c1368b675623b767fb6c2ad0"
 
@@ -775,6 +1637,10 @@ hash = "c82125a03710a6f9933ce825885de995c5b06acbc8f3ecdbf8629d73502fdd12"
 
 [[files]]
 file = "config/openloader/resources/custom/assets/minecolonies/textures/icons/recruiticon.png"
+hash = "502de55db3fe122e182eac78fe16c3a93dd9fd7c28a2d300581bb451e26cc413"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/minecolonies/textures/icons/warning.png"
 hash = "502de55db3fe122e182eac78fe16c3a93dd9fd7c28a2d300581bb451e26cc413"
 
 [[files]]
@@ -1189,6 +2055,11 @@ hash = "4378a5c89a58221c3633785b4708eb75c92ad8fc615557a66a0f2d49ea797cc9"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/updated-engineering.pw.toml"
+hash = "78e9207574e02eb2910a3d3adaf7100232f40f5d212c4ef955c3cb52df18ed13"
+metafile = true
+
+[[files]]
 file = "config/openloader/resources/vanilla-copper-colors.pw.toml"
 hash = "0e77d34d201ab65a830ef1487808575432ee7d700e329bc8f32546063b6e6644"
 metafile = true
@@ -1199,8 +2070,440 @@ hash = "9caa583ff6112e5b2f0a9ca3971d6da940b789eb61f549a2c1e49be861e3d64f"
 metafile = true
 
 [[files]]
+file = "config/oretweaker/Info.txt"
+hash = "4d78e293b59eeb1911bb5aa6bd4b599eb10fb9f122925e209ff3a662d17a48f9"
+
+[[files]]
+file = "config/oretweaker/OreTweaker.toml"
+hash = "7a2428e0a52a94128c481f58a0e05969178580dbe4593575b9fde6d574ac97cf"
+
+[[files]]
+file = "config/oretweaker/data/apatite_ore.json"
+hash = "cdd6bada0278307a0e6129fc69229ba8af08f7638f7e789a5c7d2ab1627f3f96"
+
+[[files]]
+file = "config/oretweaker/data/arcane_crystal_ore.json"
+hash = "3006fb12d5f492ac76a38110c62e6359a59e208ca2cf281e605bdd233d7e6b99"
+
+[[files]]
+file = "config/oretweaker/data/aridrock_redstone_ore.json"
+hash = "2c78573052c4f74af1c6552657413aed654e763ab58fac6293ebd85255a7b5be"
+
+[[files]]
+file = "config/oretweaker/data/aridrock_silver_ore.json"
+hash = "b30501c6a336db4e91e64a040f033d8eee1fc333fe374f3d1fdf2364ebdb0fe1"
+
+[[files]]
+file = "config/oretweaker/data/basalt.json"
+hash = "d6d6ea3284ef4d09f46ab8ee51cd2aa9ad7878a8624b27eec02e4d00ea381035"
+
+[[files]]
+file = "config/oretweaker/data/cinnabar_ore.json"
+hash = "440385f91849278d0ef9b6655c660f018c468ce8f60fb108cbe29f23259295c0"
+
+[[files]]
+file = "config/oretweaker/data/emerald_ore.json"
+hash = "86c3bf3e1baccd5245859f9f7e30fcf67aa4dc3bacac09c541857e66518848d3"
+
+[[files]]
+file = "config/oretweaker/data/lead_ore.json"
+hash = "b0f9296e3285ee66d9659b10a7967b023ee13f5e980d9c3f88bf1d141bb0e5d4"
+
+[[files]]
+file = "config/oretweaker/data/limestone.json"
+hash = "d224dc81a49c1b9d57bbc4f406b79b51b13abee971ce35efc1457d28d2065c70"
+
+[[files]]
+file = "config/oretweaker/data/limestone_redstone_ore.json"
+hash = "6392c86a090bfad0dee57c983754b9ed2c488dd8852d09421751658a5bebd0da"
+
+[[files]]
+file = "config/oretweaker/data/limestone_silver_ore.json"
+hash = "5c06ac6677c2957f705977a5ab97c7f26dab6f960eb42d013c6a33cf58ff2684"
+
+[[files]]
+file = "config/oretweaker/data/marble.json"
+hash = "f9931c4b6a1016c87fed795e1429e3f72268fc198b9e1f3ddd72b3496181bd30"
+
+[[files]]
+file = "config/oretweaker/data/nickel_ore.json"
+hash = "0ef51c651b6d6641ff85fe004b30a04afe4d13956f3a841216a69ae48b2bcf33"
+
+[[files]]
+file = "config/oretweaker/data/niter_ore.json"
+hash = "2d86e88f43f0f33b3041a3465cf295adea3a10d1ce12b7a6e55762feec21f594"
+
+[[files]]
+file = "config/oretweaker/data/quartz_ore.json"
+hash = "8228589f0b1ac52916ac86c2c92319ea0c1235d24e7b2159b3f41545cc7a816d"
+
+[[files]]
+file = "config/oretweaker/data/randomium_ore.json"
+hash = "d0aac0dcc99b78fc2e95417773937a8a448c3af44c858fd4ffe8357d630e888a"
+
+[[files]]
+file = "config/oretweaker/data/redstone_ore.json"
+hash = "5c75186b5d1d024291cfb1a8592cb606fe3eff1c722c07a786463fcbe836e940"
+
+[[files]]
+file = "config/oretweaker/data/ruby_ore.json"
+hash = "b6d1b5af0fef53535b1a6c30592419b2b941aca0254ea85913356969e9a09381"
+
+[[files]]
+file = "config/oretweaker/data/sapphire_ore.json"
+hash = "3b7be16d7fbaa7005ed505de18393c15c3bd0a14e24213e5871f2859fbc46ab2"
+
+[[files]]
+file = "config/oretweaker/data/silver_ore.json"
+hash = "51f7681a84ffd9fb87ec0f774ba43f3e423dfc4bf8f1e34793bedab361d43261"
+
+[[files]]
+file = "config/oretweaker/data/xpetrified_ore.json"
+hash = "82925a491f92173523d48a1f0912463953b09921605e8104565e1665ccc9ea42"
+
+[[files]]
+file = "config/oretweaker/templates/collectives/default.json"
+hash = "0ddae6ecc61ad7bad8ac1d061e5c59802d9e560c05e772e743d19951ff4c1616"
+
+[[files]]
+file = "config/oretweaker/templates/collectives/default_nether.json"
+hash = "b64a5dbde2513170fc2744497ecc7d50973b0da7df2f21e5a59bcd23ecc79568"
+
+[[files]]
+file = "config/oretweaker/templates/collectives/default_overworld.json"
+hash = "aa277b6a22d843f3cdf8ce7d1d74d6face91808294f23232a478740ad21701a3"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/ancient_debris.json"
+hash = "5240d8c40a7fa3d22734d5e8047cbf86a613fe99ad83328cfa7696ab53e71d8e"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/andesite.json"
+hash = "77788836bfa65ed20d5c0b9a9b67e43ab739b5bfee3388e2f8912c3913ab5ad6"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/blackstone.json"
+hash = "1a8ff330ed7a62566702fd654853c2b9633063b486e374242e80c647e6ce7977"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/coal_ore.json"
+hash = "72ece77cb098dc2bf7ae18b74c4ecf576cc99aef2cd82e2de692ef13c9bf1704"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/diamond_ore.json"
+hash = "077d3f795d0d1d6dbb8336a3161267b49bb07650a69eddf1c2c04558dc58cd3b"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/diorite.json"
+hash = "60ac807864df87135551252e582e0129189ec38d9a8b717f0a850fbbea579c8c"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/dirt.json"
+hash = "77bb133c272c8aad03ff0880d8c08ff54a210dadff9c785a745e6fdb4e96e531"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/emerald_ore.json"
+hash = "ec3318fc85825dc72f9dd1df63f387b9a3e70440509e50b68d22553c6692a6e2"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/gold_ore.json"
+hash = "69817326796fcb8d648f03ac843ee25936169e078899eb2d30115b9afac4001a"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/granite.json"
+hash = "9555ffb6661845088adcff3448d21fcdb49222bfd87761613578d28c2ce03cf4"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/gravel.json"
+hash = "648a977c974493110eccbd0a8b42e0a9473e1fd6d0e867c31ee9416d08ee99ac"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/infested_stone.json"
+hash = "1fdb2674b746c51911c77f6e9e5c3c5139f16de7fe0dd9c53c45f2f4897ebe3f"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/iron_ore.json"
+hash = "9e2398ef50624edfeaeb9472de2e9940010a24fef7c7094f4029e92d1df38c78"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/lapis_ore.json"
+hash = "46f04de573490a428cf128b903224f05021881d33fc52ebc75e4da4785f8c4db"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/magma_block.json"
+hash = "cf960100642eb52a800e0259de2d96b1e647939a89257cb32313a9193ef47187"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/nether_gold_ore.json"
+hash = "c5e8ff391af9d48cfb1755e82ec44d5fa5376f03f77aae87f49c0237954c8024"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/nether_quartz_ore.json"
+hash = "d395ae695e0ee0379af06869c06cf70e95b2c01839d5df1456e6f60c14c02462"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/redstone_ore.json"
+hash = "59187dd1ede7366781f42cef54dc6b5fa5f635ad213d96a258e130d4a0b48c95"
+
+[[files]]
+file = "config/oretweaker/templates/defaults/soul_sand.json"
+hash = "874459d8d3c5295df179b42f89892daf309a935fe72c8094e266635410c852b2"
+
+[[files]]
+file = "config/oretweaker/templates/other/fuck_silverfish.json"
+hash = "0b64fe3c6c6c7933829df010fb524afe8696f7671abee208af3c716e2792cf5a"
+
+[[files]]
+file = "config/oretweaker/templates/remove/remove_everything.json"
+hash = "91bb946be9647fb392a053cee87c67a836c87cb645ed57af9dc1b9e545f6d272"
+
+[[files]]
+file = "config/oretweaker/templates/remove/remove_everything_nether.json"
+hash = "0545c9802120d153c264283ce36d7b55f23560179fb7cdd471ea0d32bb0989e2"
+
+[[files]]
+file = "config/oretweaker/templates/remove/remove_everything_overworld.json"
+hash = "3a1bb54a4d4c29057efc8a9a02a28f219e6d9ab776f19461b9733ae538939d47"
+
+[[files]]
+file = "config/oretweaker/templates/remove/remove_igneous_rocks.json"
+hash = "9dc8a9fca373a527988473158b888a6fe56629c983dfaa4ac92a6675080aaefa"
+
+[[files]]
+file = "config/oretweaker/templates/remove/remove_ores.json"
+hash = "ddfbc4d1a4f005976213b356ff403bf914fb3109b52c7f664d98773c4674d640"
+
+[[files]]
+file = "config/oretweaker/templates/remove/remove_ores_nether.json"
+hash = "55b8b877a824884b807b8f68dd1bcd82a54b2cc5c0211826bdebf829a507fa84"
+
+[[files]]
+file = "config/oretweaker/templates/remove/remove_ores_overworld.json"
+hash = "ba10790580d38c0a41d7be397220b24b2c49fda0ccb2439096e7a2cbf9798123"
+
+[[files]]
+file = "config/oretweaker/templates/remove/remove_stones.json"
+hash = "a74644437da56bc9a3544e801c76116f646ee829361c974530b4bfa9e7edc85f"
+
+[[files]]
+file = "config/oretweaker/templates/remove/remove_stones_nether.json"
+hash = "84692d4499fcbb639f406d5031c99c7791a9d58b39497df4016389aa0c7861c7"
+
+[[files]]
+file = "config/oretweaker/templates/remove/remove_stones_overworld.json"
+hash = "a74644437da56bc9a3544e801c76116f646ee829361c974530b4bfa9e7edc85f"
+
+[[files]]
+file = "config/paintings-client.toml"
+hash = "3a061cf93df17f94c375bef31cf2f5f4821457d7061fdeb3d581de8a03e04d6f"
+
+[[files]]
+file = "config/patchouli-client.toml"
+hash = "13ab4823538aa3c136c4fa291e785bff3dd34df3e5a20f0524ab11b0be68fd15"
+
+[[files]]
+file = "config/pathtodirt-common.toml"
+hash = "91bcc6fb218cd2dbc4e73b502ab2cfc3d6d91416232eab84d034a97848aa3e66"
+
+[[files]]
+file = "config/pipez-client.toml"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+
+[[files]]
+file = "config/portality/modules.toml"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+
+[[files]]
+file = "config/portality/portality.toml"
+hash = "e3ac6c0ed82a0037a57df96c55b52951ca18e6ab8e7db0c7d71283af0c698730"
+
+[[files]]
+file = "config/repurposed_structures-forge/bastions.toml"
+hash = "2916ab6bdb5e4cac4cec46e4a7cfb48ea872544c34006bafb56ff0deb097768b"
+
+[[files]]
+file = "config/repurposed_structures-forge/biome_dimension_allow_disallow_configs.json5"
+hash = "1a2a3cda1998a7d215df00134fc9ef9bdf076f1fb127db61d28b31de9d5d6e11"
+
+[[files]]
+file = "config/repurposed_structures-forge/cities.toml"
+hash = "f20e59cda562c64408528da6bb14bbf4203fbdee8f155658127aadf8c887b9be"
+
+[[files]]
+file = "config/repurposed_structures-forge/dungeons-1.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/repurposed_structures-forge/dungeons.toml"
+hash = "0efea07fbc0c38d61d535d60d0437100a585a9e666b53be12cd02bdf61e4fa22"
+
+[[files]]
+file = "config/repurposed_structures-forge/fortresses.toml"
+hash = "0a9ed8a993e90df0bfa9601a30de255ca5b33fbc4ae6c8e05c45cb1a4cb6ceda"
+
+[[files]]
+file = "config/repurposed_structures-forge/igloos-1.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/repurposed_structures-forge/igloos.toml"
+hash = "66a0a06587890fbab1994bf85ad25e3854af8564f8319cd25410c0e425f5bf84"
+
+[[files]]
+file = "config/repurposed_structures-forge/mansions.toml"
+hash = "88eb3c724e5ea45e88762ece219d2666f9da704fa84fdc283741ad3d10f7492e"
+
+[[files]]
+file = "config/repurposed_structures-forge/mineshafts.toml"
+hash = "64240f492620565922d89c1eee78ed7e720f4b32fa87a8f9f2f4e3556c2a1138"
+
+[[files]]
+file = "config/repurposed_structures-forge/modded_loot.toml"
+hash = "2e19ce956057b47999b99180c57c3cc591a58b7eeec739aa70c3c88c5adbcce5"
+
+[[files]]
+file = "config/repurposed_structures-forge/natural_mob_spawning_configs.json5"
+hash = "63b9522d954ad4e851e54d8673b48af5640e93b95ce82183f5e2aa45b52f418e"
+
+[[files]]
+file = "config/repurposed_structures-forge/outposts.toml"
+hash = "c749e144b6c3d3efb96d312ef82065bae8a09ef3ba490db3eb7f4598417780f8"
+
+[[files]]
+file = "config/repurposed_structures-forge/pyramids.toml"
+hash = "bcef82552c675857744d1c919dd3a4b526eba1ef8521de128a6a6815559b0a3f"
+
+[[files]]
+file = "config/repurposed_structures-forge/ruined_portals.toml"
+hash = "78ff3a408f5370205f7610122b5c6ba827eaa6d664ad451c460583efa97a55b1"
+
+[[files]]
+file = "config/repurposed_structures-forge/ruins.toml"
+hash = "e54d42ddedd667a2e4c6e182a963d8c234f62e9fc2cd43c7f2faaa91912badec"
+
+[[files]]
+file = "config/repurposed_structures-forge/shipwrecks.toml"
+hash = "bb98bed369ff9f0ac98fa4af2be44eda897bb9c95140a0f205a4a6644556d247"
+
+[[files]]
+file = "config/repurposed_structures-forge/strongholds.toml"
+hash = "b106842bda2e5deb6d7ad40c98151232a9cc844b8b78bd1f4f7d9fb75c9a7986"
+
+[[files]]
+file = "config/repurposed_structures-forge/temples.toml"
+hash = "4f94338b3dabf12b1162225dfd5f941126fe9e54e20f33e6352408fc69fc9307"
+
+[[files]]
+file = "config/repurposed_structures-forge/villages.toml"
+hash = "d535d020541eb11ff635fb8b975928e7620f41ae721b3f75a5ad3081b03e8b02"
+
+[[files]]
+file = "config/repurposed_structures-forge/wells.toml"
+hash = "4d727cd71e4ce5f67f253e6ad6cca8c983c2cd53a55cadf484116b0601b03330"
+
+[[files]]
+file = "config/repurposed_structures-forge/witch_huts.toml"
+hash = "cc4b030cb1a2eb54777ab27031d6278c84d0307ba416378abd132f937ceed057"
+
+[[files]]
+file = "config/soundfilters-client.toml"
+hash = "6e8e672264328cdd8d7e235100d4ce4a94afe46d6273e11f8bb41f410723f867"
+
+[[files]]
+file = "config/spark/activity.json"
+hash = "e0d3fc9b6a8c6f4f92b9f374bc8c343cf4f3f90d4f15358e975eaaeb4b7b621b"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "814b8ad2e4a772a0ddc5695b1b630ecc52380ca84a0aaf8d07a5d6d67ff9f10f"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "ca60798cc0ee4246620fa7d56af82c36744a3cbf8764494867ac208e1ceba7b2"
+
+[[files]]
+file = "config/supplementaries-registry.toml"
+hash = "b3677621e4fd9488fd4907deb98049df7b638bb44e758870519188f671e6a808"
+
+[[files]]
+file = "config/tconstruct-client.toml"
+hash = "94ca7f1c8b5ea9c2e91bbdb6ed88735404ec15e13a15dfbc7c963b62bdef8dcb"
+
+[[files]]
+file = "config/tconstruct-common.toml"
+hash = "e0e1ddb24132d888c2521c403360e6a1f439818379a3c29cb3cd4e750dfff795"
+
+[[files]]
+file = "config/thermal-client.toml"
+hash = "a6a09cfe3859942830c9813563a688d745e2bdeb81a727a3b958ab231c755ba3"
+
+[[files]]
+file = "config/titanium/modules.toml"
+hash = "a493e791689fdeea01a75f0ff8a3947191fc1942e3b8ef54c1da5581bd112d57"
+
+[[files]]
+file = "config/titanium/resources.toml"
+hash = "074327238b3caed2969c6c953dab2d722b56d538d9c111897a7269f879c34cae"
+
+[[files]]
+file = "config/titanium/titanium-tags.toml"
+hash = "1451ca535d24b1eff84246dadf9e1e79121027c183d301bcbf549f4b84155fc0"
+
+[[files]]
+file = "config/titanium/titanium.toml"
+hash = "f93a6921cfe7cd42050497b457416718a91e4d5d7ca5d6e4cb043f2a21e6d421"
+
+[[files]]
+file = "config/torchmaster.toml"
+hash = "dbd82f70778b7a6fb7d96e0cbc2a4d77851a9e6e3953da0e4a935fd9db0ba9e8"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "1261516974847aa016f3567c22eccace1cc4000b78b3dc3a781776a7e7989f93"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "66584d27d44168844da5b4cec570da81b7866585bd9428df03d2f11a2e59d434"
+
+[[files]]
+file = "config/waterstrainer/waterstrainer.toml"
+hash = "b7502d1be133172dc7d473a438670fd81952c2022f57d2361bb2a4c1028b0a19"
+
+[[files]]
+file = "config/waterstrainer/waterstrainer_loottables.txt"
+hash = "5f1721de02c21819e44d933dcff451d71c2e0399f926d09cc16b172b9ca2f507"
+
+[[files]]
 file = "config/waystones/config.json"
 hash = "355d8a5a412de4581df58398457945dba531ed950a380a9163125c25af3b7d86"
+
+[[files]]
+file = "config/xreliquary-client.toml"
+hash = "08b34c6d39a28aeef60afb486f8ba35bec0d842d4fb5bb94d4b6862c9d0c2e2c"
+
+[[files]]
+file = "config/xreliquary-common.toml"
+hash = "a50305a9b63fde38bb65a83beac822c33cc9b2b065ecb5a5549608c8a16fa51a"
+
+[[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "3f1c25bf04928a11cf708d4d8190133eddcca6815640288b5ca6a38d07c2c9ed"
+
+[[files]]
+file = "defaultconfigs/occultism-server.toml"
+hash = "7706a597a01b5ba1ba0fdffbee734caf7c61b34b9080fdf4a206a6b303efd942"
+
+[[files]]
+file = "defaultconfigs/pipez-server.toml"
+hash = "09bd5d106ddd16b3bcef07c39230c84c5855995a33160b4f4ca86894380251e5"
+
+[[files]]
+file = "defaultconfigs/thermal-server.toml"
+hash = "8b00261a58831eb99874e006db5da7199bd33bcea05f6caa7dcdb93d249a3621"
+
+[[files]]
+file = "modlist.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/absent-by-design.pw.toml"
@@ -1214,12 +2517,22 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
-hash = "3105dfbc5b6658aa30ae11a2098e391c61f58b33b1d9c0ad6e91c933a815bb3d"
+hash = "f622a1688a2a3a93e7dd8e694809630c5a8c37a90238b06379f832deb17b3fab"
+metafile = true
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "5fe98822fbe3adef3dcdac8343ca57178cd80b29088f3933a203ec86416ac8c7"
 metafile = true
 
 [[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "c55d8087b3a790472313b0e366fb016acea13dad23b4dfac869422047e7150d0"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
 
 [[files]]
@@ -1239,12 +2552,12 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "73b76577132ec9d89f80f28d0bb12d7b2e04fd3eb7282dbf5b46226433142c07"
+hash = "933eda2028cd9d87fa8b82453c50c606679a5289ff66935947e5ab669159706c"
 metafile = true
 
 [[files]]
 file = "mods/aquaculture.pw.toml"
-hash = "f5544bc5bf4578ff88fbb4027e29ce376ba1721e916a29f3bace348c3b193828"
+hash = "f43243c797ca68e3a1a55e4cf3f97e82c1403c25ca38fc77a2d2e76b9675041d"
 metafile = true
 
 [[files]]
@@ -1255,6 +2568,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6e8eca661f6e9a5dabe7abdd55ec88b1d56b442da5f2f575ba8fe5089cb5011c"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "0536b481da9150a2036ac489e252684d6a64cd16f1aee3edaa7cb8964b2ce1d7"
 metafile = true
 
 [[files]]
@@ -1274,7 +2592,7 @@ metafile = true
 
 [[files]]
 file = "mods/beautify-decorate.pw.toml"
-hash = "71594586d14483f2b666aff7139e0600fdcc0b42b4a8c5acf966757164923f3b"
+hash = "9e74d89a551431a19978d9d133f88e3d0dd7d41baa0b4862cfb9977cab81d72e"
 metafile = true
 
 [[files]]
@@ -1299,7 +2617,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-makeover-forge.pw.toml"
-hash = "12ffe7055d5ea3ddbe255549e80265d09f2ddbccf9c80ba2ed67e628e775ac75"
+hash = "b4b8dd1d9e615d1a3ce95822eb2d7616ca0ad80253f764fd01d16aa7190c4b23"
 metafile = true
 
 [[files]]
@@ -1319,7 +2637,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "089ff047dee1d43218bd42c2175104186255923d46432674a37fb9d705dacfa7"
+hash = "a9f4995175214b99cd6f0aff1658ee992707f781c3ad41dbf8212e8d3ecbf061"
 metafile = true
 
 [[files]]
@@ -1334,12 +2652,22 @@ metafile = true
 
 [[files]]
 file = "mods/botany-pots.pw.toml"
-hash = "d9704218e8f61aa4a028df723dc3562d3be0e60f865ae3c571a896236eb71c7b"
+hash = "7852742e72f3cf64618bf056dfc01d2bf38443d78577e657e66b68f299e9aee7"
 metafile = true
 
 [[files]]
 file = "mods/buddycards.pw.toml"
 hash = "8b10ffbb6bbcfb0731fa3ee2a13c0c5d87a07564d9c305091990255837e2921e"
+metafile = true
+
+[[files]]
+file = "mods/builders-delight-forge.pw.toml"
+hash = "514f42f10ec0ca169cc4a600470959357427c4d37bbd7f5422c7b2ba70f8f175"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "d039b9333db26814d7e92f033e295f3ad577a144fc15cc1aa88bf87b0c01a204"
 metafile = true
 
 [[files]]
@@ -1364,7 +2692,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
-hash = "6c620e4cf7aacfbca2473bb7278f2cef58f74ed2d8174f78486aeebc6ff6f4b8"
+hash = "50033122cf61e35c245ff0e675f58dcfbd08e1594cd94ab09a4b8717c007e5ae"
 metafile = true
 
 [[files]]
@@ -1373,8 +2701,13 @@ hash = "e291d2abb55ebce5c6720fc9157fab57fcd3619de0ee40397ab256185d26097a"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "91310bd661de6d8019a7a9d39c761d5005d1bd1bd9b4f0a7e49296640fe6a33f"
+hash = "ec9425bcd76f5a1bda59915c528a362abde0f1f2fe9e462468b5f78e56fc096f"
 metafile = true
 
 [[files]]
@@ -1394,7 +2727,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "415cf3538cdee5caee4cc5050a9019b7136872683b378cec05561fceb929b432"
+hash = "ebdffe49eb504d9bd9f9a669e45201e5ed5f5df0ad9712fde70947a0ca2ad00b"
 metafile = true
 
 [[files]]
@@ -1404,7 +2737,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "33436dd644cc903c0006df71f7f846f46a12e0338a2865eb5826fa0205120731"
+hash = "8885728c751b6e20f3fc4a9394723ce5250a2fa1fe4078ad83cc27b441e20ba3"
 metafile = true
 
 [[files]]
@@ -1433,6 +2766,16 @@ hash = "a527fbd108976c2a4440bf26556235f2fd23a9090272e8077a3de81a83cbdf56"
 metafile = true
 
 [[files]]
+file = "mods/create-alloyed.pw.toml"
+hash = "14d58649e9b2addd8ae226cffcf05cac8b102d50f6a6e86af73ac01ae8ff949a"
+metafile = true
+
+[[files]]
+file = "mods/create-broken-bad.pw.toml"
+hash = "b81be18546b2bafd4482e683844f9ebf37c2b942d7364cf0c7032591f8c2cb56"
+metafile = true
+
+[[files]]
 file = "mods/create-chromatic-return.pw.toml"
 hash = "9a3baf483ace6e254cd1baced5e50d9eb464b727bf579feef9a863d3d8864f1f"
 metafile = true
@@ -1454,7 +2797,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
-hash = "7dcb9e5889be31a7e7adbf5e88fb09a54c8c3cc3bd8b6bab4d6c0ec6fa2290dd"
+hash = "27c2437c9c91f34088bc1bda1da1bc1552e78a4188ef04bde42fb37e4fe8014a"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "4e9f632b271317a77b2184b404fbcc14abe9e566c836d83c91f1069706f1073a"
 metafile = true
 
 [[files]]
@@ -1473,8 +2821,18 @@ hash = "65e5dbbf95e0508b2f26f078fe40dcf66fb0d49caf48fd880637944f713516d4"
 metafile = true
 
 [[files]]
+file = "mods/createtweaker.pw.toml"
+hash = "09963aad4ac5ef3152ce9a120a83cf72288189210dd8bb0823ca15fdb8a49078"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "0baa50b28cde066737d8ad22068d91bf2a4bc65b684095c823e8f4ba5609c516"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "038e5127cabdd1b7d2523cde4ae5e3101e8d7ca4a884cc56c5462f93dc1d39d2"
 metafile = true
 
 [[files]]
@@ -1504,7 +2862,7 @@ metafile = true
 
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
-hash = "03c1e22dfba5114d6bef3126deaa8bc652b327def22314ca569bde689d302dbd"
+hash = "25264330b2befcd47c343bdfe0106af7d4b4c777f6c306e7aa7cebebd8e33ee6"
 metafile = true
 
 [[files]]
@@ -1554,12 +2912,12 @@ metafile = true
 
 [[files]]
 file = "mods/ender-storage-1-8.pw.toml"
-hash = "7129dd0baa2447cfc50176833dbbd70cb0b27a9918f7c1e7b68ee22a2fc339be"
+hash = "5000760b9aaeb78fc25a4747c357806e756fbf8771ece8ea75afc213bcba7559"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "50055db9965c9f7995eb2cf489bbe085c45801e8fda7a684547dd63788108ce2"
+hash = "f6e63a22b7937b441a01504a0c1e893e3ee73d49f47cc6e179f0c240939d4819"
 metafile = true
 
 [[files]]
@@ -1628,6 +2986,11 @@ hash = "a1043471f97c43e1f70ba9217208233495924ffc83e2b84652a433c3bae3f854"
 metafile = true
 
 [[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "68323eef6e1e6393ca67355b99753dfa7a45b0b7215741f0cb91fe2ada16d317"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "f8f12d06f6b8dc0848774bbc9cb1b4b60ddea7d6380e5d8c51af9fcf96a40bff"
 metafile = true
@@ -1644,12 +3007,27 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "4ad67ed05a5244c0c027a08c6147076663fd36a1952a9141b4854d92cb6a2f1e"
+hash = "39ed79ad646d623fae1820eaa45b98e91034a6cab5655c7dd6ac184d6da9c503"
 metafile = true
 
 [[files]]
 file = "mods/grappling-hook-mod.pw.toml"
 hash = "be1db33a292458ca7b76f40bfd54600d74973ccaedc4394541e9f21d2e350319"
+metafile = true
+
+[[files]]
+file = "mods/grimoire-of-tetra.pw.toml"
+hash = "b34726babd74fb0e6b700e40d39515ba3e98f24ba778c08fdbcdea301b6928fe"
+metafile = true
+
+[[files]]
+file = "mods/idas.pw.toml"
+hash = "6516b28cc51ed7517291e3ebd8b7abc2402f6499b7f143a5fa1cae096b2a4654"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "56d54fdf30c9a679203b4c3fec19780ee2378aef4a722ad7d239bc221364be01"
 metafile = true
 
 [[files]]
@@ -1684,12 +3062,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "71a8fa0be5b104ef1e9cfd11936c7c66bb4c8ceb759d2c715d4e7f88292b0f49"
+hash = "43bd658177949fbe857b5a50fc93fd9acf8cdbe04fedba41031e28f6d2b3a3e0"
 metafile = true
 
 [[files]]
 file = "mods/jeitweaker.pw.toml"
-hash = "3293dddac5ba9d8390ca6792ff1668ff52ddc39974a9e9a0c69674e7f4ac7099"
+hash = "df2cae32830ff833abb3c2897cc34d569623b44c196028af677770f0c83c0da4"
 metafile = true
 
 [[files]]
@@ -1718,13 +3096,18 @@ hash = "01a67fa4a98251ec827e59a7f03c4002b953c66f5da51f3e9aae8b30c523ecd4"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "06e0c9b33671fa736affcb3afbfb89099a2eee409141a3916ead18ed762a2641"
+metafile = true
+
+[[files]]
 file = "mods/libnonymous.pw.toml"
 hash = "35fabe0ac1bebd7cd8530db45a164838ee1a5687cefcb6bbef2b5d42afac8701"
 metafile = true
 
 [[files]]
 file = "mods/lil-wings.pw.toml"
-hash = "a0ac0bd89c2897bc0df8e29d556f3a46aa2411471fb3b83e5c1be5b41d77a90c"
+hash = "81f1fa63b2434e10b57bb4d7c08945df96051043b822fdf994862861866767fd"
 metafile = true
 
 [[files]]
@@ -1755,6 +3138,16 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "5509ff135d46d354664720f02f182bda6ba8697f22b49a42a8cf02aef6112763"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "ec1b184fe352b65db298ce3c93b66aa2c12a5b0a6ea1ef9a576179a1523b0264"
 metafile = true
 
 [[files]]
@@ -1819,7 +3212,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "b6d7f45860db011709514ab1009c8bf7a14756f04515e2786db205e748298402"
+hash = "0055414190e4c9cca2c74b0e45a662d991244c6496451f501e53a8b6afaeefb3"
 metafile = true
 
 [[files]]
@@ -1829,7 +3222,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
-hash = "f57f59a9377907c651b1352578b379a3bf4c76087818ad3a9749052d150a192c"
+hash = "fad058507b30b2c9d7c47a99b55153d0e49fe8489d18ef2744000b7b1444f711"
 metafile = true
 
 [[files]]
@@ -1839,7 +3232,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "46bb8bcb817b0d2db855d7eeefb996a2f22711a2134a9d1e1ebaf2892030310d"
+hash = "15e23d9b0d8eb598964d1a14a9622721b2df3106c013b66eabd167e96b08b62c"
 metafile = true
 
 [[files]]
@@ -1883,6 +3276,11 @@ hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
 metafile = true
 
 [[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "f4d846faf51ae7ee082af5571de146fcfc6cb42ab21f839a4b8a7000688a4a20"
+metafile = true
+
+[[files]]
 file = "mods/randomium-ore.pw.toml"
 hash = "261ced73a72ed7f5432e4a4dad40c4be9c37728bb53e7edc541746d761f29513"
 metafile = true
@@ -1909,7 +3307,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "c33db3f33e1ec63ede938b59c214f19a335673a93cf92c77c1d495cff64e1690"
+hash = "4217260f684976f4915d22f2a2b2c43268b3d0e8bb830e19c3ace167efc9dbdf"
 metafile = true
 
 [[files]]
@@ -1920,6 +3318,11 @@ metafile = true
 [[files]]
 file = "mods/runelic.pw.toml"
 hash = "f9421682d84321e3d88e00733aa976502ea3d3a8bdfb8a1b9c050604fa8e9694"
+metafile = true
+
+[[files]]
+file = "mods/scroll-of-harvests.pw.toml"
+hash = "c766cd541559d7d5fdb71924899b635ed28cb651de8e1023029e1755685f34a9"
 metafile = true
 
 [[files]]
@@ -1939,7 +3342,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-planes.pw.toml"
-hash = "efa003e12613b6870eb368828869e4fd47490988699e602770046ec03e28d5f5"
+hash = "c1962bfb33c1ba05986bdb8c6e690f06c8fb6cd2c5afe20654b131fedcef6faf"
 metafile = true
 
 [[files]]
@@ -1949,17 +3352,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "e8fb28e1cb542bda89984dbf4a5ecbb85f29380f58e365b176ae568bb0881a70"
+hash = "dc446f4396f890259b9e7e13343a2556dc1b444f07f7bac0aede5287f2b2a67a"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "4b9a08d59ef1dd59731faa0482ea3e172d70c90fe3499fa9dee6094f20ac3f94"
+hash = "53a781daf9e319b650de8a33aedec8877addc36aa989eceeef9a00a70dee4233"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "d623710adb1686ca8ad64366ee6c10369d398f48bbf72ae4070eb921a70b8520"
+hash = "638e4534f22a18fc3fea6cd5f24da9b88f059c2636e6c7e80c3063bef5b7935d"
 metafile = true
 
 [[files]]
@@ -1974,17 +3377,12 @@ metafile = true
 
 [[files]]
 file = "mods/starlight-forge.pw.toml"
-hash = "a90fd4fc46dd94ba813e501ac2e25e68a28ee4131959f0236f66aa26e6b41f3d"
+hash = "cf0274e0db473a80ea8d8442362d3e7e76639018504b9ff37fa61aa6044b8a60"
 metafile = true
 
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "b5e478bee6fd909d03453c2bdac37211e65d983a92a383ae4cb8975a9e493ad9"
-metafile = true
-
-[[files]]
-file = "mods/strawgolem-reborn.pw.toml"
-hash = "7a67abfc39c52f3981cf66a7590474830d14ba437d3067183f4ec135c6351402"
 metafile = true
 
 [[files]]
@@ -2004,12 +3402,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "59a67ef3e7bc27b2114da578fd0c5dd901ad7e5b64e781060d346dd565a998d0"
+hash = "af9a82c5bc1be8c4c52ca93a14349a72ec1196b1008b0906eb32620c49559a7c"
 metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "0d6b8b85af3b07f28bb3ffd3bb01c9f82ee79f7a9da7db84c321bcd5d56a1e7c"
+hash = "526f1411f2287247b09ebe85ce4ba29daaad56f1a817d163ec194f78b11bb8ef"
 metafile = true
 
 [[files]]
@@ -2028,8 +3426,18 @@ hash = "ec9017c44566817565b59e03085b17272f71d2a0f1fb05599314ef7b451812cf"
 metafile = true
 
 [[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "38e63604e80a67c80acbd6999e205889fe689dcde127cf55aeb7f12dffb14035"
+metafile = true
+
+[[files]]
 file = "mods/the-mighty-architect.pw.toml"
 hash = "7cb30ada0549cdd4249ae12c81cabd031ffda35fe8954bd77e99cbaa04dbf910"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "a6b52fbac8ba8c697c5d7243abb9c8c0a4d9f437d27b4afd9f08a0d1aa13eea8"
 metafile = true
 
 [[files]]
@@ -2103,6 +3511,11 @@ hash = "af5288cda5a707bf29d9bedf7c196c7d60cc1d0344c9558a614a63dba91fcd0b"
 metafile = true
 
 [[files]]
+file = "mods/viescraft-airships.pw.toml"
+hash = "7d651612898cd34831516e4d9662d48e2b0a9756d87a71a7bcd55f1de429ed1c"
+metafile = true
+
+[[files]]
 file = "mods/water-strainer.pw.toml"
 hash = "563b1f860076b104c8018d651a73ecc05af8327fcc63b3ac06c7c7bf6845b9b5"
 metafile = true
@@ -2113,20 +3526,3279 @@ hash = "b209c7da3afa46bee40dc174aa9cf7a13abf5ef9c987976848e16ce4c199d576"
 metafile = true
 
 [[files]]
-file = "mods/when-dungeons-arise.pw.toml"
-hash = "b83f8905d9f0b6c63347c384e5c3189bb431df0f4ecf80649eef668f584da654"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "5d299b509a149662d562bd6837e9fba887b1f45b4b22c0b37c769c55aec05d25"
+hash = "218e85811e9ca453aecf317bc7b4268cc4dd1ded18626109123457b322eca3d3"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f6a83c987ba2375de8a67f217f117e4e75d946cbeb300e37a18ff7f9096ba304"
+hash = "7b685aed00cca83b3e4163f85b2e60a1d7ee5f36de1a215e45ba1e8325d63f40"
 metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "1b7cd65a70f699874738e98bf2300b4406a295bcb17760d48876db19abf50c5a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "799ba57de8c96266d2bec8f18ea749721394e1fdb8b4e95d90ce66a1f87cd3e1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "2eae47e79517a349e5c76ab4228254d1cbebcdaeb32ee1ee69026b888caaf970"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "2a06398075227d1fea776e7cc5dcce97f1242a53d7697252261f4d9c88d73a92"
+metafile = true
+
+[[files]]
+file = "patchouli_books/engineers_manual/book.json"
+hash = "e176078f3aab7c56b384162c3fab804f92852386dc8234b95e68acb96673fd23"
+
+[[files]]
+file = "patchouli_books/engineers_manual/credits.txt"
+hash = "9a84624d85768a67b5f335a019eb66681c2b98a3c1027f98056efca7ecda9afa"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/categories/construction.json"
+hash = "fb685bbe4acf7b423e448c7f092bc65e56f05ced2caf72171062c5e5e822f470"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/categories/heavy_machinery.json"
+hash = "2006b7c432e93f99fc787598fb4821eee926c72d871149720e2d9f67d8540e23"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/categories/overview_and_resources.json"
+hash = "8180f416014422d1273915cdd1bbf379e564a375dbdfc960a42a713ec3e9ebce"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/categories/power_wires_generators.json"
+hash = "b019b80a98ae89e56523996da93fb92ef070a2b6fe652c87288adfe543fd0ccd"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/categories/simple_machines.json"
+hash = "120e0c66c4bd29b038940b511221466717347e53c3cfb17802f6dcd2f841b2e7"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/categories/tools.json"
+hash = "a63073253a38f1e1a4c03cadb92ce375493a3e70ffd1094ef2c379a381d357d8"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/balloon.json"
+hash = "28a01fc781b30a63deb2079dc062643a7aa209ee79110a45576e47e697a8abd8"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/concrete.json"
+hash = "d05e5f1b37ee6e535e6bbd64f468a38074aa23ddaee7a1894d953277799e1ba9"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/engineered_lighting.json"
+hash = "19d277ef1a8adbee4aea7371e0c8d7192e575852cf35c4f6c9edac9ab3efa191"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/metal_barrel.json"
+hash = "95f0b5e2c67924c17ea6bd59a0d1b39e55deb29fe0ece4931e424e38df7fdb7a"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/metal_constructions.json"
+hash = "7693e493c5f0e033ba2673b500d00317c28643a1b44fb3dc57e586271d447440"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/multiblock_constructions.json"
+hash = "ae3dc102fae4ca652b3516cec021ee8490a480c0aad781c9277cc11abc63b736"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/silo.json"
+hash = "c3268ae2bd622fb84adc0fb27d9694f509865f07b8f8d6169a0f69f064f27a1d"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/tank.json"
+hash = "43e6eb59cef96ce5f9320dee6a89a8362e0ccf1981d71471b3b95f8d2d460643"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/treated_wood.json"
+hash = "0c2f303b794bfcd6efefebe8a09ab657b954bca5ce7643c1fb5b222329ea76a7"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/wooden_barrel.json"
+hash = "64a9ddf7e37a6cd1d8263eb9b3ab12ac3ca3b09633ab42f72987ff483db31c89"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/wooden_storage_crate.json"
+hash = "b342e3e2cc10344ac15d0129686d37ae844cbb2b2a3c806ddcad29967a56cc1e"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/arc_furnace.json"
+hash = "f8497d2b62168a5901bd70321455662b9f76c708dcf1fd444c5f1ed9eb6da8b0"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/assembler.json"
+hash = "bf226590101c369953231607f4c2cf842249e0f88cc1b7cef3ee819d13ce3f3d"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/automated_workbench.json"
+hash = "995f248d6735acc0e4eb57afdca042990a4866caa80d54659135c5b4cc3b69e6"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/bottling_machine.json"
+hash = "9592afb029a64e2abd1d87bb7b64868315c75dc75a9ded2967adcb5b462839a2"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/crusher.json"
+hash = "cb43e38a3bc4d483b47f10b6411ab4110200667e5d441a8312ad90827a8a0e4e"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/excavator.json"
+hash = "b845ff5ed304ad0f50608cf61e74a54ef2f695478b1c8db9747ea8e03b06409d"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/fermenter.json"
+hash = "66459e671f0fbf41b645acf2699ce4216a136436143439449ab6ea72eced2f58"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/metal_press.json"
+hash = "27d9cce3006bad4e29446c3a83abbad312770296c63ce1e63222f95430786da7"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/mixer.json"
+hash = "c2e14a28290c74410ad07b0cbd8294f8b1226b03a987b853367a4ee69c8385e7"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/refinery.json"
+hash = "9b22a37214fa045b1bedaa80aee8d35f959e418bf9f1993b94935a82dada4894"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/sawmill.json"
+hash = "d36a705417b59b83e7c23f09214ab72e6e8b778592ada7c6008859595e0836b7"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/squeezer.json"
+hash = "5c4db2d0bb9785f1f44883dc8576820ca86434e709ed6e7a2a2668f6abce381b"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/alloy_kiln.json"
+hash = "b3ccd73b383af3a000d61e786504a811c22cef11b185479106e278452a93b77d"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/alloys.json"
+hash = "630b3a13604d1b7385f8b720d3608c0180ddb7dc296ffe889c7c33ac296ebc25"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/chemical_ingredients.json"
+hash = "56096607d8386e44e57ee14bd3e5dd0be1dcb8ff8c4bac42385f99c205491aaa"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/coke_oven.json"
+hash = "5ece0473298637779a7703e614458062fa648e73cc80663df8152a3178e1be39"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/crafting_components.json"
+hash = "6e325fe2784cbef267831d95eeb34f3104633a17e136e5c8080e9426e4346065"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/crude_blast_furnace.json"
+hash = "ec4b3a42d88751e61469acd2302e3f9857623da7188ab185b470556e8ac0da33"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/engineers_blueprints.json"
+hash = "cba01aacc8dd91ffd1f8b69265a663f6ca4fbeabe7e87ab09183fee60bd55022"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/engineers_crafting_table.json"
+hash = "96f04e41ff2248c32170ac31f1183fc2e1f1be6e76d30a1ae48f44e449423c57"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/graphite.json"
+hash = "262cb2448ef3c516174f453a2620697598568e94cd0dcf499c667c34a4fe5b9b"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/improved_blast_furnace.json"
+hash = "372a72ec1f9b0f63ea231e7fbe0b24b54b37c672b448bb746a33d83ad5fdfc78"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/industrial_hemp.json"
+hash = "2dafc211b087a34011f6d06d956cc5660337705587d4b50b84cecd95ed348b6b"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/introduction.json"
+hash = "a76bde81b51d76dc59475d61d5931bf59461cfa107a69c66fbd3604f847ea28b"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/metal_plates.json"
+hash = "89e7792640797f477067b1a7d518beefbee0e87bba00a625fbeec64bf0c04495"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/mineral_deposits.json"
+hash = "9e406e07069bb536c45982c5437d12081318e63b87fcfa1363fc6ef96d29993e"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/ores.json"
+hash = "4d6eb7bca5e070ccc9ebc58685fe52b41006968a8b28bd3b34d64c94a6e1e84d"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/redstone_acid.json"
+hash = "d81071c2fd8ca94c5a8acfe4eebcd66597d7ade5f0ce45b9457bc4aeb83ce6a5"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/shaders.json"
+hash = "6bdac2e980018e573011aa6c8825ef21ea99205df2c730b12427d47389418da9"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/villagers.json"
+hash = "62270983deacaae13497ca40c99507f77644a7228cf82030a165d1a06af4d995"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/workbench_and_blueprints.json"
+hash = "e26d31e460656242e7424b5d6cf255444aeb6187831c4f44ba283fe6614c784a"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/accumulators.json"
+hash = "c63c1d477e39415093ce8b05bbdb38b725a6bff9b0b50f77a0bd687413e1f0ad"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/basic_wiring.json"
+hash = "f9239e9762a19f38998c45d62519f281ddf1036925eaebab86d416b270c52718"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/breaker_switch.json"
+hash = "8a39d7b4b3eb01855a5095e352c44c8540ae0467c8ae9c4bedca1ad06c090f72"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/current_transformer.json"
+hash = "b3b55de9243ceea5a53c245ed9f9e3f9b0c99117ea17e7e8e8357b43909ac57c"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/diesel_generator.json"
+hash = "2809475fb1082d68dfaa11e13971798ebb56a0150c6b0b1ac926e168399d328a"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/lightning_rod.json"
+hash = "dc4a191e7f190eb3d2790e93cf16d1d3ddd31931f46550c35ce248f4d55269b1"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/logic_circuits.json"
+hash = "02574d320a1dfe3c1ac3b6d90ea7503ad96197a5191534d613e8a187d3175d3d"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/power_generation.json"
+hash = "b6450241f164e68887090731c8eaea3f2ea2d22d170be42301d53cb8d215bb0c"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/redstone_wires.json"
+hash = "e98ffd00771e86b8e93c86067b46cb8a5acbf8c86fc62a9749728b075e70e37f"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/thermoelectric_generator.json"
+hash = "f54aaa30b1b835a2bc1ca701e5568ebe71f2f4e226008f076a6eacf67c064bdd"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/charging_station.json"
+hash = "baf57ab3f0ce900fd073f6b0dcd7ace0124b32cca6883c872be984df2b808d68"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/conveyor_belts.json"
+hash = "1e0d21bc788c4e7a63301a9c2b140a8fe66305d62f14c844544f9e467f0ef28c"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/external_heater.json"
+hash = "5029593c998e1dba400bebc3e68004ba163100499a9bee63bbf80eaa38d0a663"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/fluid_router.json"
+hash = "8cc5130f170e5149ba845a2c6c5cd290e087c6dd5857e1694ac3bb170edcb10d"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/fluid_transport.json"
+hash = "adbdb4c628c795dc9098b66f225660c95cdd80c1331fd8120622d8b22ad69de6"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/garden_cloche.json"
+hash = "a095e067ddff4bb25a6a5ae5242e9c356fbedbcdebf44a054166790df81ad76b"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/item_batcher.json"
+hash = "0b423c52f12e7c1fe6c9354feb51cd0e6d1a65df385dd189ffa5fdba3c52d343"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/item_router.json"
+hash = "2e81309660174cda50c2c3d304155a16ac569e0cafece935a5e35ad520bb4e47"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/razorwire.json"
+hash = "2a1cb839122332f9f14a99f0ebf57fd8f95bc723e02c74f9546831618c162c21"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/tesla_coil.json"
+hash = "c9ed892278a274df96fd83a6a886c9b4b74fc125d3600f65f6d071fcdffdc30a"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/turntable.json"
+hash = "042c7ce47490c0ab6cb839a36926aa5041c6d6354e4c104e2758980ce24d5761"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/turrets.json"
+hash = "702eae2c3028b0e1107897688f17d44b8bdf31e4b6c611bb48fefa57c84788e9"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/accumulator_backpack.json"
+hash = "f168878ec8f46e53d60313e82e08c0c8ace9c0ba4af379a558bdb01ca62e3452"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/buzzsaw.json"
+hash = "a14b1457ee5643c1b6fbffbbe914510fd5ba1647695b25480120420cb53fad80"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/chemical_thrower.json"
+hash = "ed75f23dc24c1a8d977dae6686c9266422d835fe1ad27c4a7c310f860a66bac7"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/ear_defenders.json"
+hash = "60f67e688e9542cd25421f27b1724f453b1e41922acf55bcbeffe7ef64649eba"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/engineers_skyhook.json"
+hash = "b62c8426d6e3d2d48ff9cf7069e363f633ba9f375c6f06e4ff04133747f58dbd"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/engineers_toolbox.json"
+hash = "4bf3aa46d10eaa5230e064ebd5be26bdb59edef4fe22b7db426b9a8ddd0a192b"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/heavy_plated_shield.json"
+hash = "88f25a4b0f5ac89a36a7a378f203ddecdeca413d096e474b0b2fa8113c92d3f3"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/herbicide.json"
+hash = "9984e3a2a1999ffe1a3db275cec4b21c48e06d12dd9756ca038ebf3834403758"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/jerrycan.json"
+hash = "b35d7679d57546df324a3bcaf6538c0115e0ebb3d03800c37fc8e33c933d5cde"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/maintenance_kit.json"
+hash = "23ec1161518b49c634d1bc776ba3bd4eeb966e0a7608b3db4939812ca52ed473"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/mining_drill.json"
+hash = "2c3946ff5a235159e1d0b079e014db23693ab78743a5a87b4823d7f872b03421"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/railgun.json"
+hash = "4b3b496d01d254d6e2ade77ee3629d9813306c5a17c1e83d876952fca92dceea"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/revolver.json"
+hash = "d5476ee4099a8ae172c0f45a582ffb849fa01ee9651667bfc95b982444c3cacb"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/revolver_cartridges.json"
+hash = "eeff8473431190ac6b6d1db884dcdaf66230862c478fec55fbc6f0280a41a40d"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/templates/crafting_multi.json"
+hash = "7a170a7daeaf0ae6e0c93165049352af6e1cdab0e050a65fa34b9030f579f576"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/templates/dual_showcase.json"
+hash = "eb22b92f668b5a0095a2499231bda34072434001428c83b23549376c38f66348"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/templates/engineers_workbench.json"
+hash = "773ce4195b5cd055cb9bdc9d67271a3c8916c6121a365105f0061abe0f95b23c"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/templates/quad_showcase.json"
+hash = "29161a92667825abc6e0642c9492347a509de406db054f0c7caab9e10f89f1a3"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/templates/triple_showcase.json"
+hash = "e5f5e864f5b5a3f46b2724e54d6805ecc115650b32ddab8dae4e0bb282a49ca9"
+
+[[files]]
+file = "resources/fancymenu/assets/splash/splash.txt"
+hash = "701a4a47bbf1aefaac7a72f158888433e5171e2c143740ae2262a9121fd14e45"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/117x20.png"
+hash = "b995e0a0c54aa9937b76bfe4b27d29cfd4977a9cf970e672d7466f1a0e9b3616"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/117x20h.png"
+hash = "fc66c706b9fcdb23dd20fa3c4c90409ba48fc905ce204b219c5d65927725efc7"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/120x20.png"
+hash = "47832d3bc6c1e63bc0073ac7177de3653b3e3b5e7c99922b5b811ae4ea1def13"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/120x20h.png"
+hash = "0f3f2553c017427030f7d3a251a4ac3e8871c746995aadf6f2c90590aa3d2de5"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/166x20.png"
+hash = "384f2b531197519b8dc4355ad301d7796763f5dfb53ddd783ea3e0805f3d028e"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/166x20h.png"
+hash = "e035a5fe11b9ffe58a68cc93a88ed504e1087d81ef83751b1d21da19e6600be4"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/170x20.png"
+hash = "55b9701c7e5cd2ee032e1f66a656c5962f3d606721164730a0582dc8963a1776"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/170x20h.png"
+hash = "9e3a553a4d89b7c71269e385b685d3c944d4428c61b7e049145deeac53fd16d3"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/20x20.png"
+hash = "2c616f47793620ac5afb58934421b16df09991e6fb7a09dc424571490ca11c42"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/20x20h.png"
+hash = "fb56bc3562322410b9be6f2762c8c7422fa05a1c95f482cf407019053ff9d15a"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/80x20.png"
+hash = "3eaf8b63d9a1a81faa61bffcceffb27c389283e420199b8392f8c970a15b8a8c"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/80x20h.png"
+hash = "9d5d718575587bc50f73a2ec14ed1fd1e58ba2cfefce263c8f77eb124fe9440a"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/82x20.png"
+hash = "43ae607a44d3b0576b30ddc106905abc48e65a5b8cf8d94468e8064bca0bc390"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/82x20h.png"
+hash = "14fb091f5850b7981ed7a83c2b2a9080c1ece9a8a40465fb95719b88963024a5"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/accesability.png"
+hash = "8915940cef773a52aebbb237d3e2233869edd9d9da5c0dd4efffe8e4f06fcd92"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/accesabilityh.png"
+hash = "66acd6e7ff206d0385166ce014047affd17d24d189ad2fa7901bef1410e12b93"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/black.png"
+hash = "f371143122dbc45197feefc04db9db9ccb67dcfb8f59f0a569e157280c1c26df"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/button.png"
+hash = "659bfe55217c88e4d572148f77896b691456cd81d25d36df0815fafc0f21c1a5"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/buttonhover.png"
+hash = "0b89c4d20798b3df27334502b6076aef6e2ee93c243018c99416d89eb13b1e88"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/cosmonaut.png"
+hash = "b5641c898c4f6e200dd82242c8c82f0d6f47e741a9fc4dbebc7d6c99432d862b"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/discord.png"
+hash = "3f1c1d82dd0f220e7d06c9423a10bdf84f0544999bdb22396439a7a0f3bfd3e9"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/discordhover.png"
+hash = "3a9e12afb653066d2a584a9c5ac920bc1fe270da7b458171b26b31ecafd12e3f"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/lang.png"
+hash = "ee0ce2cbf66b94190c53aec06b55d7ffc8c5bbef18020f3ae079ed643e0ad2c5"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/langh.png"
+hash = "0c98cbb0332ec3318a7b5c679f29ded08a3fad71bae506de7cb2e9544f18cb6f"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/milkyway.png"
+hash = "40382016051594d84ab1bc634c61d7494165f2f703cb2a2a98e695c3fe356df1"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/patreon.png"
+hash = "0ab3053dcc6dbba3b0eeca38cc3bceefb355debaf96a40eb292ee38fa7c06bc0"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/patreonhover.png"
+hash = "d120799bf3366c521347d5eacc6b1b60b6e28dd2e3015e40ce7c7b8cf7adaee3"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/title.png"
+hash = "94ffe7f0124107d3632dd87bac251cf1d6e34bcf7cdbfdadd30f2fd05bc97b6b"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/widgets.png"
+hash = "6444582425cb8a175637db587a0a563ee7273a439b5f64566d8dfbb2ed6e39e3"
 
 [[files]]
 file = "scripts/crafttweaker_crafting_recipes.zs"
 hash = "594c0c38f92bfd0eba43ea72590e7fc87cd063cb226b6e7be402092ff90bc263"
+
+[[files]]
+file = "scripts/immersive_engineering/book_removal.zs"
+hash = "6fcb47d98b90114a13fa3a389b07e541dcf9b69309e5b7afbe228863714c8b7e"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/forestry1.blueprint"
+hash = "17ecd8ae8c2118366d3c0c46868f3104ce6e6743cbf9d004b07444da6416cc7f"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/forestry2.blueprint"
+hash = "e19f2c9bb74cce9517ed5c854b2aac142cedf0a1f90e4020467eed7d7e69317b"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/forestry3.blueprint"
+hash = "cb4630c585a539677e13bb94866bbfd7bfea9a8001d24ef89d32465b848b7968"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/fountain1.blueprint"
+hash = "8ef93b18b27f92ded2e2a528c4ef481ec0a582e9ecced91597486b5878b53e22"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/fountain2.blueprint"
+hash = "96547df4392fde314344b00b199b3df002e345405e8d7edcc96348078b3b2edf"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/gallows.blueprint"
+hash = "27b6ae404675a9471e8811b02b0e8b292c1064c3deadafb2edf4da5eea320f88"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/garden1.blueprint"
+hash = "813fcc1438197de91c1835728223324ebed3840df1330118f907878124c49209"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/garden2.blueprint"
+hash = "5e834aa94dfc5293634c81f103a9205fefec2f718e47f0444ed12c9666c7fb83"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/gardenb1.blueprint"
+hash = "cfd36c1f8a028382a4715a6c3299d90372d40fbe80c1152e33ef11216e11a901"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/gardenb2.blueprint"
+hash = "86574e3ab52faec403780e071be14fccccc46fb3d97dfacce35d8c0dbad674fa"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/netherportal1.blueprint"
+hash = "5ce4b09cc7225e23dc5fbaf40a474a38c7fa22f0f3ea6ad4f9f7bb5a8b473577"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/netherportal2.blueprint"
+hash = "a39140bd1bb55de57a7ada2560848ff6eb80d9f36d6df284b528ddab43b479f5"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/netherportal3.blueprint"
+hash = "87dfa7dd0b327e2d806705431a96b7ca3b35ab79c79ee3c785cce101cb226438"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/pond1.blueprint"
+hash = "2e18004038cf9b510e60023bd6932f8c9505c73dbcb3f75bed7c0a0b3d19246b"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/pond2.blueprint"
+hash = "8b770e0958ed37ca9db9ff370e78e01aed9c5612f31926bbd66ec18b7cc01e80"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/residential1.blueprint"
+hash = "e424cdc30cf040f1ff6f24fb59677488608399d289d81387d2538127a567c36f"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/residential2.blueprint"
+hash = "28dc035f035751b8a8545113cf53f663aad3c21ccd818d6596baeb9fa4e0cbd2"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/residential3.blueprint"
+hash = "0e19f8665fed6572ebdd7f96eedd6b6ef7bf24a02a33b60f884e09361ae8f9f5"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/whouse1.blueprint"
+hash = "908278e0b72e163f79a35f07d70ce99286d6c2839396bba52cb72abc08d64dd6"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/whouse2.blueprint"
+hash = "53bbc71d4be59043976cd4c92234982154b5d20fc7f01a0779d8e2c06fa89093"
+
+[[files]]
+file = "structurize/schematics/decorations/frontier/whouse3.blueprint"
+hash = "991245d3685586d26bedae0793c6e2df8cd5e48345941cda38ba81f091e94e06"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/blanka.blueprint"
+hash = "613e12ae626907a6f59261fc6ec1af75ce1856c6098d0374fac079f309e44e23"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/blankb.blueprint"
+hash = "d241db8e5daf0a126f31804586f0bd0a2e4a580ac727207a9f69784eeea5f07b"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/blankc.blueprint"
+hash = "85a31efee3870989751f69a6bb8b3ed4a68b921f19ee1fd2a3b8cb7fedbf28fc"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/blankd.blueprint"
+hash = "214c1c9d39846e5c20b711836d5ba3aeb18a3b10e01c7a2845ca211e016b6561"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/blanke.blueprint"
+hash = "55e3c259b4afc76528ea92d0b6a9be4d6880ae4a557a6c38c4a66ddda7970c66"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/buttress.blueprint"
+hash = "ba26555e04ea9fec7d586be01ecceccabc5256e5f0abf5fe516da89d601fc8a9"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/cellbottom.blueprint"
+hash = "8f0fdf082801739805908fc618dde2aa83e8c2a53e4d460375a5d157a33d2260"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/celltop.blueprint"
+hash = "9813fcdee3b011424dceaeb5d80a3cc15431a306c0d4b078cbfc41f107109bd5"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/columnbottom.blueprint"
+hash = "2cb7e41d408131137a9205dc6bd74ef4a22d3da9c63461a9236ef0e692eea158"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/columnmiddle.blueprint"
+hash = "2c6361197a13309f22c9b168088469b1095064535c4193ef4d6cad7369e8265b"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/columntop.blueprint"
+hash = "dbefeaa83cd6756fd72edd0b9507d6f584ef358d89f8d0874ef8d9ee8ebd4c55"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/doublewalkwaybottom.blueprint"
+hash = "dedaae79ee588289edae453dfa0e284966dfa4a69d7e651c854396a40bc65b91"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/doublewalkwaymiddle.blueprint"
+hash = "813345fae35e3994484e03110a5de8a2791aa8c9fc5b7accfbe2320d2970b1a5"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/doublewalkwaythreetall.blueprint"
+hash = "3d771a7e62f66a605094c3c5487ddb70d6fca2cc6043ca7dd75b22bcecb96b8c"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/doublewalkwaytop.blueprint"
+hash = "dec8f8dcd30ba637e749f1bd1ffcbab588ae41ed995fa4b10935df6089d2bd20"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/fielda.blueprint"
+hash = "fbd67dd1be115d57ccda72e53e41a388fc94d79f2fbd35f5190718f9d391e564"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/fieldb.blueprint"
+hash = "8133e48fb1c033a2cab3c97765a232afcd0e75710a21adac2b63e837f193a7d6"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/intersection.blueprint"
+hash = "b81cdfb1d612062b406407ba873777a7bcc30f22b183a60dabac7dbbfd363e3c"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/modulefive.blueprint"
+hash = "188b4dbed9cd00679970cbb7926171d914781fb5beb8fed2ad4dad4b3de2c492"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/modulefour.blueprint"
+hash = "903884700ccbb285b8e718451413dc475a4392a29ef1fca462594ce2f1ebac9e"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/moduleltwo.blueprint"
+hash = "43d539e3e38a3a2560abc3dbeac7ad1150ebd68c8379f1e2dd551b3acecc9b8e"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/moduleone.blueprint"
+hash = "cde785201df609038786f4c5070696335d084871df8e2153456cecfcecd47781"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/modulethree.blueprint"
+hash = "f009e193f637aeef6138e9969203df39522fdc4368b68bfd17fdfff8707f8d9f"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/roadcurve.blueprint"
+hash = "b8e4b2accde7b4a95c3b1607fda877cc6a80f3e6000933d373cfb47aae678f8a"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/roadstraight.blueprint"
+hash = "8335eac324100f888cf5b9de9d4b4fb590a3b505af8d9492b45a9fdd5d6d7523"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/singlewalkway.blueprint"
+hash = "4a1b2fbab7debc8e4febf4f9258eb5985165e88517adeb43689b2aca28f0adf9"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/spiralstair.blueprint"
+hash = "c53620c30920b35ab967b606fdc31355f45430a762dd1257fba6bf466eb82ec9"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/stairsa.blueprint"
+hash = "ac5d960532ecee9292d166dd0fb7f40080711b072ae78548fdcdcbb0857a7b1c"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/stairsb.blueprint"
+hash = "adb5f5b96d499693e0b23dccf872c1f7ec4d23e3d8ac4edd34d05b83a61de8ea"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/stairsc.blueprint"
+hash = "813532ef56810e45317212abe9b4167d4b1efd0b99e85c75b9997eaddc7d7d45"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/stairsd.blueprint"
+hash = "88bce976ce4292d26648bebbea48576c0522bd1053987367ac7a420ede4df4cc"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/stairse.blueprint"
+hash = "15a119759b97de7b750577dfe1ce7626f52e51c61a43869cc703376db84e656c"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/treefarm.blueprint"
+hash = "6d79ff37f15eb4b750120eaac0564ca1a191ed0ea078dc8eb9b3514ee7cc4fb2"
+
+[[files]]
+file = "structurize/schematics/decorations/hive/walkwayarch.blueprint"
+hash = "972d5ba7279962813b8fe1306725eaf1e1b7abdaa58e795a8b13e37d76081ff5"
+
+[[files]]
+file = "structurize/schematics/fields/frontier/t_field1.blueprint"
+hash = "c54678f3f87ce372f9eed017fd57267bd0c620d026788b031618c86d9b96f09b"
+
+[[files]]
+file = "structurize/schematics/fields/frontier/t_field2.blueprint"
+hash = "b3aba9fb8190e84fb0962c17482bf432ba76b05a1985292d805543d93029a163"
+
+[[files]]
+file = "structurize/schematics/frontier/archery1.blueprint"
+hash = "9d6763c2f1c1624e80c66cf93e8b26b1340a589791bfcc4c95f859ed90d7144e"
+
+[[files]]
+file = "structurize/schematics/frontier/archery2.blueprint"
+hash = "092679b39730a1b7f7cdbb3a67cacab296ff4c2117374b1012a89045bec506f2"
+
+[[files]]
+file = "structurize/schematics/frontier/archery3.blueprint"
+hash = "a91de23ed4930d42e7cf4db9915486a45f4032d2e38c4f303cd0a86b9784796e"
+
+[[files]]
+file = "structurize/schematics/frontier/archery4.blueprint"
+hash = "78408d61492e37596a00c596d818bd9acb891aea5d5277dccfc9ac5435862144"
+
+[[files]]
+file = "structurize/schematics/frontier/archery5.blueprint"
+hash = "b2a5ce0afc8072ea822147bbd6f797611e048b1c459de044a80f328f73d201fd"
+
+[[files]]
+file = "structurize/schematics/frontier/baker1.blueprint"
+hash = "dcbccab983fff6b20f404854aa45ac7791b74ea0bf75c40d8039a8c0ffd19f65"
+
+[[files]]
+file = "structurize/schematics/frontier/baker2.blueprint"
+hash = "a023a9916d419d1c7fc2b04c9c017eeb7df50ab5d2958f44bff3ec1a82f64072"
+
+[[files]]
+file = "structurize/schematics/frontier/baker3.blueprint"
+hash = "1dbc2a993a3e5ddcd1f8bf24974bcaf96f9c5104846dc85f22ba95e8fe6bce28"
+
+[[files]]
+file = "structurize/schematics/frontier/baker4.blueprint"
+hash = "37be5bf4254af8e153ce75a59c9158159e33b294a7fc03c49b23a68ca0416a64"
+
+[[files]]
+file = "structurize/schematics/frontier/baker5.blueprint"
+hash = "584f37e40b8fcdc30ce7a73c85c8ee495277ce80bd0c3947ce585605d48ae6f6"
+
+[[files]]
+file = "structurize/schematics/frontier/barracks1.blueprint"
+hash = "cef98212740a7eb10d9470181754edd0ccff4125f6b0884eabacf4846a1228e2"
+
+[[files]]
+file = "structurize/schematics/frontier/barracks2.blueprint"
+hash = "4c32cc7eed34d4649d1b67152238ad1f3e504c8bdca8442a4432db355cdffd40"
+
+[[files]]
+file = "structurize/schematics/frontier/barracks3.blueprint"
+hash = "7a8456349730dea2704070169e05971ed7c5fd0a4898da3533b2f7e9f8529d34"
+
+[[files]]
+file = "structurize/schematics/frontier/barracks4.blueprint"
+hash = "2d9bee35e0e6b9503a3647ce0c2b87cdefb034bd35940df3a3e47553826ce560"
+
+[[files]]
+file = "structurize/schematics/frontier/barracks5.blueprint"
+hash = "bfedad486630596cac93b6151f6c934b8a4695f2880cee82367830283d149fb8"
+
+[[files]]
+file = "structurize/schematics/frontier/barrackstower1.blueprint"
+hash = "90b524dac65ba584eb6c5e54b2593e6eb0835182dfa5c241a4b430c4bdd81a92"
+
+[[files]]
+file = "structurize/schematics/frontier/barrackstower2.blueprint"
+hash = "2a427b368b2c2bad76e81bec72e9ae7d1542c5cbd7d2c46d12758ef9760f4e3f"
+
+[[files]]
+file = "structurize/schematics/frontier/barrackstower3.blueprint"
+hash = "daf95a573e1ad2c2bd34caac0ed0da42237db1400307c56bb55cc79fee1814a3"
+
+[[files]]
+file = "structurize/schematics/frontier/barrackstower4.blueprint"
+hash = "645fdd6e53c6b8d3c11188c2d596ac485db1a031cba424577ba0fa73e42f68d5"
+
+[[files]]
+file = "structurize/schematics/frontier/barrackstower5.blueprint"
+hash = "7da2e72400e8cc18c00bc10a9c05a666ce65d9ef2619db7c69d0bdcfc643d6ab"
+
+[[files]]
+file = "structurize/schematics/frontier/beekeeper1.blueprint"
+hash = "be563674f25f619f13f9b166ebdc011237cb2d42637274d6d0bf524d7d1414b0"
+
+[[files]]
+file = "structurize/schematics/frontier/beekeeper2.blueprint"
+hash = "ac39d2a85dcfa5dca430188d949feda67f40a2e7f5e84664b698236b3bf39f52"
+
+[[files]]
+file = "structurize/schematics/frontier/beekeeper3.blueprint"
+hash = "70e24dc6b129d75a81a8ecad8ab43d40e17904bc343fd83cf2700aaa3f3fc040"
+
+[[files]]
+file = "structurize/schematics/frontier/beekeeper4.blueprint"
+hash = "f0f8094673ba216acb87614947d258d34c413acef6ebc438987738a45505d032"
+
+[[files]]
+file = "structurize/schematics/frontier/beekeeper5.blueprint"
+hash = "19b32e486888767313a1a77b87e2e5bda6205c753e2668642efecf490a7ae845"
+
+[[files]]
+file = "structurize/schematics/frontier/blacksmith1.blueprint"
+hash = "2bc8390d1bb61f2c12f8139ffc993084ad31958e66fa0b1a6e64f8b1e8e705f9"
+
+[[files]]
+file = "structurize/schematics/frontier/blacksmith2.blueprint"
+hash = "8f23bf706cb0b816b41cd523fcda52ba1ea1a79eaff788caaef01718451da8b2"
+
+[[files]]
+file = "structurize/schematics/frontier/blacksmith3.blueprint"
+hash = "32d4cc5478d69a66bc12c062d90484a52c48e324940bf5954283da52c18ed66e"
+
+[[files]]
+file = "structurize/schematics/frontier/blacksmith4.blueprint"
+hash = "a104369feaf7110557b27715b7ea3abb493bd11e119d674a7a52d5ed92b4eb87"
+
+[[files]]
+file = "structurize/schematics/frontier/blacksmith5.blueprint"
+hash = "527a96409c07bd577554ef96aa1441e56506b67f74b5f78217f047e284c8ad41"
+
+[[files]]
+file = "structurize/schematics/frontier/builder1.blueprint"
+hash = "25a207ea89633b7460cb6c3a90259e2d45d464cca21627c750c16c152cb772ea"
+
+[[files]]
+file = "structurize/schematics/frontier/builder2.blueprint"
+hash = "07f7300b33b13a3adf929dc0e06fd3985340306452acb3372605bd667aacbb93"
+
+[[files]]
+file = "structurize/schematics/frontier/builder3.blueprint"
+hash = "568d6e8737c30de67247d4ea959fccb84015c48a0db8247f2450aa5b75cf53d3"
+
+[[files]]
+file = "structurize/schematics/frontier/builder4.blueprint"
+hash = "d90d1b86710485951049ac6a9deb1a5f265bd4112fd2db6a4291aa8e194d7063"
+
+[[files]]
+file = "structurize/schematics/frontier/builder5.blueprint"
+hash = "c9322cebc2252b3c39aa89ec56ea536259e94056743038dd6ee0e96ea21760b4"
+
+[[files]]
+file = "structurize/schematics/frontier/chickenherder1.blueprint"
+hash = "332ac8e970e35a5a8bfbe383a0195353f5d04cdf8baf81e76e404d3c502c2455"
+
+[[files]]
+file = "structurize/schematics/frontier/chickenherder2.blueprint"
+hash = "97397f4c2e65440b62a35f8165f5ed9758ca866c833d291f10a8082c9d9219fb"
+
+[[files]]
+file = "structurize/schematics/frontier/chickenherder3.blueprint"
+hash = "8ebba92917bfb63f6e410d31610b3679263543af25eb59d2abdb11bf20457a80"
+
+[[files]]
+file = "structurize/schematics/frontier/chickenherder4.blueprint"
+hash = "357caea26cf882fb3b59d1c478ebce75d0a4a3aba47486640604ef43e2e0e425"
+
+[[files]]
+file = "structurize/schematics/frontier/chickenherder5.blueprint"
+hash = "5a1c7a03be6e276e56858c8a1112f97076bdd7ec7aa72bb6a1aae8b1d4a99c1e"
+
+[[files]]
+file = "structurize/schematics/frontier/citizen1.blueprint"
+hash = "b72df5e5260b357e630e85d5663df9529cd3fe1f7b0ce80ea784402693eb07d6"
+
+[[files]]
+file = "structurize/schematics/frontier/citizen2.blueprint"
+hash = "431c8a33432a7dee825bd521d5dfffd831fbc453601782cf7132442255c3ea2a"
+
+[[files]]
+file = "structurize/schematics/frontier/citizen3.blueprint"
+hash = "c3a27d1dcca8418dfc209c6088ebbd3ea646a8908735c9266a20ceee26acc64a"
+
+[[files]]
+file = "structurize/schematics/frontier/citizen4.blueprint"
+hash = "4668f4749cc00b867201597f628c9388d4c9ea645acefc70fe2a2d6649db71de"
+
+[[files]]
+file = "structurize/schematics/frontier/citizen5.blueprint"
+hash = "7074b6d28dc956632bd233fed3be64cbe5b0d1e556b2f1db9421178de8d69993"
+
+[[files]]
+file = "structurize/schematics/frontier/combatacademy1.blueprint"
+hash = "faae33642971d6219931790121ddb54ab1e83e999f680f109b4401bcb6bbc71b"
+
+[[files]]
+file = "structurize/schematics/frontier/combatacademy2.blueprint"
+hash = "423d856046d8de470d4f33736e0bd8c866b3cee6585804155f74e55e75a326b2"
+
+[[files]]
+file = "structurize/schematics/frontier/combatacademy3.blueprint"
+hash = "f83b90cd8b490e84e9b47f5124677ae4a853f83e390e3991b1700cad79275e3e"
+
+[[files]]
+file = "structurize/schematics/frontier/combatacademy4.blueprint"
+hash = "d7814adadb32b47a0c4a236c74650a81ff8778177f6e63ae8f681a68ccdd9ad1"
+
+[[files]]
+file = "structurize/schematics/frontier/combatacademy5.blueprint"
+hash = "d4b4cfe25290698b5d3f0c65a74b62e660fc4356ddbb6c1c5f9680787102d20e"
+
+[[files]]
+file = "structurize/schematics/frontier/composter1.blueprint"
+hash = "89851d92e2eb23159d520d34611ab6a8bf0fa928db01e395df2b90f50f035637"
+
+[[files]]
+file = "structurize/schematics/frontier/composter2.blueprint"
+hash = "54bc1bfb9dbef43b09da0cad9518d872620fec5b0c32a6ec582000fc985b104c"
+
+[[files]]
+file = "structurize/schematics/frontier/composter3.blueprint"
+hash = "82bb8057f3ab8bde008a0d518b62b3a9cdd7b536382c526c468a302b3b8491d9"
+
+[[files]]
+file = "structurize/schematics/frontier/composter4.blueprint"
+hash = "461fbd95e6baf19d9a4b21f3b6c9770c5ebce158c086eec7d3f34c553e0f72ea"
+
+[[files]]
+file = "structurize/schematics/frontier/composter5.blueprint"
+hash = "2dc6742af3646c89e23a854f37b3b5468203eb8777612321b60abd4bbc102436"
+
+[[files]]
+file = "structurize/schematics/frontier/concretemixer1.blueprint"
+hash = "d2c5cf64e626c3083cc50bacfa3472e1935530d4dc80503c5e4b964af9c295f7"
+
+[[files]]
+file = "structurize/schematics/frontier/concretemixer2.blueprint"
+hash = "873a7b13b76cea4068452dddbdfd59f2d166e4aaf08df69cc04044cc92aabc1d"
+
+[[files]]
+file = "structurize/schematics/frontier/concretemixer3.blueprint"
+hash = "dd56b12d95df67eabd5e7f6ecc0ec0c9f51c2f5231634be8b6b09ac19c0fcc0c"
+
+[[files]]
+file = "structurize/schematics/frontier/concretemixer4.blueprint"
+hash = "5ca81e6813595ea73ba7ff738d79f605feea716f1025b42bc46c7f91a7f9eaff"
+
+[[files]]
+file = "structurize/schematics/frontier/concretemixer5.blueprint"
+hash = "e2e58b9e7db808058e5c22844fc8d9b2f79fac0669707bc6817e4173c421664b"
+
+[[files]]
+file = "structurize/schematics/frontier/cook1.blueprint"
+hash = "6ea04c42175dd3b5bed40a6c3eed709fc6831aa6a25bb8bd0bb9d13aa9b0a95c"
+
+[[files]]
+file = "structurize/schematics/frontier/cook2.blueprint"
+hash = "ab6659b8a5ec70567cd36f241453f9b1c28c3803dccdefe34ae3f3ef53abfcd4"
+
+[[files]]
+file = "structurize/schematics/frontier/cook3.blueprint"
+hash = "06bf09d0f8fde22d71b73c4988ab7fdfc443fa944a5ef65c38e0e18566fb97b4"
+
+[[files]]
+file = "structurize/schematics/frontier/cook4.blueprint"
+hash = "77a2b039f86211c1a612b73f890d3717f8c6a4bcc0146a1874d55c5f601737ca"
+
+[[files]]
+file = "structurize/schematics/frontier/cook5.blueprint"
+hash = "f4be73eb1d81059736b97f4bed6e64cf770b6e06e3602c53a5e960ebc00ce9f6"
+
+[[files]]
+file = "structurize/schematics/frontier/cowboy1.blueprint"
+hash = "b53fcd2ac7dd7928037858e6598e59e64754dee771c45815a895fba7376284d9"
+
+[[files]]
+file = "structurize/schematics/frontier/cowboy2.blueprint"
+hash = "9ebd8c13352ee6e7bbf97d4dc03b2a18a204770edebb6c2b58ac744eefd9a8f5"
+
+[[files]]
+file = "structurize/schematics/frontier/cowboy3.blueprint"
+hash = "4d827f65b15083a9e70f0554204a87f37569c653f9dc0373875f72b4658c1261"
+
+[[files]]
+file = "structurize/schematics/frontier/cowboy4.blueprint"
+hash = "ed1cb68f6ff2c6f24b3d2a04583a22965c3349df2b6eda46571ba73fdf6c8ef6"
+
+[[files]]
+file = "structurize/schematics/frontier/cowboy5.blueprint"
+hash = "dfd506e7a637fbd226c0af2f5b08523831597023bd7a6779c52e244bbe173af7"
+
+[[files]]
+file = "structurize/schematics/frontier/crusher1.blueprint"
+hash = "fc633ffae5afa3ace40cda398b5da68469ae3258300d7225c798cd20061852b4"
+
+[[files]]
+file = "structurize/schematics/frontier/crusher2.blueprint"
+hash = "5cea7958c12b1399c53b61da6691e0354a63aabfcf59d79aded141a4b9f6dba4"
+
+[[files]]
+file = "structurize/schematics/frontier/crusher3.blueprint"
+hash = "082a53e84379a1184365a5c5c2784eaffead72081bfdbcfa36ad8ed8d96ad8a3"
+
+[[files]]
+file = "structurize/schematics/frontier/crusher4.blueprint"
+hash = "118217ef1fe7e0a6d7aad0c1e14d7aab51516452f627c04a85bcfa2250b4fe0c"
+
+[[files]]
+file = "structurize/schematics/frontier/crusher5.blueprint"
+hash = "d41d0c9c1ea0156320378d9d6198ebd944edb046669b8cec175960938d33aa1e"
+
+[[files]]
+file = "structurize/schematics/frontier/deliveryman1.blueprint"
+hash = "2683cc19c7edeef7b942213bdb5c0db5a963ba79da91c655fe862e9466341b9c"
+
+[[files]]
+file = "structurize/schematics/frontier/deliveryman2.blueprint"
+hash = "d6455c192cdae8c722b094daadae5270ba1dc69280793858d8b7f1393cc9fa3c"
+
+[[files]]
+file = "structurize/schematics/frontier/deliveryman3.blueprint"
+hash = "b918b56f4c3953609d672215fad99c509ffec4bf735acb92f4a99a722b280f99"
+
+[[files]]
+file = "structurize/schematics/frontier/deliveryman4.blueprint"
+hash = "01558f19765ca10a1aee5be1e43c4ffe502ba7177c9f25e8add575f9e203ff2c"
+
+[[files]]
+file = "structurize/schematics/frontier/deliveryman5.blueprint"
+hash = "b7c98c8041dd4f187a37bc39bdafb5a9d3a17d232a6330c34afed469a7f4e7c7"
+
+[[files]]
+file = "structurize/schematics/frontier/dyer1.blueprint"
+hash = "6c0cfcead7b268e46498a4460ae7ac1ff4deb1d90a1ceb265087b3bef73421e7"
+
+[[files]]
+file = "structurize/schematics/frontier/dyer2.blueprint"
+hash = "8effb4d8d2d3906c85abd09a3b3403a17c87100c4fb949b036e0487f37009fae"
+
+[[files]]
+file = "structurize/schematics/frontier/dyer3.blueprint"
+hash = "4c925bb8f4b8a0c1df115f61a27691bf874aa05a19aa46e466f4b02ad4c422be"
+
+[[files]]
+file = "structurize/schematics/frontier/dyer4.blueprint"
+hash = "74ba8fc3a6f7e1f32191ca0e31703d2a4c5c50bd14ddf46497d938ff0a097706"
+
+[[files]]
+file = "structurize/schematics/frontier/dyer5.blueprint"
+hash = "0d2f6da6ebec93e6bf91770d8fbc5a06d0a53866f73ee3a8b0fa7a5cb138d212"
+
+[[files]]
+file = "structurize/schematics/frontier/enchanter1.blueprint"
+hash = "c772f9a3f11717b2a8051a3e2dd264df0a92738502195341aa2e27e12503ec39"
+
+[[files]]
+file = "structurize/schematics/frontier/enchanter2.blueprint"
+hash = "316fafa8ee0c17d6147f441ba52479bece193c34a56653dcea2a311d8a5df5e6"
+
+[[files]]
+file = "structurize/schematics/frontier/enchanter3.blueprint"
+hash = "cebeb73c14e93ce7245b135c6e41893143373d5d8ab209af6472da2ff313f8fd"
+
+[[files]]
+file = "structurize/schematics/frontier/enchanter4.blueprint"
+hash = "c8c731a6097e485a954985af1dfa59d27574b4c104abb10f442fa44e376e4b93"
+
+[[files]]
+file = "structurize/schematics/frontier/enchanter5.blueprint"
+hash = "1d9797219fd3eb2ca465769c737230571f1e7a83309d03e6149a52f31f920f92"
+
+[[files]]
+file = "structurize/schematics/frontier/farmer1.blueprint"
+hash = "d056ec613d637ea57b7c66d463edc2860793f2fcf76935ee287fc9f54a833ae0"
+
+[[files]]
+file = "structurize/schematics/frontier/farmer2.blueprint"
+hash = "623866587db52cbbe15f0946c92b98bf0d2efe1081a5b4f1b1b23dcf493431e0"
+
+[[files]]
+file = "structurize/schematics/frontier/farmer3.blueprint"
+hash = "142d7e2c4ffd36d15f7425dc4ad365ccfe8bceae5ce7fc48a6d268cee3615c61"
+
+[[files]]
+file = "structurize/schematics/frontier/farmer4.blueprint"
+hash = "db3f17d382c76d25d92e00fed5f218412c4b9c5b06393e0a57b0dbe2ee2afa61"
+
+[[files]]
+file = "structurize/schematics/frontier/farmer5.blueprint"
+hash = "1655efc7dca09fa11548310ab17d3e154dc43f25d9751da73e6616ab5cdc51a3"
+
+[[files]]
+file = "structurize/schematics/frontier/fisherman1.blueprint"
+hash = "55c935d3bc60e9fb5ee7a37d52fd9ee3320a4fff4de7910e9d95b46a05a709f2"
+
+[[files]]
+file = "structurize/schematics/frontier/fisherman2.blueprint"
+hash = "8a9972bf061b8dc2b8435ddd84ba336aa822a16a3c2f92b7e94d50d9ec6d7a3e"
+
+[[files]]
+file = "structurize/schematics/frontier/fisherman3.blueprint"
+hash = "ad925d1e60d163cb3f7babbcb8c62435b0f8eaf19b59ee16e8d0badf4ca9737c"
+
+[[files]]
+file = "structurize/schematics/frontier/fisherman4.blueprint"
+hash = "ac74cd07fb391517965a009b4c2e9b12850f4a1e2ceba23bc594b033d525e71b"
+
+[[files]]
+file = "structurize/schematics/frontier/fisherman5.blueprint"
+hash = "db7c267d473f7f89d88b5f5a250aaeeb29308a71cf3329a7f4d7e563d3fb480d"
+
+[[files]]
+file = "structurize/schematics/frontier/fletcher1.blueprint"
+hash = "df002391c5fb3b61be96c7f192245601a723413645fde2d200aa21b17c638fa2"
+
+[[files]]
+file = "structurize/schematics/frontier/fletcher2.blueprint"
+hash = "009268d9e9341263eb7a75ce6bf464095f2f481a0e0ed7255e8c3f30c3159bc1"
+
+[[files]]
+file = "structurize/schematics/frontier/fletcher3.blueprint"
+hash = "aef4c8cbad6d04fe1b2cbb7c4dbe9db0860a5a1c144ce7a64567ebf2adf951fe"
+
+[[files]]
+file = "structurize/schematics/frontier/fletcher4.blueprint"
+hash = "51026e1cd6aa1602b16e76371d0c7055612e331ff6e044a70dedb1a9b637f70a"
+
+[[files]]
+file = "structurize/schematics/frontier/fletcher5.blueprint"
+hash = "cbd86eb83b7a2120a860184ae6d088f362967c45b6f161b5808d73020bfc4fa6"
+
+[[files]]
+file = "structurize/schematics/frontier/florist1.blueprint"
+hash = "00b18a3ed36f8aa0569190c9b6daf8e7e6b127806927582ec55af5d11f471852"
+
+[[files]]
+file = "structurize/schematics/frontier/florist2.blueprint"
+hash = "694a7d8892932c9890fe9df6990850b9660d748098d2cdf242309f6e82e2c5fe"
+
+[[files]]
+file = "structurize/schematics/frontier/florist3.blueprint"
+hash = "ef27947548d5a4bfc3dd11d0ad3f9c308f7a05183e3034fa95e4a280111e3963"
+
+[[files]]
+file = "structurize/schematics/frontier/florist4.blueprint"
+hash = "5490e62534030388e4507324148bbbe3733d9512f593bcc0fa9ae7026f471e1d"
+
+[[files]]
+file = "structurize/schematics/frontier/florist5.blueprint"
+hash = "5354d1839ddb2a4f6e0251851079d2d48bc18bd044c082345c5921daba1cc5fb"
+
+[[files]]
+file = "structurize/schematics/frontier/glassblower1.blueprint"
+hash = "33234590c05ac3df8730d3266f20d855fac04133d80e4fefe82040b2a083b66c"
+
+[[files]]
+file = "structurize/schematics/frontier/glassblower2.blueprint"
+hash = "377d4a7cd1fdedee11209b43cca6c32a1edad15aa85a2ed0e2400de7e652eb32"
+
+[[files]]
+file = "structurize/schematics/frontier/glassblower3.blueprint"
+hash = "788232383279e8e4fc2efe84fa76df1082585b91d5268eb71cb1308bba9d0529"
+
+[[files]]
+file = "structurize/schematics/frontier/glassblower4.blueprint"
+hash = "3804ecc9bc0cfb16226c221f23e239b20113fe992a7f939684458c81c659e602"
+
+[[files]]
+file = "structurize/schematics/frontier/glassblower5.blueprint"
+hash = "e02452cedfd646e7291ca19770fce3934a04a4e5b04b520e2ca192c4972efc2c"
+
+[[files]]
+file = "structurize/schematics/frontier/graveyard1.blueprint"
+hash = "942bb2cdd78a39466ad186ed9c1fdc171d5948bda313b4bc999e7f1f171774ae"
+
+[[files]]
+file = "structurize/schematics/frontier/graveyard2.blueprint"
+hash = "2ed84c5b0328772f91b6743bca583d39f129bb72888eb94b221bb8e77b9c73e2"
+
+[[files]]
+file = "structurize/schematics/frontier/graveyard3.blueprint"
+hash = "dea98ee0a48180383e66bb44a87056330ddeb473b696dca9c19ab3bf60e9ea99"
+
+[[files]]
+file = "structurize/schematics/frontier/graveyard4.blueprint"
+hash = "8ea15e9ff019057f232712bf70278bcd1f82750834e9062d2fcd39410572da47"
+
+[[files]]
+file = "structurize/schematics/frontier/graveyard5.blueprint"
+hash = "956c38d80bae457fdda68e94d6f7e7dce6adc30f645c835df6dfbdeb5e6ac4b6"
+
+[[files]]
+file = "structurize/schematics/frontier/guardtower1.blueprint"
+hash = "383b8a1d8cadb88b0012021c5c4907040acfdb6cf2703ceb47f695dfdcc48992"
+
+[[files]]
+file = "structurize/schematics/frontier/guardtower2.blueprint"
+hash = "bcea0b6076bc0455d05a9ca5d2020a8ca33c8a28c7b74bfa8f6a9845ef6a7358"
+
+[[files]]
+file = "structurize/schematics/frontier/guardtower3.blueprint"
+hash = "320572f936e860f713cfb60b31e2cb514ac9a440a2bcd03d484d2fe88cb168e4"
+
+[[files]]
+file = "structurize/schematics/frontier/guardtower4.blueprint"
+hash = "822220488a5c3da112d0d52b3a86ace4ded90ac320047fcd5adb2825a4dcba7c"
+
+[[files]]
+file = "structurize/schematics/frontier/guardtower5.blueprint"
+hash = "eb0a9267dbd964f3a8c1101f495ee042cf33ec7ada1238963bf8cc5f83c0f840"
+
+[[files]]
+file = "structurize/schematics/frontier/hospital1.blueprint"
+hash = "d9f0747700e87c2b6b3a481c331b853c9d63cb1a18635e41986f63aebd80ded1"
+
+[[files]]
+file = "structurize/schematics/frontier/hospital2.blueprint"
+hash = "dab3f030a36d9c78a9bdbd331ecab7d71c3a4878c24ac588777472360c027f86"
+
+[[files]]
+file = "structurize/schematics/frontier/hospital3.blueprint"
+hash = "1c94def7bdcb724ea114976eb5622446f9817980c1e08168cbc9f99be2b49abe"
+
+[[files]]
+file = "structurize/schematics/frontier/hospital4.blueprint"
+hash = "081d1dac63efd01e17e5f32a0b7905c7bf0266d571f1155be7962922269bf4f3"
+
+[[files]]
+file = "structurize/schematics/frontier/hospital5.blueprint"
+hash = "d005af5daf1a83930415c1228a167aeaceb3db300722a6e643622e6efff93e8f"
+
+[[files]]
+file = "structurize/schematics/frontier/library1.blueprint"
+hash = "56087ff39cf4b30b287fdc8d791148dd89de225d89447efc11ce16fa96708e14"
+
+[[files]]
+file = "structurize/schematics/frontier/library2.blueprint"
+hash = "8c9a898318a77dccc7510330a54b78a2950c6c7500fea21ef74fc1a3591f3fa7"
+
+[[files]]
+file = "structurize/schematics/frontier/library3.blueprint"
+hash = "42c9cde4b4e2fa36516e438260e4b809fd4ba64a317e6b673fa1d6954049d280"
+
+[[files]]
+file = "structurize/schematics/frontier/library4.blueprint"
+hash = "a1fe9a8ce75563f51cce46e29d7486d25f63d9630d9fba18fb480145f1757e6e"
+
+[[files]]
+file = "structurize/schematics/frontier/library5.blueprint"
+hash = "9edcfca8cff631300205f798c5f119d99b53c615e51f1f778d7eb9bad4682da6"
+
+[[files]]
+file = "structurize/schematics/frontier/lumberjack1.blueprint"
+hash = "73f297412f3db443f87fc2447816ece827a5fdae7d2afb1d204f22eda02da7c4"
+
+[[files]]
+file = "structurize/schematics/frontier/lumberjack2.blueprint"
+hash = "685045c1c854ed17996a446658613010d4e589492927d547c7b53cabc9b9e62c"
+
+[[files]]
+file = "structurize/schematics/frontier/lumberjack3.blueprint"
+hash = "090ee00cbad6db55acf2e29c0f83a944d4b92207facc84d4246a10535d380c53"
+
+[[files]]
+file = "structurize/schematics/frontier/lumberjack4.blueprint"
+hash = "50c1960962f7f318655ca6a2b66348f9c8f0f90e5856d8371332eefd83381946"
+
+[[files]]
+file = "structurize/schematics/frontier/lumberjack5.blueprint"
+hash = "c4da3ab706790c106d327275743b1a7c546a16d34687dd4234e1fd600cea3e2b"
+
+[[files]]
+file = "structurize/schematics/frontier/mechanic1.blueprint"
+hash = "880843ccd868aae925d1160422122121ba8481787005e70b5c7e82d86ea8ec91"
+
+[[files]]
+file = "structurize/schematics/frontier/mechanic2.blueprint"
+hash = "efb643b7ef96b562505b86c8c35608855818cf6f532a3abf223b6106fcbce252"
+
+[[files]]
+file = "structurize/schematics/frontier/mechanic3.blueprint"
+hash = "f141cf7ba844ea2d527de09af0ac4bed18b37a92c284090a7aea9e6d74190731"
+
+[[files]]
+file = "structurize/schematics/frontier/mechanic4.blueprint"
+hash = "fdd1d158e1660d0a9346b3a49bad869eca7e8024d0dace6a0fa8439522b89dd9"
+
+[[files]]
+file = "structurize/schematics/frontier/mechanic5.blueprint"
+hash = "9a3c4f64da2ac0163cde101ddecc8967505a8208dafb8f8d37835f48f8eef96b"
+
+[[files]]
+file = "structurize/schematics/frontier/mineguard0.blueprint"
+hash = "8cfadc8b4f56de9c4f1a5a781115c27786a0f03398e49b3a191fbf9938519332"
+
+[[files]]
+file = "structurize/schematics/frontier/mineguard1.blueprint"
+hash = "d50dd5a9645193365bb67c13f220cf35df778374a1186d364bccdf5987e31e10"
+
+[[files]]
+file = "structurize/schematics/frontier/mineguard2.blueprint"
+hash = "c7027e65e6b86d81219300fa5baa60fa37c9e7c7cfef407cd2ccbd21e9e8186b"
+
+[[files]]
+file = "structurize/schematics/frontier/mineguard3.blueprint"
+hash = "510e459f346389edcce47553a9f36a7de9ddd229571d38dd33b791b53fd7b1d6"
+
+[[files]]
+file = "structurize/schematics/frontier/mineguard4.blueprint"
+hash = "62b922f68f2e6a89640ff849f9a7c53d04d25f942f6e74c56ca613577f15058f"
+
+[[files]]
+file = "structurize/schematics/frontier/mineguard5.blueprint"
+hash = "eef3f7a7306ea1e07a606f6d7dc617df420319fdc2b1d442c930350c958d7132"
+
+[[files]]
+file = "structurize/schematics/frontier/mineguardb0.blueprint"
+hash = "d938879d5249279cf9da87b93e37b0e97a03dcffc4982976d3471227f8c0b395"
+
+[[files]]
+file = "structurize/schematics/frontier/mineguardb1.blueprint"
+hash = "9f7b13be1562b10f151e5ac84ab90bcfbd320ab3e609bdfeef596295f4e6c957"
+
+[[files]]
+file = "structurize/schematics/frontier/mineguardb2.blueprint"
+hash = "507df25aeed6af6c9844c71ee0faf3280ffe36751b2b9c5b317199228f13bd7d"
+
+[[files]]
+file = "structurize/schematics/frontier/mineguardb3.blueprint"
+hash = "5bf11cd3dcae3b4b2746087bf3210032b53886d638bda4bf902d9ef35f859cb4"
+
+[[files]]
+file = "structurize/schematics/frontier/mineguardb4.blueprint"
+hash = "7cedea11ce52c86428fb88873e0614f5f1615f6436d3d6d0a409cd0d9e71f586"
+
+[[files]]
+file = "structurize/schematics/frontier/mineguardb5.blueprint"
+hash = "6a232445d53add71d4d3a9cf55d614a393041a378f359fbc271d2f815efe8224"
+
+[[files]]
+file = "structurize/schematics/frontier/miner/minermainshaft.blueprint"
+hash = "bb2d7a89bcd36051d58938ff988004feefddd505c657c642067a1eaa4cda2977"
+
+[[files]]
+file = "structurize/schematics/frontier/miner/minerx2left.blueprint"
+hash = "69aaa8f7123f69aa8e36860a8d0a0da26c84ce0e26c1e6c4f87e3322798713ab"
+
+[[files]]
+file = "structurize/schematics/frontier/miner/minerx2right.blueprint"
+hash = "1f284941986d315da4fe8010db88bf7ee6f9e73e79f8c06f9b70bcd0e330c4dd"
+
+[[files]]
+file = "structurize/schematics/frontier/miner/minerx2top.blueprint"
+hash = "ee33a8b1c7c765511982e7395adeb23df927c49103afb90a2bef11d7090515ab"
+
+[[files]]
+file = "structurize/schematics/frontier/miner/minerx3leftright.blueprint"
+hash = "fe21448331e811b76c8ba039039196b597b469073b2204202dc7957a84e47f9d"
+
+[[files]]
+file = "structurize/schematics/frontier/miner/minerx3topleft.blueprint"
+hash = "f78d14b2e17e5f9fda973fc28ebd1cf9c59508afedf1b424fa9682169792be58"
+
+[[files]]
+file = "structurize/schematics/frontier/miner/minerx3topright.blueprint"
+hash = "690b78019b973a56b9ee0f864e58f21aae1ebc92707c2e25759e62750de098da"
+
+[[files]]
+file = "structurize/schematics/frontier/miner/minerx4.blueprint"
+hash = "3f913d5657ece3e13166ad4c8e6879afa5106cd72cf92b54bb8afca540694b86"
+
+[[files]]
+file = "structurize/schematics/frontier/miner1.blueprint"
+hash = "ba8fa1b8703609832a145354d9322aa72c33ddfc72975bf5e51e115690567585"
+
+[[files]]
+file = "structurize/schematics/frontier/miner2.blueprint"
+hash = "3aa9032200b23826a81e8d7fc745d3692e2e632be72b6df6e819be479904bc1b"
+
+[[files]]
+file = "structurize/schematics/frontier/miner3.blueprint"
+hash = "29107795be6191c8c96eb9cfe637c2d3b17c54d34d7408e87b140b6647d92a79"
+
+[[files]]
+file = "structurize/schematics/frontier/miner4.blueprint"
+hash = "79406b95dae722d109f800990b0325671b8373474af782f1fc00191e8e7074c6"
+
+[[files]]
+file = "structurize/schematics/frontier/miner5.blueprint"
+hash = "a4323364f86246d3f41ee7f53ab9cd25f8205689b45cb83d9abdd2738c5f45c7"
+
+[[files]]
+file = "structurize/schematics/frontier/mysticalsite1.blueprint"
+hash = "df6ea955b8f573431e66c2f1589f57c48e4d15c742304fffded619b66a600ec1"
+
+[[files]]
+file = "structurize/schematics/frontier/mysticalsite2.blueprint"
+hash = "7e7c3bb8e7c8ab885c6c8cca1a5beef6475730a2a10fdf514d3be4e80baf8fee"
+
+[[files]]
+file = "structurize/schematics/frontier/mysticalsite3.blueprint"
+hash = "329d3df454f6fe5acfd4a6fdcbd1ebe0ab1961f7ca055204c494b21444765cda"
+
+[[files]]
+file = "structurize/schematics/frontier/mysticalsite4.blueprint"
+hash = "b4d50a67de0723dab508f9e7a157507b97f13c6a8ee61c891c4f31c5cbda292e"
+
+[[files]]
+file = "structurize/schematics/frontier/mysticalsite5.blueprint"
+hash = "d88e351e6455cadc36372e417327ae0eac6d46a077f0aff535ba86535b7314bb"
+
+[[files]]
+file = "structurize/schematics/frontier/plantation1.blueprint"
+hash = "87e1b1db168f4cbdb568ab3963ae109a09bafbf0dddbd11f44a031aed8f7410c"
+
+[[files]]
+file = "structurize/schematics/frontier/plantation2.blueprint"
+hash = "63cdc50423e68309cb4593133070a1768b03244829c5907c89520bb731bf9bbc"
+
+[[files]]
+file = "structurize/schematics/frontier/plantation3.blueprint"
+hash = "1172883ec137fc52c8c037113a7cfba149f2c6c442f227bfcb9af204c822db72"
+
+[[files]]
+file = "structurize/schematics/frontier/plantation4.blueprint"
+hash = "9b87835df7c36831e3e151a78cfc405053dea7f70fcf1cf67f2d83dcaf740020"
+
+[[files]]
+file = "structurize/schematics/frontier/plantation5.blueprint"
+hash = "6a8275287805b2a3c1bde7f09233eb6a9c2868ff19a5212265b16140e72a0738"
+
+[[files]]
+file = "structurize/schematics/frontier/rabbithutch1.blueprint"
+hash = "c8e67d9bbbe551c6a5c823d2b83204fa31530173cb03adaea1a92e896e5d70e4"
+
+[[files]]
+file = "structurize/schematics/frontier/rabbithutch2.blueprint"
+hash = "27cd17c55cb974616314475150f4bad040c79836fc05583931567324c73412ce"
+
+[[files]]
+file = "structurize/schematics/frontier/rabbithutch3.blueprint"
+hash = "8ce7bc800c29f5cca46b781803277612dec6d48f450c24be128404fa10093427"
+
+[[files]]
+file = "structurize/schematics/frontier/rabbithutch4.blueprint"
+hash = "e87dbef6919f9f904047b0ec9a511fd1a966bca56c6d4b1e2096e3451ab092c4"
+
+[[files]]
+file = "structurize/schematics/frontier/rabbithutch5.blueprint"
+hash = "d1d2231888757a18dc0f288fd7a68156a912bd263f882627ae1ada664cf62bdf"
+
+[[files]]
+file = "structurize/schematics/frontier/sawmill1.blueprint"
+hash = "37c88f3106889249d5425bf9627b927383d77f3bec64b0a0fe847f5408a3a68c"
+
+[[files]]
+file = "structurize/schematics/frontier/sawmill2.blueprint"
+hash = "219691769076f12ec87ca1b7bd18ef690ab27feb92d45a3c0c7d3d06a88f1440"
+
+[[files]]
+file = "structurize/schematics/frontier/sawmill3.blueprint"
+hash = "f140ce3259681062d2264050375520b0dfaf5e49fdae401675bbf173cf07a1e9"
+
+[[files]]
+file = "structurize/schematics/frontier/sawmill4.blueprint"
+hash = "170c3b38e1b4fd9057241ca8df67e1199161e282dffbf31fe596a4aa488da957"
+
+[[files]]
+file = "structurize/schematics/frontier/sawmill5.blueprint"
+hash = "b330b3e599965b56a378c92b868522a822a5c9bfcd7d0d9304c6c162ad23123c"
+
+[[files]]
+file = "structurize/schematics/frontier/school1.blueprint"
+hash = "877fcc45b145e0f6b110a706a7d496be700a0364bd2d0189b70fc5c7e0cdeae6"
+
+[[files]]
+file = "structurize/schematics/frontier/school2.blueprint"
+hash = "55d6b2ae664d028ea463528ae7e3d899b69de4cf252a2eadca5c3be786b80601"
+
+[[files]]
+file = "structurize/schematics/frontier/school3.blueprint"
+hash = "311b590dcace30946551c92622f85cb8b836e1d731ca5931d26c5a8eab563c53"
+
+[[files]]
+file = "structurize/schematics/frontier/school4.blueprint"
+hash = "0f78a475d2b502f8248ff01ebf146b1b51de214f1690241028680eb73bd36b3b"
+
+[[files]]
+file = "structurize/schematics/frontier/school5.blueprint"
+hash = "18f0e60941aca1267e8fce8b641df6d751f8763424e09875a5cbdfc08bc0c05a"
+
+[[files]]
+file = "structurize/schematics/frontier/shepherd1.blueprint"
+hash = "e391161cc92827171c9e5fa3e64b9296fdc45726e2bd5c7f3b30f73ba7a67167"
+
+[[files]]
+file = "structurize/schematics/frontier/shepherd2.blueprint"
+hash = "38ede27e17803caa4459c276399b1469f3256118da0920e4eb6887fe53720eb9"
+
+[[files]]
+file = "structurize/schematics/frontier/shepherd3.blueprint"
+hash = "424c310c37f34aa7eb0fb5eadfd10a4856904046b2b8e4c85e7f94cf9454a208"
+
+[[files]]
+file = "structurize/schematics/frontier/shepherd4.blueprint"
+hash = "e5781738cab4ca22c94033e1cf6ad43389cb9740307298486870189fcfc28d0f"
+
+[[files]]
+file = "structurize/schematics/frontier/shepherd5.blueprint"
+hash = "1b55280caab7a62246522189c94c93880894af5def7a009f03e4ed6f518b3c80"
+
+[[files]]
+file = "structurize/schematics/frontier/sifter1.blueprint"
+hash = "edbfc05f52d2714417b0420859aa80930d25c744df5933493b734c027902c7b8"
+
+[[files]]
+file = "structurize/schematics/frontier/sifter2.blueprint"
+hash = "4a75250a4dfee3a0489f79040c1fc0c6a8ca4302b5952a8d656702859f4f09ba"
+
+[[files]]
+file = "structurize/schematics/frontier/sifter3.blueprint"
+hash = "5be62037271ee5151327fdf59674e9d13b7c6379cbff5b7ff3c0b4ef56aef7a9"
+
+[[files]]
+file = "structurize/schematics/frontier/sifter4.blueprint"
+hash = "8ed8405cd400555fd9fef7d1d1b8a9c5a2c34e9cade2604668429c1aec70ef5e"
+
+[[files]]
+file = "structurize/schematics/frontier/sifter5.blueprint"
+hash = "cef33eae87d5ac085c54be6b1d8e17ee4fede9b4a8298c53c68e61ab605944fc"
+
+[[files]]
+file = "structurize/schematics/frontier/smeltery1.blueprint"
+hash = "262c9c505a437c13234ae87c2961e0f6ac048b44899e3ef01a0582ff17bf9028"
+
+[[files]]
+file = "structurize/schematics/frontier/smeltery2.blueprint"
+hash = "8bee6e8e5ece00961d93911abee79ea0d80b16c05fb968b6cd9bad3655367cb4"
+
+[[files]]
+file = "structurize/schematics/frontier/smeltery3.blueprint"
+hash = "abe96f53d8488a8c3a61931ec99e9cd153c5a4170a1b9d20a65299272ac9ed72"
+
+[[files]]
+file = "structurize/schematics/frontier/smeltery4.blueprint"
+hash = "a81bd1e09fad23dd14da35f7536cda6be06b3ccda8b718b1447466fdf71baff9"
+
+[[files]]
+file = "structurize/schematics/frontier/smeltery5.blueprint"
+hash = "2540b83aefcc8f6a6718d0ba8624b933aee31cb2b428df829bd30a7dc0a872e7"
+
+[[files]]
+file = "structurize/schematics/frontier/stonemason1.blueprint"
+hash = "60863f954f60add4ed3dcd794a8ce8e0f85f26bd4c86f3564da45474abd88f3c"
+
+[[files]]
+file = "structurize/schematics/frontier/stonemason2.blueprint"
+hash = "708b439537f0a10994d696d44639b02a848e8e899df92a1abd6e8c53309fb26b"
+
+[[files]]
+file = "structurize/schematics/frontier/stonemason3.blueprint"
+hash = "a6727adf040cc43b634d10d42aa8c16030c3a57a7bcafcc8bf56c0d5d1e8c06a"
+
+[[files]]
+file = "structurize/schematics/frontier/stonemason4.blueprint"
+hash = "845b232b15fed4b3ec4fc8e8127e597cec214e72363a9ccbd3d915d1214a04a4"
+
+[[files]]
+file = "structurize/schematics/frontier/stonemason5.blueprint"
+hash = "376a4b402d54272c3bcc7eeb05e1ebdfdd6432f479560220f0be379cbc11af53"
+
+[[files]]
+file = "structurize/schematics/frontier/stonesmeltery1.blueprint"
+hash = "1cf354fccca21a1fd9bae12f4816c10ff07e393e202dc9dd7ec7800c6c85844f"
+
+[[files]]
+file = "structurize/schematics/frontier/stonesmeltery2.blueprint"
+hash = "e2308918aa9db63e56d7c9b87213648ac2761c42ac5de9951db2ff975386f962"
+
+[[files]]
+file = "structurize/schematics/frontier/stonesmeltery3.blueprint"
+hash = "192684d02f272e123431ecfbc955847be92bc63861642893fec00b8d5e9c75de"
+
+[[files]]
+file = "structurize/schematics/frontier/stonesmeltery4.blueprint"
+hash = "54895903da1a558058e6b80855a863d2e07945e163da4da7340774381d9af46a"
+
+[[files]]
+file = "structurize/schematics/frontier/stonesmeltery5.blueprint"
+hash = "b2587a46b87f448b2680da244d453d659fd799b40b44c3a8a4b220a5ffebd198"
+
+[[files]]
+file = "structurize/schematics/frontier/swineherder1.blueprint"
+hash = "7db107c58375dfc32cb8d81089d3f52c9c67479bedaf9fef6ae80197efb9c2a4"
+
+[[files]]
+file = "structurize/schematics/frontier/swineherder2.blueprint"
+hash = "fd2ec6be666492a68a2ab95e1db564a8958059ab5bf0b4e02a1ead053d46c503"
+
+[[files]]
+file = "structurize/schematics/frontier/swineherder3.blueprint"
+hash = "7cc244a28acaf3161914ae16bdf84b182967479403b7174894f96acc2efb8a07"
+
+[[files]]
+file = "structurize/schematics/frontier/swineherder4.blueprint"
+hash = "112637e78b3394c5c7e8a127ea4049b0a0c3dacea1e02edd5e9d1a561163130f"
+
+[[files]]
+file = "structurize/schematics/frontier/swineherder5.blueprint"
+hash = "433e1aabf6447e7b3c681f23ec278641516d590f9dcce2921488a0e0b76442c3"
+
+[[files]]
+file = "structurize/schematics/frontier/tavern1.blueprint"
+hash = "39b4f3c8bd87d1514e14ffae87c9502919132b46421aca5b5c2a175eb0932bed"
+
+[[files]]
+file = "structurize/schematics/frontier/tavern2.blueprint"
+hash = "45a1c27491024300b81b8bf67fab7cf4bad4b736283828687d21a45b9ffd115e"
+
+[[files]]
+file = "structurize/schematics/frontier/tavern3.blueprint"
+hash = "21483839331bac6e970f931f70e99821216323b9682e9097f9526d67b977bde0"
+
+[[files]]
+file = "structurize/schematics/frontier/townhall1.blueprint"
+hash = "68ac5ba1870c3cb86b6c9c9e5c0ab638182b230db272b7588f163c6d9950f8de"
+
+[[files]]
+file = "structurize/schematics/frontier/townhall2.blueprint"
+hash = "2265182d52d41799ee05226c51e7c683c9d14c1c796f97a3dafe8027ec2b8593"
+
+[[files]]
+file = "structurize/schematics/frontier/townhall3.blueprint"
+hash = "7b60627526acaf6b51506249165d0b8f982809ed58cf587a1b09ae7a4996cef9"
+
+[[files]]
+file = "structurize/schematics/frontier/townhall4.blueprint"
+hash = "9efd3ab5a6b0d1db3b5ce9cbc22b7481d7d811df3b1e06ced8213a4804495ad5"
+
+[[files]]
+file = "structurize/schematics/frontier/townhall5.blueprint"
+hash = "b1c852eb479f98e5d7bfc53b7953b5335adb270958edb48ca5bcef4a453bf7af"
+
+[[files]]
+file = "structurize/schematics/frontier/university1.blueprint"
+hash = "828496efe79bacfcbf815c2e76687b4118228f851b2b3e30b253afe5d2bb4f23"
+
+[[files]]
+file = "structurize/schematics/frontier/university2.blueprint"
+hash = "da9674139ae7baf9e5f158810dd8f3fc613168cfa0e32a37c969ae9503e76811"
+
+[[files]]
+file = "structurize/schematics/frontier/university3.blueprint"
+hash = "0fb68d1f2b3297500b4136ce67616cc9952d1e186c2c8ef16a0e0d0e0f6c28ff"
+
+[[files]]
+file = "structurize/schematics/frontier/university4.blueprint"
+hash = "5c0f4fd96e764524635e0f48f9f73623c0a2b46a2396c9295626f03b83934e4d"
+
+[[files]]
+file = "structurize/schematics/frontier/university5.blueprint"
+hash = "8b12a083f8eb8e691147f3226b0b529d53d892074e4d3184e70555270a522317"
+
+[[files]]
+file = "structurize/schematics/frontier/warehouse1.blueprint"
+hash = "5aa7bbf6d20535be76bb9af195393503cedd1271b3cc87dd925afcbb3bab96db"
+
+[[files]]
+file = "structurize/schematics/frontier/warehouse2.blueprint"
+hash = "5134b80559759fb3c68d44a85fc34f816c6e60f5c759eea4bf12847a460f443a"
+
+[[files]]
+file = "structurize/schematics/frontier/warehouse3.blueprint"
+hash = "92e5e8f9fca6163276dcdc9ca72fb335e89efa12c8d84caac61fea0ee7c283f8"
+
+[[files]]
+file = "structurize/schematics/frontier/warehouse4.blueprint"
+hash = "1a4ebfcd68039f83daaab792f9b10cc703f59927bc0b56e8b1e2e8a3c6bfde04"
+
+[[files]]
+file = "structurize/schematics/frontier/warehouse5.blueprint"
+hash = "dc557080c21c58b6766ae80d6325ea3d6e4bdfa798a7316f836a78991a0641a0"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/archery1.blueprint"
+hash = "9d6763c2f1c1624e80c66cf93e8b26b1340a589791bfcc4c95f859ed90d7144e"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/archery2.blueprint"
+hash = "092679b39730a1b7f7cdbb3a67cacab296ff4c2117374b1012a89045bec506f2"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/archery3.blueprint"
+hash = "a91de23ed4930d42e7cf4db9915486a45f4032d2e38c4f303cd0a86b9784796e"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/archery4.blueprint"
+hash = "78408d61492e37596a00c596d818bd9acb891aea5d5277dccfc9ac5435862144"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/archery5.blueprint"
+hash = "b2a5ce0afc8072ea822147bbd6f797611e048b1c459de044a80f328f73d201fd"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/barracks1.blueprint"
+hash = "8a70882e3e80f730b024e521645f9508aaef6812c864914e611af9eee8639987"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/barracks2.blueprint"
+hash = "7a163ea6fcc71bffa1a9acf8b1be076afd9f6963964000f0ace87813043cad1a"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/barracks3.blueprint"
+hash = "761b59d3dfc6d74883ec026239a59e1a5272546485381b62def3ff740b19bb66"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/barracks4.blueprint"
+hash = "b6c9d58a2564d6288db87942b76294de3dbf816154902ea5476c7b0a36b606f5"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/barracks5.blueprint"
+hash = "086650c05b8210f11af5c50c0f90805be9102d27b6d08a0944a789b2426e4516"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/barrackstower1.blueprint"
+hash = "90b524dac65ba584eb6c5e54b2593e6eb0835182dfa5c241a4b430c4bdd81a92"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/barrackstower2.blueprint"
+hash = "d2a1cf2b7f810419e88a119194bfd47b273c46db46f7f3ddfe4ce18aea6b392a"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/barrackstower3.blueprint"
+hash = "daf95a573e1ad2c2bd34caac0ed0da42237db1400307c56bb55cc79fee1814a3"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/barrackstower4.blueprint"
+hash = "645fdd6e53c6b8d3c11188c2d596ac485db1a031cba424577ba0fa73e42f68d5"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/barrackstower5.blueprint"
+hash = "7da2e72400e8cc18c00bc10a9c05a666ce65d9ef2619db7c69d0bdcfc643d6ab"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/chickenherder1.blueprint"
+hash = "332ac8e970e35a5a8bfbe383a0195353f5d04cdf8baf81e76e404d3c502c2455"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/chickenherder2.blueprint"
+hash = "97397f4c2e65440b62a35f8165f5ed9758ca866c833d291f10a8082c9d9219fb"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/chickenherder3.blueprint"
+hash = "8ebba92917bfb63f6e410d31610b3679263543af25eb59d2abdb11bf20457a80"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/chickenherder4.blueprint"
+hash = "357caea26cf882fb3b59d1c478ebce75d0a4a3aba47486640604ef43e2e0e425"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/chickenherder5.blueprint"
+hash = "5a1c7a03be6e276e56858c8a1112f97076bdd7ec7aa72bb6a1aae8b1d4a99c1e"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/combatacademy1.blueprint"
+hash = "faae33642971d6219931790121ddb54ab1e83e999f680f109b4401bcb6bbc71b"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/combatacademy2.blueprint"
+hash = "423d856046d8de470d4f33736e0bd8c866b3cee6585804155f74e55e75a326b2"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/combatacademy3.blueprint"
+hash = "f83b90cd8b490e84e9b47f5124677ae4a853f83e390e3991b1700cad79275e3e"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/combatacademy4.blueprint"
+hash = "d7814adadb32b47a0c4a236c74650a81ff8778177f6e63ae8f681a68ccdd9ad1"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/combatacademy5.blueprint"
+hash = "d4b4cfe25290698b5d3f0c65a74b62e660fc4356ddbb6c1c5f9680787102d20e"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/cowboy1.blueprint"
+hash = "b53fcd2ac7dd7928037858e6598e59e64754dee771c45815a895fba7376284d9"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/cowboy2.blueprint"
+hash = "9ebd8c13352ee6e7bbf97d4dc03b2a18a204770edebb6c2b58ac744eefd9a8f5"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/cowboy3.blueprint"
+hash = "4d827f65b15083a9e70f0554204a87f37569c653f9dc0373875f72b4658c1261"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/cowboy4.blueprint"
+hash = "ed1cb68f6ff2c6f24b3d2a04583a22965c3349df2b6eda46571ba73fdf6c8ef6"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/cowboy5.blueprint"
+hash = "dfd506e7a637fbd226c0af2f5b08523831597023bd7a6779c52e244bbe173af7"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/enchanter1.blueprint"
+hash = "75bb193d6bffec53403eb30e8b47c3c1fc4a9f572f1b3ed32816aa06b94ee26b"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/enchanter2.blueprint"
+hash = "1042331a3507b1a0e2354d7bfd1b0acae6e1ea52f8b1e5c5eb95f481c3de0f91"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/enchanter3.blueprint"
+hash = "9308025b9b6b6b7ca5e2784657d98dcd369ea8217f5704ae175152441c77d362"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/enchanter4.blueprint"
+hash = "c68590e71be73b945aa53a9b50c932053bd90b9665a63e82232f7cbccaf1adf3"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/enchanter5.blueprint"
+hash = "e1a395c3d43d2b8cec2c4bc036b1c63e26c90749946d955145540a016782fd2b"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/farmer1.blueprint"
+hash = "da4fa576625a3f3cb57884750231263508cfee4db3bacce8e803925491c9524c"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/farmer2.blueprint"
+hash = "6ad96730d4ead9f8627d2964f660b206fd69419037a77138c6179e1d3a5b1728"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/farmer3.blueprint"
+hash = "c8dd9383104f917353e447270440b2c72dd37dda533d6ef8db60f79c713ceda6"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/farmer4.blueprint"
+hash = "b9635ed84678721c503afa83b92ff71a55be8c57058bca84757f54b9130afd8e"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/farmer5.blueprint"
+hash = "f6ff2418ec6afb44dcdb87623236fd67fab4269068a35a7eb4466317476eb50f"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/fisherman1.blueprint"
+hash = "06d4d386c023fb15311da0df72c620463c784adbaabd8d0e92908dbce4d5eadb"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/fisherman2.blueprint"
+hash = "f5a49fb0d5f23e53a264a4b273747e57478fc31e1383336df08137cdc2108e7d"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/fisherman3.blueprint"
+hash = "e6b10b15fad5047c1676e707bbe02b4493d9d796442bf784b27439d450a1570f"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/fisherman4.blueprint"
+hash = "47284c00bc6557cca666deeb27b276ff16f743c7d90fff0efad9a2106b650bc1"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/fisherman5.blueprint"
+hash = "50e9da324b3267fda9a0886bb255eb43ed63738bede62a37eb6fa4ba12c68ada"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/guardtower1.blueprint"
+hash = "383b8a1d8cadb88b0012021c5c4907040acfdb6cf2703ceb47f695dfdcc48992"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/guardtower2.blueprint"
+hash = "bcea0b6076bc0455d05a9ca5d2020a8ca33c8a28c7b74bfa8f6a9845ef6a7358"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/guardtower3.blueprint"
+hash = "320572f936e860f713cfb60b31e2cb514ac9a440a2bcd03d484d2fe88cb168e4"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/guardtower4.blueprint"
+hash = "822220488a5c3da112d0d52b3a86ace4ded90ac320047fcd5adb2825a4dcba7c"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/guardtower5.blueprint"
+hash = "eb0a9267dbd964f3a8c1101f495ee042cf33ec7ada1238963bf8cc5f83c0f840"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/plantation1.blueprint"
+hash = "87e1b1db168f4cbdb568ab3963ae109a09bafbf0dddbd11f44a031aed8f7410c"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/plantation2.blueprint"
+hash = "63cdc50423e68309cb4593133070a1768b03244829c5907c89520bb731bf9bbc"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/plantation3.blueprint"
+hash = "1172883ec137fc52c8c037113a7cfba149f2c6c442f227bfcb9af204c822db72"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/plantation4.blueprint"
+hash = "9b87835df7c36831e3e151a78cfc405053dea7f70fcf1cf67f2d83dcaf740020"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/plantation5.blueprint"
+hash = "6a8275287805b2a3c1bde7f09233eb6a9c2868ff19a5212265b16140e72a0738"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/rabbithutch1.blueprint"
+hash = "c8e67d9bbbe551c6a5c823d2b83204fa31530173cb03adaea1a92e896e5d70e4"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/rabbithutch2.blueprint"
+hash = "27cd17c55cb974616314475150f4bad040c79836fc05583931567324c73412ce"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/rabbithutch3.blueprint"
+hash = "8ce7bc800c29f5cca46b781803277612dec6d48f450c24be128404fa10093427"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/rabbithutch4.blueprint"
+hash = "e87dbef6919f9f904047b0ec9a511fd1a966bca56c6d4b1e2096e3451ab092c4"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/rabbithutch5.blueprint"
+hash = "d1d2231888757a18dc0f288fd7a68156a912bd263f882627ae1ada664cf62bdf"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/shepherd1.blueprint"
+hash = "e391161cc92827171c9e5fa3e64b9296fdc45726e2bd5c7f3b30f73ba7a67167"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/shepherd2.blueprint"
+hash = "38ede27e17803caa4459c276399b1469f3256118da0920e4eb6887fe53720eb9"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/shepherd3.blueprint"
+hash = "424c310c37f34aa7eb0fb5eadfd10a4856904046b2b8e4c85e7f94cf9454a208"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/shepherd4.blueprint"
+hash = "e5781738cab4ca22c94033e1cf6ad43389cb9740307298486870189fcfc28d0f"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/shepherd5.blueprint"
+hash = "1b55280caab7a62246522189c94c93880894af5def7a009f03e4ed6f518b3c80"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/swineherder1.blueprint"
+hash = "7db107c58375dfc32cb8d81089d3f52c9c67479bedaf9fef6ae80197efb9c2a4"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/swineherder2.blueprint"
+hash = "fd2ec6be666492a68a2ab95e1db564a8958059ab5bf0b4e02a1ead053d46c503"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/swineherder3.blueprint"
+hash = "7cc244a28acaf3161914ae16bdf84b182967479403b7174894f96acc2efb8a07"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/swineherder4.blueprint"
+hash = "112637e78b3394c5c7e8a127ea4049b0a0c3dacea1e02edd5e9d1a561163130f"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/swineherder5.blueprint"
+hash = "433e1aabf6447e7b3c681f23ec278641516d590f9dcce2921488a0e0b76442c3"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/warehouse1.blueprint"
+hash = "b2bef26c619b71a1db08cc3a3ac8ecfadb919f74257838a7ff17aa5a879d3a17"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/warehouse2.blueprint"
+hash = "4d26144654bbdbccac5f711d4add7871588aa3f9aff78debc0c04065b05345cf"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/warehouse3.blueprint"
+hash = "f38f586d97ac3ce67090b77ff1d086d2fa19291d4ba2a4cd458bc3d4f8e917a6"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/warehouse4.blueprint"
+hash = "6f5c969a778ea0d6cd5dec7e5b31f547f1de68a2b81e6238ec98f923388c8442"
+
+[[files]]
+file = "structurize/schematics/frontieralternative/warehouse5.blueprint"
+hash = "79260f0e5b80b181f05432c34af0383695d1b91ab826a3a4ba4b90d3871a63e6"
+
+[[files]]
+file = "structurize/schematics/hive/archery1.blueprint"
+hash = "8263bba97f60ad397cd47f4b3fe93c4f92074d887856772155c97c601dbad9c4"
+
+[[files]]
+file = "structurize/schematics/hive/archery2.blueprint"
+hash = "203912e447ecce850dc61a62b9e1780d4f0882ae77589e46482b8c1d4fa96450"
+
+[[files]]
+file = "structurize/schematics/hive/archery3.blueprint"
+hash = "de052a47b30291ec291cbd857a665ee8374a64ef27e64d9e643d3e26795c6aba"
+
+[[files]]
+file = "structurize/schematics/hive/archery4.blueprint"
+hash = "1a7495b1a04e69ecdba45a2aa664a73ceefd7fecd87dc2dac0f5d8453756ce95"
+
+[[files]]
+file = "structurize/schematics/hive/archery5.blueprint"
+hash = "05a56394c289fb22f5459716672d8deb5fa0bd164ae962de757e4d1d529053da"
+
+[[files]]
+file = "structurize/schematics/hive/baker1.blueprint"
+hash = "c6ae50ec587d0537d2f18c722bd60ef166e50af7d201def1bfa66e3deb2a38e2"
+
+[[files]]
+file = "structurize/schematics/hive/baker2.blueprint"
+hash = "670cc1465cd0b024f25a72060bf0bfcc4eae1cd24e75f8d7a62025089e6b275a"
+
+[[files]]
+file = "structurize/schematics/hive/baker3.blueprint"
+hash = "3adc546ad19e0cf7cab6e909dd073446d38e1ccbd9e2f8bb023f097fb3b77faf"
+
+[[files]]
+file = "structurize/schematics/hive/baker4.blueprint"
+hash = "27e0e79aa190b756b29e3f10693c91e9cb9fa93aee2b14a2b288d01b68236354"
+
+[[files]]
+file = "structurize/schematics/hive/baker5.blueprint"
+hash = "98e4e517f04e6272078618f7b65c80acc32ff6c31a9a268394b487aa9d9c6633"
+
+[[files]]
+file = "structurize/schematics/hive/barracks1.blueprint"
+hash = "534e61318629249197b2863ed2b9368c0d3fff89a50d6637e57ad40c4b34ba58"
+
+[[files]]
+file = "structurize/schematics/hive/barracks2.blueprint"
+hash = "8754dba364900bae4985ef1a8bc5501aa69b518a34e9bf950ea471285b26f706"
+
+[[files]]
+file = "structurize/schematics/hive/barracks3.blueprint"
+hash = "adb5b2b785d5846d10d5b914d58fe9fa4804e98efe32e20b94259a7662f33417"
+
+[[files]]
+file = "structurize/schematics/hive/barracks4.blueprint"
+hash = "af53f252ed8d2b30318387d03bd5dc7aad0355276a44973de6435606ec1a0734"
+
+[[files]]
+file = "structurize/schematics/hive/barracks5.blueprint"
+hash = "0252a91b6c38612140071de7578a2099478f80183985fd43a16c796cb5813093"
+
+[[files]]
+file = "structurize/schematics/hive/barrackstower1.blueprint"
+hash = "c48f1f34024915a0f14588b27cc1d00dfd2e3bb5835a07a8a807583ef971871b"
+
+[[files]]
+file = "structurize/schematics/hive/barrackstower2.blueprint"
+hash = "e7c2b317c2461f2067bcbd980da8ec474c578ccab0d7fb8bb094fb1b52b214cc"
+
+[[files]]
+file = "structurize/schematics/hive/barrackstower3.blueprint"
+hash = "b6931c4de3b908c5dae54f643dcf194e9c16499c0c8b23f537d73cebe974a14d"
+
+[[files]]
+file = "structurize/schematics/hive/barrackstower4.blueprint"
+hash = "4ed4e26a68266cbaef21ce50683d6f726544ed7fd9b7109d559256ea755fd5fd"
+
+[[files]]
+file = "structurize/schematics/hive/barrackstower5.blueprint"
+hash = "2e8a9a4ae986decd98971fc4daa86242c862c00ce870a06a5a7074c4af8fa640"
+
+[[files]]
+file = "structurize/schematics/hive/beekeeper1.blueprint"
+hash = "e087e8380c55e527c1178839983a3e0fb79f893e0e08082811fe325cdd8831fc"
+
+[[files]]
+file = "structurize/schematics/hive/beekeeper2.blueprint"
+hash = "47dc7182b5d1b484f7bc27c80912a0cf16b7a7b8d81bea8d2d24f20249881faa"
+
+[[files]]
+file = "structurize/schematics/hive/beekeeper3.blueprint"
+hash = "e10330f0c90f771ff0f9d0dd5885301736362eaa54775c714960d3b8ba591b53"
+
+[[files]]
+file = "structurize/schematics/hive/beekeeper4.blueprint"
+hash = "48efad5b315cdb855285dd473efac098643f1f26a51cb0306df824b4525798d2"
+
+[[files]]
+file = "structurize/schematics/hive/beekeeper5.blueprint"
+hash = "486365a5488ba9c4fcca039669b635c47b576846d620bae16a0a91b4fe017ee2"
+
+[[files]]
+file = "structurize/schematics/hive/blacksmith1.blueprint"
+hash = "518ea7dae1685b18bb9a8e4b54f543fde6dcd58e09ef070d52798684f2b59118"
+
+[[files]]
+file = "structurize/schematics/hive/blacksmith2.blueprint"
+hash = "35e40f26dd11c2d4aa9f9cf2c7f56301207cd665c335c0a95a0f8253847d6eb1"
+
+[[files]]
+file = "structurize/schematics/hive/blacksmith3.blueprint"
+hash = "7edfb6a119b2a8dff65357c2081ad07bc0a283dd44a39d33b2f738861dc2fd73"
+
+[[files]]
+file = "structurize/schematics/hive/blacksmith4.blueprint"
+hash = "2217db37acda42baae7ca8f90f5e1f12fc8f14629caede9f6302fd2b2e01a54f"
+
+[[files]]
+file = "structurize/schematics/hive/blacksmith5.blueprint"
+hash = "c4c5f6bcf45ae560739083123dc6f0ae022838067c82e33e69259134ff8a5cd4"
+
+[[files]]
+file = "structurize/schematics/hive/builder1.blueprint"
+hash = "27d0a2d3523dc38369b67a9ab925b4d28d668b27d8bd3204af5918b6788b95ae"
+
+[[files]]
+file = "structurize/schematics/hive/builder2.blueprint"
+hash = "9f9ddf7a2d5240274e4b496d921dd5f2d60fbf1fe9838f18c78bf04826ef7d3a"
+
+[[files]]
+file = "structurize/schematics/hive/builder3.blueprint"
+hash = "5c076d0acc6f8ce8f3183dbeb68a41cc2e31cc9ee3c59173ebc680a8994b7087"
+
+[[files]]
+file = "structurize/schematics/hive/builder4.blueprint"
+hash = "bcb5aba2cace4c3d78a736d9342d2a69014a7226d6cd5a7f197d47ca6a53a098"
+
+[[files]]
+file = "structurize/schematics/hive/builder5.blueprint"
+hash = "e89d60a8cbd2848e1f0d0b6426023abd2b014677c0ed37ef8fa132360f7647fc"
+
+[[files]]
+file = "structurize/schematics/hive/chickenherder1.blueprint"
+hash = "467e72ea51af10450e468d7285e65d1762d1d259435dad73c8e8b2553c8fbaf4"
+
+[[files]]
+file = "structurize/schematics/hive/chickenherder2.blueprint"
+hash = "c2a02770905330c4e9d984c10bfb0e06f0f547446095ee720fc88184ac2cae3b"
+
+[[files]]
+file = "structurize/schematics/hive/chickenherder3.blueprint"
+hash = "96509958cee55ef3d858c07ff14d234fe90eacf622af8132913488fce4dcc9dc"
+
+[[files]]
+file = "structurize/schematics/hive/chickenherder4.blueprint"
+hash = "b41efa71c0c9aef4ecec594b3c2c66c55706a1d7f90c3803e6e2b95e4bc6867e"
+
+[[files]]
+file = "structurize/schematics/hive/chickenherder5.blueprint"
+hash = "a9d322c533f0672770cf2a61ed2563e412496257565a2f9bd62f05f19cf7f46a"
+
+[[files]]
+file = "structurize/schematics/hive/citizen1.blueprint"
+hash = "044a0f535825ab796353fb3dae5d0f8e29e8a464f428767b2ef3a83ca68f81b5"
+
+[[files]]
+file = "structurize/schematics/hive/citizen2.blueprint"
+hash = "028c08dceb9c544b6fbf3cb6d0bb89a4d276d0847d2b8ecd4131cce3abc0676a"
+
+[[files]]
+file = "structurize/schematics/hive/citizen3.blueprint"
+hash = "df4d0ca624d7de68f4edb679fd7023ea5e6ce00bb7424c0bcfe438b3582546e7"
+
+[[files]]
+file = "structurize/schematics/hive/citizen4.blueprint"
+hash = "1a6b83290f07a7c8410eb361e921706b33d3d622320e1fbce07f5f7ccb21e484"
+
+[[files]]
+file = "structurize/schematics/hive/citizen5.blueprint"
+hash = "a45390e530f517ea952e6f801664ca934e4d8e68d687e9662e81414eec97f846"
+
+[[files]]
+file = "structurize/schematics/hive/combatacademy1.blueprint"
+hash = "f086bef82e99875a4ed3ec77c397e018232e484b73b62f261a92d95ff320389e"
+
+[[files]]
+file = "structurize/schematics/hive/combatacademy2.blueprint"
+hash = "51ecae47024c60edf8039febe34af5b0a48ed11e35a79a93f790a0cc714a23fe"
+
+[[files]]
+file = "structurize/schematics/hive/combatacademy3.blueprint"
+hash = "9ee0f272db055faed0a7c1d091b770635657adb378da6d5e945823a30bbf3164"
+
+[[files]]
+file = "structurize/schematics/hive/combatacademy4.blueprint"
+hash = "4a6a06908a239934b406117d6348734bb3a8ff1a51bbdd54832862c81d2d5be1"
+
+[[files]]
+file = "structurize/schematics/hive/combatacademy5.blueprint"
+hash = "113a1f016ec575e0c463dcb78d51a84efccb0096bd9684cf9732f596ae409a03"
+
+[[files]]
+file = "structurize/schematics/hive/composter1.blueprint"
+hash = "3decd079378a17e8ec4defc49b6f1c074aa5c886dbd6247cca752af9255e0c7b"
+
+[[files]]
+file = "structurize/schematics/hive/composter2.blueprint"
+hash = "be5b250246ac5c5f1516b432cc2f388447c9c89c93ffc2e330ad2d585682b4fe"
+
+[[files]]
+file = "structurize/schematics/hive/composter3.blueprint"
+hash = "8c56cac2c243150d43eed9fd8924463318954f7daade8f38599ad5df305eca8b"
+
+[[files]]
+file = "structurize/schematics/hive/composter4.blueprint"
+hash = "d567a5336fcdd26fd256df405fb72e0b3ea2cee9dc43a67900bb4d18c76b761d"
+
+[[files]]
+file = "structurize/schematics/hive/composter5.blueprint"
+hash = "c5ad269e579aa60e6bc263eb251cf7973b25f692652622d1157ce8e12a12020b"
+
+[[files]]
+file = "structurize/schematics/hive/concretemixer1.blueprint"
+hash = "960acdbf00cff7d8ac2dccce6d3a6b49cfe925ac3816c540e79fb345d44a2407"
+
+[[files]]
+file = "structurize/schematics/hive/concretemixer2.blueprint"
+hash = "ef0b914538b665f3d50ed08b50d0cbec6fb0febe7e3a056df9257771b979595d"
+
+[[files]]
+file = "structurize/schematics/hive/concretemixer3.blueprint"
+hash = "219469c4a1a72de2fb6b77720a80bf807eeb74e1fe6f5fb3f0a2148d51678f67"
+
+[[files]]
+file = "structurize/schematics/hive/concretemixer4.blueprint"
+hash = "02cf4492e454d5e0cd87b18f38dcdbbc5e0e4e5bb22d4a7bab3b711906048fa5"
+
+[[files]]
+file = "structurize/schematics/hive/concretemixer5.blueprint"
+hash = "bd363ab7340ef4c86a3a7e0170266147aa542efcd9e6cccf375ccbbbe7db9767"
+
+[[files]]
+file = "structurize/schematics/hive/cook1.blueprint"
+hash = "7d8be3a53fbf51c4d9aab63e6fc4d8b4c142f1c220bd6591de31ad03ac8d8ed5"
+
+[[files]]
+file = "structurize/schematics/hive/cook2.blueprint"
+hash = "89205486eb1a8690e8fd1151f5cfd52ebe1b98be5f04b04bcad5f6ae409e012b"
+
+[[files]]
+file = "structurize/schematics/hive/cook3.blueprint"
+hash = "216f7fcbdfe13175c04b41c6bd499cd82899f6a02c1d8c77d71d8a89cabfdac3"
+
+[[files]]
+file = "structurize/schematics/hive/cook4.blueprint"
+hash = "2538aaa3d62b718a4392bf8448f7836f73645cf1473a3c25765e67a8b952c7ed"
+
+[[files]]
+file = "structurize/schematics/hive/cook5.blueprint"
+hash = "55a58fee39f396f6577435db2f3e65b550800723dcae348635c1688d711944e8"
+
+[[files]]
+file = "structurize/schematics/hive/cowboy1.blueprint"
+hash = "827b6f860a0f562e255de1d6055193a5a4f7a025a013365875faaac44e4cf4b1"
+
+[[files]]
+file = "structurize/schematics/hive/cowboy2.blueprint"
+hash = "06d72ec0947bd8ca04a0dd6d3f48460ab3bbcee15f3f7c221f836926b24c7f0f"
+
+[[files]]
+file = "structurize/schematics/hive/cowboy3.blueprint"
+hash = "0cc8f145a2bc4d1725d99468beeb56b1a0659337262bae349bc7e4ccd1037097"
+
+[[files]]
+file = "structurize/schematics/hive/cowboy4.blueprint"
+hash = "729da3c48d865f00e38ddf88404e3466d7d83fd16748d1a2ba303c4344312c75"
+
+[[files]]
+file = "structurize/schematics/hive/cowboy5.blueprint"
+hash = "ebc206d94c4acf1f8e0075abf5fa6d6a85886bacfa8507c9c878ef002296baad"
+
+[[files]]
+file = "structurize/schematics/hive/crusher1.blueprint"
+hash = "1db4dcfd83919d09542c77ae1018df97de4fc1234b1d6fbe9b7f4e2d082f44ad"
+
+[[files]]
+file = "structurize/schematics/hive/crusher2.blueprint"
+hash = "d97b193671c99f01ac0a8f89a95c20e0a99575d2541d172ff2c2cc84a09b1a13"
+
+[[files]]
+file = "structurize/schematics/hive/crusher3.blueprint"
+hash = "2d0288e77852b4e313a9d54d53374ad9efba4a25bba4e96a5d3ec7811809fc1e"
+
+[[files]]
+file = "structurize/schematics/hive/crusher4.blueprint"
+hash = "66a921bf64cf57722c4cb41316a6a87c11f435f0779ce97d9765ca2af0aee246"
+
+[[files]]
+file = "structurize/schematics/hive/crusher5.blueprint"
+hash = "1e75e02abf212a424000b2ca4ea1e2c8e436edada71b27cd9fd032e53d16f875"
+
+[[files]]
+file = "structurize/schematics/hive/deliveryman1.blueprint"
+hash = "888ac26f086689f5b37c815e78c3b84e637e362c2feceab5f6b785d13e266f64"
+
+[[files]]
+file = "structurize/schematics/hive/deliveryman2.blueprint"
+hash = "fd8b07e96ae6355f85ed953881652cb6a207b07b4dbb4ccbaf038589d94c082d"
+
+[[files]]
+file = "structurize/schematics/hive/deliveryman3.blueprint"
+hash = "3d5386ca6d84cdfd1be65264f04667272bdaf93c9ba1b4042eccef43235d673f"
+
+[[files]]
+file = "structurize/schematics/hive/deliveryman4.blueprint"
+hash = "307ec076a56070a37b4bdf142e97939b2a43b920ded2dbdd19bea3d0d464da60"
+
+[[files]]
+file = "structurize/schematics/hive/deliveryman5.blueprint"
+hash = "ea41bc72a25f0e24b44c3574c60cb4d0b1bfbef026a7a95e53ab859cc43b779d"
+
+[[files]]
+file = "structurize/schematics/hive/dyer1.blueprint"
+hash = "f205e0201f06b2d16b677ac9ede375d9b2d621c718d84dcdff782dd2620e782d"
+
+[[files]]
+file = "structurize/schematics/hive/dyer2.blueprint"
+hash = "3807c4954fdf33da613425be65b33f5a8387a6ffa31e0816ce87ee6b1316ecb6"
+
+[[files]]
+file = "structurize/schematics/hive/dyer3.blueprint"
+hash = "91f267a3523e39a398a8573103dbf98dc071c5c1a7c48f31a4a943ce5803f7bb"
+
+[[files]]
+file = "structurize/schematics/hive/dyer4.blueprint"
+hash = "9b157843ee22dedda5fb6998b6771b643420b09e24d1bcb35d928aa7db21f561"
+
+[[files]]
+file = "structurize/schematics/hive/dyer5.blueprint"
+hash = "41ae12ab0cb733e3cbb671f1cef59f983eaf952fa92b71c57adcc3fe11b7253c"
+
+[[files]]
+file = "structurize/schematics/hive/enchanter1.blueprint"
+hash = "bf6c0d23e460d0efdd47296834e6c63ad1a9706bcf886c01184f4383f698dcaf"
+
+[[files]]
+file = "structurize/schematics/hive/enchanter2.blueprint"
+hash = "2bdb848d2325ad2ada4fe0a447b75fc3a8081ec0aef1bcade74fdcf1f92c0824"
+
+[[files]]
+file = "structurize/schematics/hive/enchanter3.blueprint"
+hash = "4576396720aefa9adb6008f20870b74695e5dd236047cd29589b07c708a25430"
+
+[[files]]
+file = "structurize/schematics/hive/enchanter4.blueprint"
+hash = "cb782c9ea026d788a61aef5cbce44793bae63464718a44e33f058c48b8bf8699"
+
+[[files]]
+file = "structurize/schematics/hive/enchanter5.blueprint"
+hash = "3f8b054ae758d41ce0ab94ec04440ff39c2b8435cf7cf93d8ad87e19dde50ac5"
+
+[[files]]
+file = "structurize/schematics/hive/farmer1.blueprint"
+hash = "c49f57676bc85dff4fc780005cc4edb9adf76c36c2814c8d94d8d4de443d5c86"
+
+[[files]]
+file = "structurize/schematics/hive/farmer2.blueprint"
+hash = "7bf7545a471c44f63b2e71840b2af900fdbdb78f827ff88ddc0957eea3f1c026"
+
+[[files]]
+file = "structurize/schematics/hive/farmer3.blueprint"
+hash = "52cb96f35296621b14fc2282ada63c08186f023a358fc167683c12679e5053cf"
+
+[[files]]
+file = "structurize/schematics/hive/farmer4.blueprint"
+hash = "ee8aceea4afbdbf2917f679dbb706331e8b8a3438e0a16c3261ee7070b332744"
+
+[[files]]
+file = "structurize/schematics/hive/farmer5.blueprint"
+hash = "b9fb79b8e7e383797efbeebe50e70c125570bebbc059c670831d88451c016494"
+
+[[files]]
+file = "structurize/schematics/hive/fisherman1.blueprint"
+hash = "9c30cc64d4508b8f1d6c712de2ef18704bcf93dd841f74ed82ede7bb0002de9e"
+
+[[files]]
+file = "structurize/schematics/hive/fisherman2.blueprint"
+hash = "3ad1781d5ba1078d37e2df388328b2f07f0fa902ad32a1493406f7b745093f77"
+
+[[files]]
+file = "structurize/schematics/hive/fisherman3.blueprint"
+hash = "47731a70d0d7809181c11a9c93235f388d9572df4753226aae41e4911f63b3b7"
+
+[[files]]
+file = "structurize/schematics/hive/fisherman4.blueprint"
+hash = "576ae70cccd59d942693c76f92006eda1e4fad3e8196db966b1b0eb3266fdeb9"
+
+[[files]]
+file = "structurize/schematics/hive/fisherman5.blueprint"
+hash = "0fb4ebcd302d197f2e38d8c3d53f94b1442e283f78a86cd8b9aeb26e2213305e"
+
+[[files]]
+file = "structurize/schematics/hive/fletcher1.blueprint"
+hash = "3c67d774cb9a74d0e8c3b182ea0a31289096b40f0c18068616418d1f236dd024"
+
+[[files]]
+file = "structurize/schematics/hive/fletcher2.blueprint"
+hash = "11cd7aa7437f1d52617120c757e9add29c189540d67ecf2e9b8f8b21ef33653e"
+
+[[files]]
+file = "structurize/schematics/hive/fletcher3.blueprint"
+hash = "a5fc3f605612333fc95177411d0ffb708ffbf5c5f206af10b1abdf349fc2b42e"
+
+[[files]]
+file = "structurize/schematics/hive/fletcher4.blueprint"
+hash = "23a021833d324254796c23afae4ee1064fac29e4a06c4275be94cd920b2efa2b"
+
+[[files]]
+file = "structurize/schematics/hive/fletcher5.blueprint"
+hash = "274b0715ccadde042feef2a8af50515d296cca17624263c5156a9c3622be8840"
+
+[[files]]
+file = "structurize/schematics/hive/florist1.blueprint"
+hash = "158807b169d0a1e1cc47264a5293780908e28e509c58560c0f697360e1bbdb89"
+
+[[files]]
+file = "structurize/schematics/hive/florist2.blueprint"
+hash = "614e9ad6708b009049cf92c19bfccee22874916b0d731386d2cd5d0d975e68d0"
+
+[[files]]
+file = "structurize/schematics/hive/florist3.blueprint"
+hash = "30d4350d2d819d99b60d4911dc59d1a6c00d5139c32cb81372f1216379e7e76b"
+
+[[files]]
+file = "structurize/schematics/hive/florist4.blueprint"
+hash = "a872a809cb3e132b83c4a521025a682a203b3176f92c3a12abe040fd0233f86a"
+
+[[files]]
+file = "structurize/schematics/hive/florist5.blueprint"
+hash = "990637373a35eb9dc6bb620fb91b1eb118701c4810f8797d721e762100777a27"
+
+[[files]]
+file = "structurize/schematics/hive/glassblower1.blueprint"
+hash = "e8735f1f3f3f5b2aa0ef710b583ba87c6a5b8b3aa34d006af899843ec9c2113f"
+
+[[files]]
+file = "structurize/schematics/hive/glassblower2.blueprint"
+hash = "46582d8af40e6bc4667d4e2264a5711ab1404e8c7a8952b2a0523e9cd9441bac"
+
+[[files]]
+file = "structurize/schematics/hive/glassblower3.blueprint"
+hash = "73676ceba9f7b2dc8bbb77d9d342e82824e58b757a616f7be67bdcf36c31225e"
+
+[[files]]
+file = "structurize/schematics/hive/glassblower4.blueprint"
+hash = "abe37de5f2a635089775813e82b9e6ecb2f529c05f89468204e20797d6275f0a"
+
+[[files]]
+file = "structurize/schematics/hive/glassblower5.blueprint"
+hash = "ab1c9bc37032eae580a5664e8c907e8f060d47ee3bf9a9ea15655331cd819856"
+
+[[files]]
+file = "structurize/schematics/hive/graveyard1.blueprint"
+hash = "8d0f5bbe612d78c32240b75982bf00aa76be0cf1dfea2ef2406cc6cd1f8d0127"
+
+[[files]]
+file = "structurize/schematics/hive/graveyard2.blueprint"
+hash = "8c9281cdd3266677fd8441b478cbb0bca97018e25567b95ff7c25ec17abe429f"
+
+[[files]]
+file = "structurize/schematics/hive/graveyard3.blueprint"
+hash = "895e6acc445aac5836009ab8708c36853bfa16902819fe150dcac60c87c435ee"
+
+[[files]]
+file = "structurize/schematics/hive/graveyard4.blueprint"
+hash = "8d318eb8115522eacf368f1537a19a963a40114eac36cbdec57655f01c1cdfc0"
+
+[[files]]
+file = "structurize/schematics/hive/graveyard5.blueprint"
+hash = "950ccd351c3cb907a393d0cb00e5f852154b06603682db5717b763c9647027c8"
+
+[[files]]
+file = "structurize/schematics/hive/guardtower1.blueprint"
+hash = "19770895d5d8f669c4e3f8e11893932523da057495683d1f95a988b39cb6df65"
+
+[[files]]
+file = "structurize/schematics/hive/guardtower2.blueprint"
+hash = "80f6061b08373b8a04ac2e27beef35231d1964d252278e17d2aeae6969d430d1"
+
+[[files]]
+file = "structurize/schematics/hive/guardtower3.blueprint"
+hash = "aa5098ad73ff69872da8c7ef968b769cc8994249afa46b6d60f65593b3e65ba6"
+
+[[files]]
+file = "structurize/schematics/hive/guardtower4.blueprint"
+hash = "f86ed10f17382bfe0ece35d6ed2b1ec6fcf2e46ca267bfef38d91f699ddb9a82"
+
+[[files]]
+file = "structurize/schematics/hive/guardtower5.blueprint"
+hash = "1b7fdd5584915403228f745cc0b53a6a5ed211256ff9d59f0f454eead79c5c89"
+
+[[files]]
+file = "structurize/schematics/hive/hospital1.blueprint"
+hash = "6e803700b55a577a5fa102684d5f232d51829f58f636862697ffbb10b31525c5"
+
+[[files]]
+file = "structurize/schematics/hive/hospital2.blueprint"
+hash = "22abdde4dd0062ec4631b8c20beea0da10704bfbcc54a2b7d0956d93112d3a1c"
+
+[[files]]
+file = "structurize/schematics/hive/hospital3.blueprint"
+hash = "b52e899190dae4c508a44ac941e9cd7f2e25abd04190a5eea3e9af64bc4419d3"
+
+[[files]]
+file = "structurize/schematics/hive/hospital4.blueprint"
+hash = "556466a2f72d6eea6bad28a4907c2892b95fa7f174ec73538ae1ed2efd2730c5"
+
+[[files]]
+file = "structurize/schematics/hive/hospital5.blueprint"
+hash = "7b0d757c2bf9f1ab15c385bc6a54295972b738e1af79b26bc5700a31bb53a99d"
+
+[[files]]
+file = "structurize/schematics/hive/library1.blueprint"
+hash = "eed4f54c10fee152bbc8a597fccb75d733e1dd181ea36a934de8c31bf59b99b7"
+
+[[files]]
+file = "structurize/schematics/hive/library2.blueprint"
+hash = "71e507471f0d23bca6e7ec88eadf54cec2d59b72108f0c016fdbdc12316ac466"
+
+[[files]]
+file = "structurize/schematics/hive/library3.blueprint"
+hash = "386b8fd60316916d50ebefeb3eaaee9b5c8a9783f795d6803dfd0dda60f996f8"
+
+[[files]]
+file = "structurize/schematics/hive/library4.blueprint"
+hash = "c15fefc7b015591c68eedc8c3350e81c132248848a33311f94c1accf67fa2e1e"
+
+[[files]]
+file = "structurize/schematics/hive/library5.blueprint"
+hash = "d0197f9d1ae3874d7e1dcad11ab1947aa48226a1410db1c15c29bffecce82585"
+
+[[files]]
+file = "structurize/schematics/hive/lumberjack1.blueprint"
+hash = "b07fdf5723149051bf5653e0ee3f033329fea002fb0458b1dd2aeb06351aeb12"
+
+[[files]]
+file = "structurize/schematics/hive/lumberjack2.blueprint"
+hash = "e31e9776e98dc81174885bc17334bc73f6127ea9a1e5bc44f43c79a21f86bc8d"
+
+[[files]]
+file = "structurize/schematics/hive/lumberjack3.blueprint"
+hash = "da0b45e592ab5f2c715db04c47f2ea2541432260b2776bb197db95bce2f344ee"
+
+[[files]]
+file = "structurize/schematics/hive/lumberjack4.blueprint"
+hash = "95fd9e232cf10098ed1453fa64741e3c305e218571c4b15a80ae42cd609fed68"
+
+[[files]]
+file = "structurize/schematics/hive/lumberjack5.blueprint"
+hash = "f197ba7faa0aa628e181d59f44f7d15e41684000fd279763553ab9c25fb58f7f"
+
+[[files]]
+file = "structurize/schematics/hive/mechanic1.blueprint"
+hash = "710e6e5e7872ac48e061b7c83438faf61f757df97828206bafe3a214bad16877"
+
+[[files]]
+file = "structurize/schematics/hive/mechanic2.blueprint"
+hash = "95d80a9bb887d7ad4a9d40fa7f3e56cc9d3d95199934b6ce06677ed6f7771190"
+
+[[files]]
+file = "structurize/schematics/hive/mechanic3.blueprint"
+hash = "9474447542b333c02d6aa45ac3950eaaf097886980aae02dd371614dca17eca4"
+
+[[files]]
+file = "structurize/schematics/hive/mechanic4.blueprint"
+hash = "ab3c196fc4a7384409579b6e972b07a9f196230b296780d7b35234dad6d973d8"
+
+[[files]]
+file = "structurize/schematics/hive/mechanic5.blueprint"
+hash = "35b163cb64638b4f3072d73544fb768187a18c5a21785ef68ee917d5c371fd15"
+
+[[files]]
+file = "structurize/schematics/hive/miner1.blueprint"
+hash = "efea984f1ba0900f18f457f9c06031793371fbf7887c18e9e195d5a292d501fa"
+
+[[files]]
+file = "structurize/schematics/hive/miner2.blueprint"
+hash = "f725a9236a709233af3bef299431cb36b47b9ed224efc1852f97d0aa415daaee"
+
+[[files]]
+file = "structurize/schematics/hive/miner3.blueprint"
+hash = "9d1154abd52441239b5ec05b1ef0073591b9c27960f39b3d4850510a013c16cd"
+
+[[files]]
+file = "structurize/schematics/hive/miner4.blueprint"
+hash = "3d366f72fd9d69be1edc834ee6a832b20b5b0343e64675ae3c9877aac0b9de2e"
+
+[[files]]
+file = "structurize/schematics/hive/miner5.blueprint"
+hash = "b94c2f3bb57a541ce34922e13f78b941fc9be5eac709a6dce9f91151a3a8ab3a"
+
+[[files]]
+file = "structurize/schematics/hive/mysticsite1.blueprint"
+hash = "353e2dde5ce2ce5d68e921a8c4b902f52b7793b72e9f8a2aaf0974cfe3c1911f"
+
+[[files]]
+file = "structurize/schematics/hive/mysticsite2.blueprint"
+hash = "3e58cfdc091e131c05d4dda696900684eac682a0af37afa9cdb368452fb11209"
+
+[[files]]
+file = "structurize/schematics/hive/mysticsite3.blueprint"
+hash = "48cfa20c216e98652be44ac069fad5bb4b635c1ee5b50391476f555b86c21a38"
+
+[[files]]
+file = "structurize/schematics/hive/mysticsite4.blueprint"
+hash = "7f1566633ac36296ba42cf2e4b7d9a32d7e354aca0a88d98b0b1d806318684bc"
+
+[[files]]
+file = "structurize/schematics/hive/mysticsite5.blueprint"
+hash = "5aaaaccfa548104eac87061e878e16bd37095e848f0bb4012bc2e2de207e5ca3"
+
+[[files]]
+file = "structurize/schematics/hive/plantation1.blueprint"
+hash = "c999fbdf4cb80ad03645a7c6b7a69f736aa0e5c74e89ba2143c9660e3ce169d0"
+
+[[files]]
+file = "structurize/schematics/hive/plantation2.blueprint"
+hash = "d234870adf93013527bd7a429679119db1528db8e2d3a1abf09901c12ee09961"
+
+[[files]]
+file = "structurize/schematics/hive/plantation3.blueprint"
+hash = "e42cb5f099878f9f7c8ba01e7d73d88dacfdff957f65c8f01197e4832d5099ac"
+
+[[files]]
+file = "structurize/schematics/hive/plantation4.blueprint"
+hash = "d4b2071b25e12e9b90900924ca797f4c2271c363ba251e67db2251ed899b5d8c"
+
+[[files]]
+file = "structurize/schematics/hive/plantation5.blueprint"
+hash = "c4478e10b5a168f909e9c1263c503fc9ddb324d7531f22b2f0956a160e53c07c"
+
+[[files]]
+file = "structurize/schematics/hive/rabbithutch1.blueprint"
+hash = "584271579747e12cb95de04b49c481de36cae79077f0c1d16f64a5f4f9cfeb56"
+
+[[files]]
+file = "structurize/schematics/hive/rabbithutch2.blueprint"
+hash = "b6af764f84d89d62d25ae44ca129460ce51bff15649a724858a2e1f6120f055e"
+
+[[files]]
+file = "structurize/schematics/hive/rabbithutch3.blueprint"
+hash = "a12aab76a0f982b9bd9cb4705f16303b21fd7f0cb89767284195ecc60afabd47"
+
+[[files]]
+file = "structurize/schematics/hive/rabbithutch4.blueprint"
+hash = "1a6fd3b6401149cbf51c052a3ea27233d922383684a831193355fd27a498aca9"
+
+[[files]]
+file = "structurize/schematics/hive/rabbithutch5.blueprint"
+hash = "d353d9fe481c5e0c81a34203a4c9d555a1b490e37ae740882f248d706a694344"
+
+[[files]]
+file = "structurize/schematics/hive/sawmill1.blueprint"
+hash = "1e3b9556780e443c8ef5e4c8feb5052c04e7978b189f0cc17d8f07227917eb54"
+
+[[files]]
+file = "structurize/schematics/hive/sawmill2.blueprint"
+hash = "af3cebc49b38278f76d4326452a2a29e448da4fe35a1492e3a59d0f72e5723f3"
+
+[[files]]
+file = "structurize/schematics/hive/sawmill3.blueprint"
+hash = "6c5c468e5a7637d66a7d7a6bc85fa395b7467014825a2465de95115e18ea4a1a"
+
+[[files]]
+file = "structurize/schematics/hive/sawmill4.blueprint"
+hash = "7ae8d6fd59131a45597eb8fe72e812fd597690eb29af46ff92f3bb5a6dd31922"
+
+[[files]]
+file = "structurize/schematics/hive/sawmill5.blueprint"
+hash = "eb94bae49455bd70140d15950bc0cd284ed24424bb6258459e49dee58f38841c"
+
+[[files]]
+file = "structurize/schematics/hive/school1.blueprint"
+hash = "25a8b2f1ca9e80b180e14a3ccdf04027deac4dfae569e166c125b9e9026d922c"
+
+[[files]]
+file = "structurize/schematics/hive/school2.blueprint"
+hash = "7b5a2e20e4e37ada212ff59b47b073f3d3560098c371e2bd690da871ae8e52d0"
+
+[[files]]
+file = "structurize/schematics/hive/school3.blueprint"
+hash = "bd2f6f44e3a0af6d5baea23b126808f3ba4ae5ce2e27a1e48e87d54a6a33d29a"
+
+[[files]]
+file = "structurize/schematics/hive/school4.blueprint"
+hash = "488bd360c9fb335251fbf015a987f8fab98b0886ff1b5a7935efa5cec2b331dc"
+
+[[files]]
+file = "structurize/schematics/hive/school5.blueprint"
+hash = "79f4c8494f088fd369315852aace4da89b8a8b387262ef3a953d2924b6739942"
+
+[[files]]
+file = "structurize/schematics/hive/shepherd1.blueprint"
+hash = "1ae5e715b6a5ef5a66c68df6ba42cb907e7816fa1a1918f7464b114935cb6972"
+
+[[files]]
+file = "structurize/schematics/hive/shepherd2.blueprint"
+hash = "e524801214fa2595d61dac4dd41cf4c6c28eff019dc05c31a3dd7b5e5fef3131"
+
+[[files]]
+file = "structurize/schematics/hive/shepherd3.blueprint"
+hash = "84615118de7412387a5680ac3002611c97a4c223d5c8399eaec23b9044cd067c"
+
+[[files]]
+file = "structurize/schematics/hive/shepherd4.blueprint"
+hash = "d7c7428b9a1536552c4c092bf576a2e95dd2b66e25d357b956813607da7ccc2b"
+
+[[files]]
+file = "structurize/schematics/hive/shepherd5.blueprint"
+hash = "c78d7919480393f4056aac678f0d4b3936312cabcf7215c9903b13aba31caad5"
+
+[[files]]
+file = "structurize/schematics/hive/sifter1.blueprint"
+hash = "d65b84151aa57ef469cd20df2a574c599fedd371234db27bbf29329cd8a47823"
+
+[[files]]
+file = "structurize/schematics/hive/sifter2.blueprint"
+hash = "597149b74d7b7e80f81e238223620dff8df94d8610e3821ef0ac486a33276004"
+
+[[files]]
+file = "structurize/schematics/hive/sifter3.blueprint"
+hash = "6debbaef0d90c0d871e925583418701cc9d7f565dfc63ca9c6875f0339f1658d"
+
+[[files]]
+file = "structurize/schematics/hive/sifter4.blueprint"
+hash = "70814934afb3610f56df1494fd281519d51cccbdb1682e0901213612a2e7d558"
+
+[[files]]
+file = "structurize/schematics/hive/sifter5.blueprint"
+hash = "fdf3c7b517b235e6e107cf3019f50edcf68c941dee2ecb7c9f359abf96a54293"
+
+[[files]]
+file = "structurize/schematics/hive/smeltery1.blueprint"
+hash = "9cb6041bc2d24f2d52adc531452d7ecb2736c3838ebc3ac7e0b11dd0d0bbf013"
+
+[[files]]
+file = "structurize/schematics/hive/smeltery2.blueprint"
+hash = "d154cba8e8ae14b3eaf6f5845e502c5e954d33120d026faa4e2ad99bebf9a047"
+
+[[files]]
+file = "structurize/schematics/hive/smeltery3.blueprint"
+hash = "7bb5cf0b63767d95f140e9eb2416439ef654a122e4dfedf8af59211fef84a145"
+
+[[files]]
+file = "structurize/schematics/hive/smeltery4.blueprint"
+hash = "bf30210b7e5afe88292496111ad1a835a1d10f3ad7fad9969c3d2666e6c3d223"
+
+[[files]]
+file = "structurize/schematics/hive/smeltery5.blueprint"
+hash = "cfa238c7b4fc42113d52461a74ced486700ed435ca159b3e360e73b58aa1ecb5"
+
+[[files]]
+file = "structurize/schematics/hive/stonemason1.blueprint"
+hash = "602e9279203da21d82698c2c7df2d39259369ae999623436e2c1e545078b2f4f"
+
+[[files]]
+file = "structurize/schematics/hive/stonemason2.blueprint"
+hash = "beafde468781fc89419ef32b3b8f2f7e16858d29e90a1313f91590d6b03e7948"
+
+[[files]]
+file = "structurize/schematics/hive/stonemason3.blueprint"
+hash = "ed1868916bdbfccab56a0f5756f1cc86289a65025577c66bcd391a03487ec00e"
+
+[[files]]
+file = "structurize/schematics/hive/stonemason4.blueprint"
+hash = "280739fb893f19dc6fdd5e098f69fd301f54756044a1749f2345814d50acd501"
+
+[[files]]
+file = "structurize/schematics/hive/stonemason5.blueprint"
+hash = "501399eff853592a395365166a071ac04d48b3f069aaff2657253d76e834d46f"
+
+[[files]]
+file = "structurize/schematics/hive/stonesmeltery1.blueprint"
+hash = "06064e33ffbe721b4a000fbf6f6fa3b0ff237b04bbe2d3bf24cd3957fc02b6b6"
+
+[[files]]
+file = "structurize/schematics/hive/stonesmeltery2.blueprint"
+hash = "fc99ba27908820cd82a5310aa7182826348bdf986c97d71326d61c1c8a638dc9"
+
+[[files]]
+file = "structurize/schematics/hive/stonesmeltery3.blueprint"
+hash = "83c65c3870c5c5e5b8925c7b99455cb428da56dbae4d2a0f36baa479818533ec"
+
+[[files]]
+file = "structurize/schematics/hive/stonesmeltery4.blueprint"
+hash = "64887bb6ecb85971580927e56c6a668507e0b9855375746a3bd54afc644b50a6"
+
+[[files]]
+file = "structurize/schematics/hive/stonesmeltery5.blueprint"
+hash = "08912ede3fcf7e4ba6f3396afcf571567cbff6d92f016e038eb84338421fcc13"
+
+[[files]]
+file = "structurize/schematics/hive/swineherder1.blueprint"
+hash = "1446e21bb71aea2f18fae41c39785263a2de46aefb3a6a3074ac9c30488bf517"
+
+[[files]]
+file = "structurize/schematics/hive/swineherder2.blueprint"
+hash = "11d2e4a82f6156b27d8e4217273e21f9e0b7b48bd4c0d7f2ced9d037e1200dff"
+
+[[files]]
+file = "structurize/schematics/hive/swineherder3.blueprint"
+hash = "33a0ad977ceb53e5faa1c784fa3887fcddc55697a0b08659979606ca3a65f9b0"
+
+[[files]]
+file = "structurize/schematics/hive/swineherder4.blueprint"
+hash = "e0d14206dc12622b8c2c75f44ffb601bac7b442f037e4e26b6ebef63a3376818"
+
+[[files]]
+file = "structurize/schematics/hive/swineherder5.blueprint"
+hash = "53a8e20e9d1f7aa7140c8042c6dee2b119408401091ead1298d3cbe8cd293815"
+
+[[files]]
+file = "structurize/schematics/hive/tavern1.blueprint"
+hash = "d3cf47796cb45b352a3c468597a76063909a356bc778b488764ef62354fb95d3"
+
+[[files]]
+file = "structurize/schematics/hive/tavern2.blueprint"
+hash = "dedd10f833a918174dde88f0d8ba49869e6127d0a90ea471a26ac75c85408980"
+
+[[files]]
+file = "structurize/schematics/hive/tavern3.blueprint"
+hash = "29b2e7d9af06ef4bae51c8a8461ab76fb4fe0296bb68bb99a9a302ba37558415"
+
+[[files]]
+file = "structurize/schematics/hive/townhall1.blueprint"
+hash = "d1f814dac33d76ca03e93290e514a7433dad1b6143b0c11bf499c38461f99fe0"
+
+[[files]]
+file = "structurize/schematics/hive/townhall2.blueprint"
+hash = "2ea32e1b551736c8b0d9bbcfd468966cac757050f335097faeccfa576db06dfb"
+
+[[files]]
+file = "structurize/schematics/hive/townhall3.blueprint"
+hash = "708a4fee32fff055da7557c625612f5ab9ce7147a592b127869b1f86ee127c97"
+
+[[files]]
+file = "structurize/schematics/hive/townhall4.blueprint"
+hash = "e191597c443aa54170c7c0131fb13f2c3ce67cd332ea5bf285a92eaa9a599588"
+
+[[files]]
+file = "structurize/schematics/hive/townhall5.blueprint"
+hash = "c3ea7b20e0aa4cd35fd51ff3d7bba42a8a97c90b7f29bfc7a1b20133c7fd0997"
+
+[[files]]
+file = "structurize/schematics/hive/university1.blueprint"
+hash = "e903ad1fabba3255458c81f4f4989289d27817cf762a925648e9a67c0c76351b"
+
+[[files]]
+file = "structurize/schematics/hive/university2.blueprint"
+hash = "6d6931cd999e20586cec8ed6b2d82e78b1a9104023c3716ddcb04dbc3cd80c6f"
+
+[[files]]
+file = "structurize/schematics/hive/university3.blueprint"
+hash = "3ec013ba2b9048c5f51176be491a09b08996f5e390953a91dab51323b8d69636"
+
+[[files]]
+file = "structurize/schematics/hive/university4.blueprint"
+hash = "5f98f7482e38045e858e3769450288927cb2a45d15b618214b53e6e4527b2388"
+
+[[files]]
+file = "structurize/schematics/hive/university5.blueprint"
+hash = "79df26d29531463e11fe373f37a6c291050de9ee40b8d9a1d0b4dc9286708d2a"
+
+[[files]]
+file = "structurize/schematics/hive/warehouse1.blueprint"
+hash = "f8d4a645f5a7bcc14a9b7221fa9212b7e79139ab98b52939fa318cb773e93e53"
+
+[[files]]
+file = "structurize/schematics/hive/warehouse2.blueprint"
+hash = "7e2f2f90b9f7ead1603770049f17a4f57611eab429d4418faad344d8ee528651"
+
+[[files]]
+file = "structurize/schematics/hive/warehouse3.blueprint"
+hash = "daf54939d5f3a7d23f5c82bf89b113a4d979b3b2ad04b1ac5c596c4e8cf89ab2"
+
+[[files]]
+file = "structurize/schematics/hive/warehouse4.blueprint"
+hash = "71d3f2df9224ddd3c5c14959c6838754585682260317c41b2e84b1d8574bac98"
+
+[[files]]
+file = "structurize/schematics/hive/warehouse5.blueprint"
+hash = "9cca673aa8166ca683b4ae9fccb690a36668a3ed16cf32c3e35f222761ca2280"
+
+[[files]]
+file = "structurize/schematics/infrastructure/frontier/adapter1.blueprint"
+hash = "448d687bc48c703518d5e4322913fc1a42c0fa849329b9aedec25912c8178b76"
+
+[[files]]
+file = "structurize/schematics/infrastructure/frontier/adapter2.blueprint"
+hash = "61e01f4efaa00de758afdcb686ed5bfb5bb81b6749a91cd227a51f9ecff394f0"
+
+[[files]]
+file = "structurize/schematics/infrastructure/frontier/adapter3.blueprint"
+hash = "7d3dec52d16f304744239bd7590e9b72309a2a77e567605178af8cd206ecf526"
+
+[[files]]
+file = "structurize/schematics/infrastructure/frontier/corner_r1.blueprint"
+hash = "5e0bf6aeec66a312456d6016f2f03c224353407e666d1bf66ef8c56f643af4c5"
+
+[[files]]
+file = "structurize/schematics/infrastructure/frontier/corner_r2.blueprint"
+hash = "0973bcb0279a7f6d6ca95c43e6a865d9accd9e7e2bc582fc68fcd0024ff1b21d"
+
+[[files]]
+file = "structurize/schematics/infrastructure/frontier/corner_r3.blueprint"
+hash = "c4e607a05a660f7b74b7ce810820e27e081a5dc381bfb5c294ae6f731cc7a906"
+
+[[files]]
+file = "structurize/schematics/infrastructure/frontier/intersection_r1.blueprint"
+hash = "5ba898b6411ea5a9debadfd7bb76189f07a6c8a1cfd51335ccabe06e71254ed0"
+
+[[files]]
+file = "structurize/schematics/infrastructure/frontier/intersection_r2.blueprint"
+hash = "cf5c7a44aaa889a546f8af440e1b48a57a53b66d384edbb2b004785ffdec4479"
+
+[[files]]
+file = "structurize/schematics/infrastructure/frontier/intersection_r3.blueprint"
+hash = "e274f06475dc028a5dc90be9f9c24e7d3698674710df2f8298eae0788e94553b"
+
+[[files]]
+file = "structurize/schematics/infrastructure/frontier/longroad1.blueprint"
+hash = "fd34c8b04add914c8daf8960c793da523f97474d1d937edb0471d04ad4593a6b"
+
+[[files]]
+file = "structurize/schematics/infrastructure/frontier/longroad2.blueprint"
+hash = "0192863989c3b229227a0afc2d8963801b35eb7575445e46b7cfaa9b0244c7bc"
+
+[[files]]
+file = "structurize/schematics/infrastructure/frontier/longroad3.blueprint"
+hash = "df1ab240008f0e6112ed8b79874b829e9c8a82a155b4549ff38696478a6993c3"
+
+[[files]]
+file = "structurize/schematics/infrastructure/frontier/steproad1.blueprint"
+hash = "d320b160b0fcf4582d3a9746ed5a92e14caab5bbe1a884f8428194cfa88c32b8"
+
+[[files]]
+file = "structurize/schematics/infrastructure/frontier/steproad2.blueprint"
+hash = "e5d9d57983ee29b6d7176f8cf88ebe04a880fda9de06e1b49ed62a3b9bc9a2f9"
+
+[[files]]
+file = "structurize/schematics/infrastructure/frontier/steproad3.blueprint"
+hash = "7d003d0d6431f9570862cb2b9e6170946cfe62b6c4a53a804b341876b9832c5d"
+
+[[files]]
+file = "structurize/schematics/infrastructure/frontier/t_road1.blueprint"
+hash = "cc910a86e6612376b6c04d95748274e7f3362040c01ddff080e4b1b2bc9c649c"
+
+[[files]]
+file = "structurize/schematics/infrastructure/frontier/t_road2.blueprint"
+hash = "d9df682c26056342c347fd7208e6a55f50e0fb41695c7302e7ec5fc683444470"
+
+[[files]]
+file = "structurize/schematics/infrastructure/frontier/t_road3.blueprint"
+hash = "0cac36ac5bbcf766646bf4dbe7840b879799b578415122b8babf6764f40a4454"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/corner1.blueprint"
+hash = "48692c6a45383f2794399fdcce945d7c6df4260d90b98b1d9d81f63794044072"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/corner2.blueprint"
+hash = "ef9d42cbc39bebd0579b6b5062ff912f6380fdd128ba33f2e0285d8258f4332d"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/corner3.blueprint"
+hash = "598828d9e48fd7b931bfd2ce07331f4fc57841469047f5cede4557ecf023afa9"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/intersection1.blueprint"
+hash = "6bc4675e8751df9c6ac8068e1abab6ec20ab163724bcf5dd3b9e18f419fd8f19"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/intersection2.blueprint"
+hash = "9cbb94bfa180909586cabf436ef4d5f67c1b309dd3f65eb82a7d4727d75fb727"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/intersection3.blueprint"
+hash = "f45e3cee99aa9cfa414d5006813d4bbca120550eb0d0361c321dc2e4d5ae1d56"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/longrail1.blueprint"
+hash = "ab45c4271e075c36301f8f87c08cd1b6ac8239be1ad8dd292b787b7a56498ba8"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/longrail2.blueprint"
+hash = "f71da235de57edd176ab61378bc6db3cc773753a589de98f52e50de088b615b5"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/longrail3.blueprint"
+hash = "363b037c8f3cadd2155c7d658322c0b2d3bcabbd064d6e74835a54a37309c8ee"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/stairstep1.blueprint"
+hash = "7c635be2f4cc6e1d17d20ac90df965e632a8508947ce6140d64045a19e9debec"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/stairstep2.blueprint"
+hash = "5eae95a6dfa47427469b1f2ae90570f9fa5384b146ae8a508835e86eaa77d7ea"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/stairstep3.blueprint"
+hash = "186684b65ca684669d3cf50a1799645814c225fa69b611b686dc3818c982f72b"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/station1.blueprint"
+hash = "300282d9ccc00e746d5772e0c076d0833eea187bdbbd245d1bf072964a8ba92c"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/station2.blueprint"
+hash = "b34accc344fe8fbdcd7a96783a34acf6a93a4be736b1115ec70f9a0452c7d334"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/station3.blueprint"
+hash = "0797f9bd607aaa657269e6e9b6bfc0ef6a4d98db9c14b250b6b05f0dcf900112"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/stepquad1.blueprint"
+hash = "c83f912d797ef63a6d5c427028ffbc8f8f2ec06633558c302c94f52b4867f517"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/stepquad2.blueprint"
+hash = "96866590f0db4c069b1f03a2e606a1c30a18539847e053e13449edc669a1c353"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/stepquad3.blueprint"
+hash = "ed3226851e0811a70358d7b0e9d836691f5b98126915094acec42c79a1423833"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/t_rail1.blueprint"
+hash = "93770a63b805b7ff3d612afb96fb5dbb9f104c06002dd00f35d38b5827114d73"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/t_rail2.blueprint"
+hash = "57dd15d95a2fdd95f255bc30f8caa840a85928d86f89429b3e1d322237119223"
+
+[[files]]
+file = "structurize/schematics/rail/frontier/t_rail3.blueprint"
+hash = "d911e5c9e7533fc082f654ac7ea28951cc8d1242d1c53243e2a4b2a05ef0842c"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/adapter1.blueprint"
+hash = "a134ed9aba33bd51a577682c18adf657d8be8554bbe0c41bd0df25507a79deca"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/adapter2.blueprint"
+hash = "086ad55de735a1eacf7ecc2e0b77264cdac2efe6b6247d4af07e4246d24d8550"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/adapter3.blueprint"
+hash = "c982ed3643432914f127b656cfc1d5d8e1f82399d7da64236c69ec169a1199d2"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/corner_r1.blueprint"
+hash = "8b331d2448114084b32ee0c67ef340a477e81d213f5c27491f16268ddb3ce248"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/corner_r2.blueprint"
+hash = "55ade985a7e5f68a42d79856e3e5778078716bbd461ec4b7059fd483abb0b9d5"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/corner_r3.blueprint"
+hash = "c2c92a483bd9d4941c72d5153522f143f7c20e9b630929b245f9730494a6f1b2"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/intersection_r1.blueprint"
+hash = "a0ef27ca365da66c51bbc2aaeeb02f72c0752d751d98590b157efb0e269c1b77"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/intersection_r2.blueprint"
+hash = "e6c7fd550b4fbdda196d300369975dae4b0ba79eae57eac68e310dd377040838"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/intersection_r3.blueprint"
+hash = "f4069a4e9ce697d6468d967d0c173833dec565fe8f27d2c7c840cd697a41bc8d"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/longroad1.blueprint"
+hash = "e30127f7468a4363a8578346aa5d582fb938ad2143119f212936f1b6ae5fdc45"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/longroad2.blueprint"
+hash = "9521e0d7d49828bb07dca64ef2d10a88d6433628c6ae5ed110a809f341cd6865"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/longroad3.blueprint"
+hash = "37f93d1717123bb04840fc44415d23d37222e32b5a2f8d5545896ad850e306bc"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/stairstep_r1.blueprint"
+hash = "e2653033b29961d8eba60e348b0ada631ecf852d6971477fecfa1e73aa118082"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/stairstep_r2.blueprint"
+hash = "c4b1d087d96ebd152b4d9fcb1a6a9a2dca390722405c58887f665ac17c9e447e"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/stairstep_r3.blueprint"
+hash = "96d60810b7a177ae594dd3af429ae98898432b4d2b61c324eb12fc5617e5edbe"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/steproad1.blueprint"
+hash = "4bb13b7e11367fc0cb74c220b1aaabe981ff5f97b639583b910200a1dfaaa66e"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/steproad2.blueprint"
+hash = "1cf18eab6750de2dfec3b84ee1e92ff2b11f9f0a3a0d2805f507ab9c528c7d52"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/steproad3.blueprint"
+hash = "eae2d154637dbdb4ef63022daaea1079abbd016274e1cf7ac527b5bea58d70b8"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/t_field1.blueprint"
+hash = "f505ed15bc9416a9822a7773b7d04b5dc6721780f113e0762264f2bc6d511241"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/t_field2.blueprint"
+hash = "06f27af68c8a9fabe1a8adf96442d7c347346362ee9fa5d66380bd347d1f51e9"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/t_road1.blueprint"
+hash = "89efc3d53ac8e31b157f85e30397cde7d06b9bd4894cf2cbcb94e7428c9ff57b"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/t_road2.blueprint"
+hash = "18cd015a97ec3cb33b5deeaba5a5bf9dd827adb3d5e58e3d8bb96822cb56c8cd"
+
+[[files]]
+file = "structurize/schematics/roads/frontier/t_road3.blueprint"
+hash = "f90de8c95599539fc76e4c8fe9089e5c14e4a1546c02f0975019457ffdc6664d"
+
+[[files]]
+file = "structurize/schematics/steampunk/citizen1.blueprint"
+hash = "54736aafb75bd5d8d459906bac889b164ec239a181d3491d79bc29a08374d6be"
+
+[[files]]
+file = "structurize/schematics/steampunk/citizen2.blueprint"
+hash = "1d39f47d756e2a129bd2d1db329065361ae26eb58d9b6bbca0a3bd56c496dba2"
+
+[[files]]
+file = "structurize/schematics/steampunk/citizen3.blueprint"
+hash = "e558b61aaf768a636432bee2f0dfdd33ac8f0cf433dc7f5036783dd134e8315f"
+
+[[files]]
+file = "structurize/schematics/steampunk/citizen4.blueprint"
+hash = "5a48a7b7eaea6874c2284c2eb72dc286f15f881e361bedae3835de04d3ff1426"
+
+[[files]]
+file = "structurize/schematics/steampunk/citizen5.blueprint"
+hash = "612226f09456a80e761ba707ad98ddf76cf47d773dfd9418e572968a6343a2fb"
+
+[[files]]
+file = "structurize/schematics/supplycamp/bumblebeehole.blueprint"
+hash = "8802f2301ea2b3ca8e95ae6e088d574fd9d1e8a629c5f726eb3c15093872f2fc"
+
+[[files]]
+file = "structurize/schematics/supplycamp/frontiersupplycamp.blueprint"
+hash = "c8fcc40090b140e7e0e1df68549ef304b121c16dd1e30742049bfa77c7632dbd"
+
+[[files]]
+file = "structurize/schematics/supplycamp/hornetnest.blueprint"
+hash = "c90e9882110185328cadffa8a415de1dd930378c21d8768bf6459f9a8a17caa8"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/cornerwall1.blueprint"
+hash = "dd26f293f94358341a0afc81f40bd19235e54433bcb06ccba4c4957b4bc10f0e"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/cornerwall2.blueprint"
+hash = "5142903fd134c279990d7d60c6f683b30ccb27e169de12b6c81d150b5dc5ff16"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/cornerwall3.blueprint"
+hash = "c5b1e285d68d6f2eb47861200a30917e5de6d2c218ff302681f877d20d7df785"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/gate1.blueprint"
+hash = "b788fb9f9527cb7a661889bc8ea63c0f7741d2b098effd871cbd52f92471a39c"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/gate2.blueprint"
+hash = "3d8d154339fc6048cc1ea75afce004eb4eec061c606691f9f86ca8288993a8b4"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/gate3.blueprint"
+hash = "0eb5040ed77dc18b788d9004e97db467d67ffe8138f7d4588c93ad5b419a7678"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/insidecornerwall1.blueprint"
+hash = "ede283e057a1bab7147bf3bd680b266d2f234de92cf92317b06ea43c081bda0c"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/insidecornerwall2.blueprint"
+hash = "4acb3aa873cd32d76931f43380dae20910019f0403935b971705faa9cc294f79"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/insidecornerwall3.blueprint"
+hash = "e3749d44d78229499a94fb4cfbaeca91a7c41cb714f5f5d5d86dbef567b78b29"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/longwall1.blueprint"
+hash = "5f1b220e17872378a977db68f32ccb84fc95a936f0dbbfd1a656c2ae795bd102"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/longwall2.blueprint"
+hash = "28ba70905c6f06151cdc250d56059c111fdaaa3352981ac0e5bba7bc90a2374a"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/longwall3.blueprint"
+hash = "f68f7a9559db290e2be62e849cd3796aef06588e6677d83a619ff3f24c45fc6d"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/stationwall1.blueprint"
+hash = "5ff50f5a79e0d03c575ff4a1824d09bfaaf73ce73aae69f4825467c5a6340f5e"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/stationwall2.blueprint"
+hash = "3bf5e9848d74fa0c796a4ea887bdf44946dcc4ac522b882b23ba346909828bc4"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/stationwall3.blueprint"
+hash = "7c1670ae0e471f2acc0245ad55c969823578c68d5398d3b199a3f7118b6e8554"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/stepquadwall1.blueprint"
+hash = "a2162f89ede16e70011a1bd298109efe521154bc7a63ee6ebff86c7e0abecb44"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/stepquadwall2.blueprint"
+hash = "0e5935153efabe0dea2aca4c32ab4a7a68a03c140a9734c1cf4514ea2508dbe2"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/stepquadwall3.blueprint"
+hash = "93ffa00508bd79b37bd56fa9019b25268edfd41752491c3d1c0fe12cc0dffaf6"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/t_wall1.blueprint"
+hash = "97974977d3ace601d147354cd308ba9d61b3e9d0148bd712dc4360a7e16df1e5"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/t_wall2.blueprint"
+hash = "e002707e72df1fc799c6d32108b99490d8fd95b3cb01d7e5d714352f47719459"
+
+[[files]]
+file = "structurize/schematics/walls/frontier/t_wall3.blueprint"
+hash = "3d2eb5c7fea168705e8d9c3d1fe453420c0b3b684597ed3d58b82f685cfc6fae"
